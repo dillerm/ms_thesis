@@ -64,6 +64,7 @@ def format_date_for_fname(date_string):
 
     return date_string_for_fname
 
+
 def scrap_report_content(html_content, url):
     '''
     Take as input the html content; return headers and content of each report subsection, and the date and url
@@ -112,56 +113,54 @@ def scrap_report_content(html_content, url):
             return report_dict
 
 
-initial_request = urllib.request.Request(site, headers=headers)
+if __name__ == '__main__':
+    initial_request = urllib.request.Request(site, headers=headers)
 
-print("Opening web page....")
-index_page = urllib.request.urlopen(initial_request)
+    print("Opening web page....")
+    index_page = urllib.request.urlopen(initial_request)
 
-print("Parsing latest report....")
-soup = BeautifulSoup(index_page, 'html.parser')
+    print("Parsing latest report....")
+    soup = BeautifulSoup(index_page, 'html.parser')
 
-find_links = soup.find_all("a")
+    find_links = soup.find_all("a")
 
-reports_lst = list()
+    for link in find_links:
+        if "Archive" in str(link.string) or "archive" in str(link.string): # Look for link to archive of reports
+            link_to_archives = domain + link["href"]
 
-for link in find_links:
-    if "Archive" in str(link.string) or "archive" in str(link.string): # Look for link to archive of reports
-        link_to_archives = domain + link["href"]
+            latest_report_content = scrap_content(link_to_archives) # Scrap HTML content of latest archived report
 
-        latest_report_content = scrap_content(link_to_archives) # Scrap HTML content of latest archived report
+            next_report_url = find_next_url(latest_report_content)
 
-        next_report_url = find_next_url(latest_report_content)
+            #reports_lst.append(scrap_report_content(latest_report_content, link_to_archives)) # Scrap specific textual information from report
 
-        reports_lst.append(scrap_report_content(latest_report_content, link_to_archives)) # Scrap specific textual information from report
+            while True: # Initiate while loop for scraping all previous reports
+                reports_lst = list()
 
-        while True: # Initiate while loop for scraping all previous reports
-            try:
-                page_content = scrap_content(next_report_url)
-                report_url = next_report_url
+                try:
+                    page_content = scrap_content(next_report_url)
+                    report_url = next_report_url
 
-            except http.client.HTTPException:
-                print("Disconnected from server. Please stand by.")
-                time.sleep(30)
+                except http.client.HTTPException:
+                    print("Disconnected from server. Please stand by.")
+                    time.sleep(30)
+
+                else:
+                    next_report_url = find_next_url(page_content)
+
+                    reports_lst.append(scrap_report_content(page_content, report_url))
+
+                    date_of_report = format_date_for_fname(page_content.find(selected=True).string)
+                    fname = "usgs_avian_flu_report_" + date_of_report + ".json"
+
+                    print("Writing to JSON...")
+
+                    #with open(fname, 'w') as report_f:
+                        #json.dump(reports_lst, report_f, indent="\t")
+
+                finally:
+                    if not next_report_url:
+                        break
 
             else:
-                next_report_url = find_next_url(page_content)
-
-                reports_lst.append(scrap_report_content(page_content, report_url))
-
-                date_of_report = format_date_for_fname(page_content.find(selected=True).string)
-                fname = "usgs_avian_flu_report_" + date_of_report + ".json"
-
-                print("Writing to JSON...")
-
-                with open(fname, 'w') as report_f:
-                    json.dump(reports_lst, report_f, indent="\t")
-
-            finally:
-                if not next_report_url:
-                    break
-
-        else:
-            print("Done.")
-
-#with open('test.json', 'a') as report_f:
-    #json.dump(reports_lst, report_f)
+                print("Done.")
