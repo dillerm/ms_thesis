@@ -1,22 +1,14 @@
-[
-	{
-		"subsection_header_8": ")",
-		"subsection_header_4": "Bangladesh",
-		"subsection_header_7": "Indonesia",
-		"subsection_content_1": "On August 11, 2010, the World Health Organization announced that the H1N1 flu pandemic is over. Flu activity worldwide has returned to typical seasonal patterns and furthermore, many people have become immune to the virus. \"The world is no longer in phase 6 of influenza pandemic alert,\" said WHO Director-General Margaret Chan in a press briefing from Hong Kong. \"We are now moving into the post-pandemic period. The H1N1 virus has largely run its course.\" But she cautioned that the virus has not gone away and bears continued watching, \"We expect the H1N1 virus to take on the behavior of a seasonal influenza virus and continue to circulate for some years to come.\" The pandemic had been at a full phase 6 since June 11, 2009. In additional to infecting people in 214 countries and causing at least 18,500 deaths, during the pandemic there were 97 reports of H1N1 flu in animals, most of them domestic. The first report was from a farm in Alberta, Canada, in May 2009, soon after the outbreak was first reported in people in Mexico. A total of 21 countries have since reported infections in domestic animals (mainly pigs) and companion animals (cats, dogs and ferrets).",
-		"subsection_content_4": ". On June 19 an outbreak of H5N1 bird flu in Narayanganj District was reported.",
-		"subsection_content_6": ". Quang Nam and Thai Nguyen provinces experienced outbreaks of H5N1 bird flu in June. The most recent outbreak was on July 18 in chickens and Muscovy ducks in Gia Lai province.",
-		"subsection_header_6": "Vietnam",
-		"subsection_header_3": "Egypt",
-		"subsection_content_3": ". There were a total of eight cases of H5N1 bird flu in five governorates during June: 1 in Dakahlia, 2 in Fayoum, 1 in Menoufia, 1 in Qalioubiya, and 3 in Sixth of October. Most of the outbreaks were in household poultry; one occurred on a commercial farm in Dakahlia governorate.",
-		"subsection_header_2": "Russian Federation",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=193",
-		"subsection_content_7": ". An outbreak of H5N1 bird flu that killed hundreds of chickens in Bengkulu province may have spread to humans. A 19-year-old was admitted to M Yunus regional hospital with suspected bird flu on August 6. The patient had developed a fever and sore throat after burying chickens days before. \u201cWe\u2019re treating a bird flu suspect patient in an isolation unit, but we\u2019re still not sure whether the patient has bird flu or not,\u201d director of M Yunus hospital, Dr. Zulman Zuri confirmed. \u201cFor now we don\u2019t suspect bird flu infection because patient is getting better after being treated here. We\u2019re collecting throat swab every day for three days and send it to NHIRD, Ministry of Health laboratory. We have done chest x-ray too, but still waiting for the laboratory result,\u201d added Zulman. The hospital has prepared two special rooms for bird flu patients that are guarded and equipped for the safety of patients and health workers.\r\n            (",
-		"subsection_content_5": ". The Participatory Disease Surveillance & Response (PDSR) programme covers 71,033 villages in 84% of Indonesia\u2019s 448 districts and municipalities in 29 of its 33 provinces, using a network of 33 Local Disease Control Centres. During May 2010, PDSR conducted surveillance in 1,978 villages (2.8%). The overall H5N1 bird flu incidence was 0.6 infected villages per 1,000 villages under surveillance. The four provinces with the highest incidence values were Yogyakarta, Sumatera Barat, Kalimantan Timur, and Lampung. Some newly infected villages were found during May with 14 in Sumatra, 29 in Java, and 2 in Kalimantan.",
-		"subsection_header_5": "Indonesia",
-		"subsection_content_2": ". A total of 367 wild birds were found dead on June 5 on Ubsu-Nur Lake, Republic of Tuva, near the border of Mongolia. Affected species included great crested grebe (Podiceps cristatus), goosander (Mergus merganser), grey heron (Ardea cinerea), gadwall (Anas strepera) and Eurasian spoonbill (Platalea leucorodia). Samples tested positive for H5N1 by PCR.",
-		"subsection_header_1": "News Update, August 16",
-		"report_date": "2010-08-16",
-		"subsection_content_8": "Back"
-	}
-]
+{
+	"header_1": "H5N1 in Wild Birds in Russian Federation",
+	"content_1": ". A total of 367 wild birds were found dead on June 5 on Ubsu-Nur Lake, Republic of Tuva, near the border of Mongolia. Affected species included great crested grebe (Podiceps cristatus), goosander (Mergus merganser), grey heron (Ardea cinerea), gadwall (Anas strepera) and Eurasian spoonbill (Platalea leucorodia). Samples tested positive for H5N1 by PCR.",
+	"header_2": "H5N1 in Poultry in Egypt",
+	"content_2": ". There were a total of eight cases of H5N1 bird flu in five governorates during June: 1 in Dakahlia, 2 in Fayoum, 1 in Menoufia, 1 in Qalioubiya, and 3 in Sixth of October. Most of the outbreaks were in household poultry; one occurred on a commercial farm in Dakahlia governorate.",
+	"header_3": "H5N1 in Poultry in Bangladesh",
+	"content_3": ". On June 19 an outbreak of H5N1 bird flu in Narayanganj District was reported.",
+	"header_4": "H5N1 in Poultry in Indonesia",
+	"content_4": ". The Participatory Disease Surveillance & Response (PDSR) programme covers 71,033 villages in 84% of Indonesia’s 448 districts and municipalities in 29 of its 33 provinces, using a network of 33 Local Disease Control Centres. During May 2010, PDSR conducted surveillance in 1,978 villages (2.8%). The overall H5N1 bird flu incidence was 0.6 infected villages per 1,000 villages under surveillance. The four provinces with the highest incidence values were Yogyakarta, Sumatera Barat, Kalimantan Timur, and Lampung. Some newly infected villages were found during May with 14 in Sumatra, 29 in Java, and 2 in Kalimantan.",
+	"header_5": "H5N1 in Poultry in Vietnam",
+	"content_5": ". Quang Nam and Thai Nguyen provinces experienced outbreaks of H5N1 bird flu in June. The most recent outbreak was on July 18 in chickens and Muscovy ducks in Gia Lai province.",
+	"header_6": "H5N1 in Humans in Indonesia",
+	"content_6": ". An outbreak of H5N1 bird flu that killed hundreds of chickens in Bengkulu province may have spread to humans. A 19-year-old was admitted to M Yunus regional hospital with suspected bird flu on August 6. The patient had developed a fever and sore throat after burying chickens days before. “We’re treating a bird flu suspect patient in an isolation unit, but we’re still not sure whether the patient has bird flu or not,” director of M Yunus hospital, Dr. Zulman Zuri confirmed. “For now we don’t suspect bird flu infection because patient is getting better after being treated here. We’re collecting throat swab every day for three days and send it to NHIRD, Ministry of Health laboratory. We have done chest x-ray too, but still waiting for the laboratory result,” added Zulman. The hospital has prepared two special rooms for bird flu patients that are guarded and equipped for the safety of patients and health workers.\r\n            (more...)"
+}

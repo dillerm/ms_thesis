@@ -1,18 +1,12 @@
-[
-	{
-		"subsection_header_4": "Ukraine.",
-		"subsection_content_1": "Nothing new to report this week",
-		"subsection_content_4": "Thousands of chickens have died at a poultry processing plant in Shpol in the northern province of Cherkassy. Health officials are testing the carcasses for H5N1. Interfax reports that state inspectors are also sampling wild birds in the area.",
-		"subsection_content_6": "Back",
-		"subsection_header_6": ")",
-		"subsection_header_3": "South Korea.",
-		"subsection_content_3": "Two additional cases of bird flu have been reported in Iksan in southwestern Korea; 2,500 chickens died at one farm and 450 at another, the Ministry for Food, Agriculture, Forestry and Fisheries said. The farms are located 25 km from a location where H5N1 was confirmed last week. Also, a suspected case of bird flu has been reported in a duck farm in Nonsan in South Chungcheong province. This is the first time in the current outbreak where a central province in South Korea may be affected. The farm is located 213 km south of Seoul. Of  50 suspect cases, 26 have been confirmed as avian influenza and eight are reported as negative so far. The farm ministry announced on April 21 that it plans to cull 5.3 million birds.",
-		"subsection_header_2": "India.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=80",
-		"subsection_content_5": "A two-year-old boy from the delta province of Sharkia has tested positive for H5N1. The boy developed symptoms on April 13 and is being treated with antivirals at the Al-Abbasiya Chest Hospital in Cairo. The boy has had a history of contact with sick and dead poultry. (",
-		"subsection_header_5": "Egypt.",
-		"subsection_content_2": "Bird flu has been confirmed for a second and third time in the remote northeastern state of Tripura. Eight villages in Tripura, on the Bangladesh border, were affected earlier this month and over 25,000 ducks and chickens have been culled, but the new outbreaks in the villages of Kalachari and Nadilad are located just 40 km, according to a senior animal resource official. H5N1 has been detected in birds from Kalachari, located 130 km from the state capital of Agartala. Tripura's animal resource commissioner said: \u201cKalachari is just a few metres from the Bangladesh border. We believe illegal trade or movement of poultry between Kalachari and Bangladesh may have caused the virus to return to the state.\"  In Nadilad, H5N1 was detected in samples from dead birds.",
-		"subsection_header_1": "H5N1 in Wild birds",
-		"report_date": "2008-04-30"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds",
+	"content_1": "Nothing new to report this week",
+	"header_2": "H5N1 in Poultry in India",
+	"content_2": "Bird flu has been confirmed for a second and third time in the remote northeastern state of Tripura. Eight villages in Tripura, on the Bangladesh border, were affected earlier this month and over 25,000 ducks and chickens have been culled, but the new outbreaks in the villages of Kalachari and Nadilad are located just 40 km, according to a senior animal resource official. H5N1 has been detected in birds from Kalachari, located 130 km from the state capital of Agartala. Tripura's animal resource commissioner said: “Kalachari is just a few metres from the Bangladesh border. We believe illegal trade or movement of poultry between Kalachari and Bangladesh may have caused the virus to return to the state.\"  In Nadilad, H5N1 was detected in samples from dead birds.",
+	"header_3": "H5N1 in Humans in South Korea",
+	"content_3": "Two additional cases of bird flu have been reported in Iksan in southwestern Korea; 2,500 chickens died at one farm and 450 at another, the Ministry for Food, Agriculture, Forestry and Fisheries said. The farms are located 25 km from a location where H5N1 was confirmed last week. Also, a suspected case of bird flu has been reported in a duck farm in Nonsan in South Chungcheong province. This is the first time in the current outbreak where a central province in South Korea may be affected. The farm is located 213 km south of Seoul. Of  50 suspect cases, 26 have been confirmed as avian influenza and eight are reported as negative so far. The farm ministry announced on April 21 that it plans to cull 5.3 million birds.",
+	"header_4": "H5N1 in Humans in Ukraine",
+	"content_4": "Thousands of chickens have died at a poultry processing plant in Shpol in the northern province of Cherkassy. Health officials are testing the carcasses for H5N1. Interfax reports that state inspectors are also sampling wild birds in the area.",
+	"header_5": "H5N1 in Humans in Egypt.",
+	"content_5": "A two-year-old boy from the delta province of Sharkia has tested positive for H5N1. The boy developed symptoms on April 13 and is being treated with antivirals at the Al-Abbasiya Chest Hospital in Cairo. The boy has had a history of contact with sick and dead poultry. (more...)"
+}

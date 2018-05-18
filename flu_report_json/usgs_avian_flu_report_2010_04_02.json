@@ -1,16 +1,10 @@
-[
-	{
-		"subsection_header_4": "Egypt",
-		"subsection_content_1": ". According to a report from the National Veterinary Service on March 29, a \u201cfallen\u201d common buzzard in Varna tested positive for H5N1 bird flu. The bird was found by veterinary inspectors who were monitoring influenza among domestic and wild birds in Bulgaria.  Results have been confirmed by the National Diagnosis and Research Veterinary Institute in Sofia.",
-		"subsection_content_4": ". The Ministry of Health announced on March 28 that a 30-year-old woman from Damietta Governorate has been diagnosed with bird flu. She was admitted to the hospital on March 24, treated with oseltamivir, and is in critical condition. An investigation indicated that the source of the illness is likely exposure to sick and dead poultry. The case was confirmed by the Egyptian Central Public Health Laboratories.\r\n            (",
-		"subsection_header_3": "Romania",
-		"subsection_content_3": ". On March 27 the veterinary and food safety authority announced a second outbreak of H5N1 in the county of Tulcea. Two chickens in a village on the border with Ukraine had symptoms consistent with bird flu and the entire flock raised by the household has been culled to prevent the spread of the disease. \"No other sick birds were found in the rest of the village and no wild birds have been found dead in the area,\" sanitary authorities said. Samples from the two ill chickens will be sent to Weybridge Laboratory in Britain for testing. A confirmed outbreak of bird flu occurred on another farm in Tulcea county two weeks ago. During that outbreak 49 birds were found dead and surveillance and disinfection measures were taken to prevent the spread of the disease.",
-		"subsection_header_2": "Hong Kong",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=175",
-		"subsection_content_5": "Back",
-		"subsection_header_5": ")",
-		"subsection_content_2": ". According to the Agriculture, Fisheries & Conservation Department, a barn swallow found dead on March 26 in Yuen Long tested positive for H5N1 bird flu. The Mai Po Nature Reserve in Yuen Long will be closed to visitors for 21 days beginning from March 31 as a precaution. Five chicken farms within a three kilometer radius of the spot where the bird was found were inspected by departmental staff and no abnormal mortalities or symptoms of bird flu were found. The farms will be placed under enhanced surveillance. The department will also increase the inspection of poultry farms, the wholesale market, and the Yuen Po Street Bird Garden.",
-		"subsection_header_1": "Bulgaria",
-		"report_date": "2010-04-02"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds in Bulgaria",
+	"content_1": ". According to a report from the National Veterinary Service on March 29, a “fallen” common buzzard in Varna tested positive for H5N1 bird flu. The bird was found by veterinary inspectors who were monitoring influenza among domestic and wild birds in Bulgaria.  Results have been confirmed by the National Diagnosis and Research Veterinary Institute in Sofia.",
+	"header_2": "H5N1 in Wild birds in Hong Kong",
+	"content_2": ". According to the Agriculture, Fisheries & Conservation Department, a barn swallow found dead on March 26 in Yuen Long tested positive for H5N1 bird flu. The Mai Po Nature Reserve in Yuen Long will be closed to visitors for 21 days beginning from March 31 as a precaution. Five chicken farms within a three kilometer radius of the spot where the bird was found were inspected by departmental staff and no abnormal mortalities or symptoms of bird flu were found. The farms will be placed under enhanced surveillance. The department will also increase the inspection of poultry farms, the wholesale market, and the Yuen Po Street Bird Garden.",
+	"header_3": "H5N1 in Poultry in Romania",
+	"content_3": ". On March 27 the veterinary and food safety authority announced a second outbreak of H5N1 in the county of Tulcea. Two chickens in a village on the border with Ukraine had symptoms consistent with bird flu and the entire flock raised by the household has been culled to prevent the spread of the disease. \"No other sick birds were found in the rest of the village and no wild birds have been found dead in the area,\" sanitary authorities said. Samples from the two ill chickens will be sent to Weybridge Laboratory in Britain for testing. A confirmed outbreak of bird flu occurred on another farm in Tulcea county two weeks ago. During that outbreak 49 birds were found dead and surveillance and disinfection measures were taken to prevent the spread of the disease.",
+	"header_4": "H5N1 in Humans in Egypt",
+	"content_4": ". The Ministry of Health announced on March 28 that a 30-year-old woman from Damietta Governorate has been diagnosed with bird flu. She was admitted to the hospital on March 24, treated with oseltamivir, and is in critical condition. An investigation indicated that the source of the illness is likely exposure to sick and dead poultry. The case was confirmed by the Egyptian Central Public Health Laboratories.\r\n            (more...)"
+}

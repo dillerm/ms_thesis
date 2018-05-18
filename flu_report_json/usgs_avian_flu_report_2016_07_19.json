@@ -1,14 +1,6 @@
-[
-	{
-		"subsection_header_2": "Ghana (HPAI H5N1)",
-		"subsection_content_2": "Dr Kenneth M. K. Gbeddy, Chief Veterinary Officer, Veterinary Services Directorate, Ministry of Food and Agriculture, reported 2 different outbreaks of avian influenza in Ghana.  The first began in Old Amanfro, Ga South, Greater Accra on 7/01/16 where 250 birds died.   The second was in Kasoa, Ewutu Senya East Municipality, Central province where 766 adult cockerals, hens, and cocks either died or were destroyed.",
-		"subsection_header_4": "Taiwan (HPAI H5N8)",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=483",
-		"subsection_content_4": "The Bureau of Animal and Plant Health Inspection and Quarantine (BAPHIQ) reported on three new cases of avian influenza infection from July 3 to 5.  A total of 495 geese were culled after H5N8 was confirmed at a poultry farm in the eastern county of Hualien.  In Kaohsiung, a total of 834 chicken carcasses were destroyed, and local health authorities traced the origin of the contaminated chicken carcasses to a poultry farm in neighboring Pingtung County and disinfected the premises.  Thirdly, 1,048 geese at a farm in the Xinhua District of Tainan in southern Taiwan were destroyed after samples from the farm tested positive.",
-		"subsection_content_1": "The Food and Agriculture Organization of the United Nations reported that four separate outbreaks of avian influenza in farms with mixed flocks in four govenorates. Two were in Qaliubiya, and one each in   Assiut, and Menia. A total of 56 birds were destroyed. The first outbreak occurred on 7/4/16 and the last on 7/5/16.",
-		"subsection_content_3": "The Governor of Wasit, Iraq, Malik Khalaf Elwadi, announced today on 7/10/16 that entry of live chickens and eggs was banned to the province because of the spread of bird flu among people in the areas south of Baghdad. The ban was imposed after the governor received information and reports indicating the exposure of a number of citizens in the areas south of Baghdad, including the Al Madaen, and Al Wehdah neighborhoods. Local media sources are reporting outbreaks in adjacent Wasit province. A statement from the ministry of Agriculture as well as the Ministry of Health may be forthcoming to clarify the situation since so few details were provided.",
-		"subsection_header_1": "Egypt (HPAI H5N1)",
-		"report_date": "2016-07-19",
-		"subsection_header_3": "Iraq (unspecificd bird flu-likely to be HPAI H5N1)"
-	}
-]
+{
+	"header_1": "Egypt (HPAI H5N1)",
+	"content_1": "The Food and Agriculture Organization of the United Nations reported that four separate outbreaks of avian influenza in farms with mixed flocks in four govenorates. Two were in Qaliubiya, and one each in   Assiut, and Menia. A total of 56 birds were destroyed. The first outbreak occurred on 7/4/16 and the last on 7/5/16.",
+	"header_2": "Ghana (HPAI H5N1) in Iraq (unspecificd bird flu-likely to be HPAI H5N1)",
+	"content_2": "Dr Kenneth M. K. Gbeddy, Chief Veterinary Officer, Veterinary Services Directorate, Ministry of Food and Agriculture, reported 2 different outbreaks of avian influenza in Ghana.  The first began in Old Amanfro, Ga South, Greater Accra on 7/01/16 where 250 birds died.   The second was in Kasoa, Ewutu Senya East Municipality, Central province where 766 adult cockerals, hens, and cocks either died or were destroyed.The Governor of Wasit, Iraq, Malik Khalaf Elwadi, announced today on 7/10/16 that entry of live chickens and eggs was banned to the province because of the spread of bird flu among people in the areas south of Baghdad. The ban was imposed after the governor received information and reports indicating the exposure of a number of citizens in the areas south of Baghdad, including the Al Madaen, and Al Wehdah neighborhoods. Local media sources are reporting outbreaks in adjacent Wasit province. A statement from the ministry of Agriculture as well as the Ministry of Health may be forthcoming to clarify the situation since so few details were provided."
+}

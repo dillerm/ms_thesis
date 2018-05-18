@@ -1,12 +1,6 @@
-[
-	{
-		"subsection_header_2": "Indonesia",
-		"subsection_content_2": ". Tests at the Health Ministry\u2019s laboratory in Jakarta on July 16 confirmed bird flu as the cause of death for a 13-year-old girl. The girl developed symptoms on Jun 14th and died on June 24th.  The girl was from Sukuharjo district and had handled a dead chicken before developing influenza-like symptoms.\r\n            (",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=190",
-		"subsection_content_1": ". Thousands of chickens have died in the past three weeks in three villages in Bengkulu province. Inspection by animal infectious disease control personnel on June 20 confirmed H5N1 as the cause of death. Poultry in the area were immediately quarantined in another location to prevent infection. Officials have asked communities to watch for symptoms of bird flu, to burn or bury any birds that are ill, and to report any incidents immediately to the local government.",
-		"subsection_content_3": "Back",
-		"subsection_header_1": "Indonesia",
-		"report_date": "2010-07-23",
-		"subsection_header_3": ")"
-	}
-]
+{
+	"header_1": "H5N1 in Poultry in Indonesia",
+	"content_1": ". Thousands of chickens have died in the past three weeks in three villages in Bengkulu province. Inspection by animal infectious disease control personnel on June 20 confirmed H5N1 as the cause of death. Poultry in the area were immediately quarantined in another location to prevent infection. Officials have asked communities to watch for symptoms of bird flu, to burn or bury any birds that are ill, and to report any incidents immediately to the local government.",
+	"header_2": "H5N1 in Humans in Indonesia",
+	"content_2": ". Tests at the Health Ministry’s laboratory in Jakarta on July 16 confirmed bird flu as the cause of death for a 13-year-old girl. The girl developed symptoms on Jun 14th and died on June 24th.  The girl was from Sukuharjo district and had handled a dead chicken before developing influenza-like symptoms.\r\n            (more...)"
+}

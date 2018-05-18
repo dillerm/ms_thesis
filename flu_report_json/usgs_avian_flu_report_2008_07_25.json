@@ -1,8 +1,12 @@
-[
-	{
-		"subsection_content_1": "News Update, July 24",
-		"subsection_header_1": "South Korea.",
-		"report_date": "2008-07-25",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=94"
-	}
-]
+{
+  "header_1": "H5N1 in Wild birds in South Korea",
+  "content_1": "A house cat that died in Gimje along the Mangyeong River is being tested for bird flu. H5N1 was detected in the Gimje area in April of this year, though no outbreaks have been reported since May 12. It is unknown whether the cat died recently or at the time of the last outbreak, but Dr. Kim Chul-joong from the Chungnam National University said, \"We (have) isolated the highly pathogenic strain of avian flu from the dead cat found along the Mangyeong River in Gimje,\" and has asked the National Veterinary Research and Quarantine Service to confirm the result. An article in the local newspaper, the Chosun, said that if the death is confirmed, the authorities may order a cull of cats, dogs and wild animals. South Korea will begin year-round monitoring for bird flu, using 23 teams around the country to monitor resident and migratory birds. Poultry farms will also be inspected every two weeks with special attention to the 2,384 duck farms - the type of bird responsible for the most serious bird flu outbreaks. \"Because of this decision, the government will require even small duck farms to be registered so they can be checked,\" said Lee Sang-Kil, head of the ministry's livestock policy bureau. South Korea had been hoping to declare itself free from avian influenza in August if no new cases were reported.",
+  "header_2": "H5N1 in Wild birds in Ukraine",
+  "content_2": "Ukraine has released information regarding two avian influenza outbreaks that occurred in February of this year near Sevastopolsky, Crimea. Eight wild birds were affected by the virus, with most of them living near bodies of water, especially in Crimean bays on the northern shore of the Black Sea.",
+  "header_3": "H5N1 in Poultry in Vietnam",
+  "content_3": "A new outbreak of bird flu has killed 350 chickens at a household farm in Tan Nhuan Dong commune in the Mekong delta province. The Department of Animal Health said that specimens have tested positive for H5N1. Another outbreak has occurred in Nghe An province where 30 chickens and 160 ducks died at a local farm. A nearby veterinary agency detected bird flu from the samples and the remaining animals have been culled. The last outbreak of H5N1 in Vietnam was last week at a poultry farm in Long An province.",
+  "header_4": "H5N1 in Poultry in UK",
+  "content_4": "The British Poultry Council has released guidelines for turkey producers aimed at reducing risk for bird flu. BPC's executive officer, Jeremy Blackburn, noted \"The two major 2007 outbreaks in free-range turkey flocks were almost certainly caused by contact with wild ducks and geese.\" The guidelines state that free-range producers should have provisions in place to house their entire flock indoors, perhaps in simple temporary shelters made from straw bales and netting. These measures are intended to further protect Britain and its inhabitants from bird flu, which has been present in the country since October 2005.",
+  "header_5": "H5N1 in Humans in UK",
+  "content_5": "The House of Lords in London has released a report that warns the next pandemic is likely to originate from bird flu and could kill 50 million people worldwide. The report notes that 75% of new human disease originates from animals and that diseases are only identified after they infect people. The report calls for a new disease surveillance system in developing countries, including a reorganization of the WHO."
+}

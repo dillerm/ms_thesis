@@ -1,8 +1,12 @@
-[
-	{
-		"subsection_content_1": "News Update, July 31",
-		"subsection_header_1": "South Korea.",
-		"report_date": "2008-08-01",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=95"
-	}
-]
+{
+  "header_1": "H5N1 in Wild birds in South Korea",
+  "content_1": "A domestic cat has tested positive for bird flu. The cat died last week near the Mangyeong River in Gimje, and the Ministry for Food, Agriculture, Forestry and Fisheries has confirmed that the cat died from avian influenza H5N1. This case marks the first mammal to die from the disease in South Korea, and any plans for future culling of cats, or other animals, is unknown.",
+  "header_2": "H5N1 in Wild birds in Hong Kong",
+  "content_2": "Two birds found at the Olympic Games equestrian sports facility are being tested for possible infection with H5N1. The equestrian events had been moved from Beijing to Hong Kong because of concerns with substandard quarantine procedures and equine diseases on the Chinese mainland.",
+  "header_3": "H5N1 in Wild birds in UK",
+  "content_3": "80 seabirds that died recently are being tested for bird flu. The birds, mostly black-backed gulls, died in the Peedie Sea near Orkney, and had a blue substance on their feathers. Further testing is being done to ascertain the cause of death, and to confirm or rule out H5N1.",
+  "header_4": "H5N1 in Poultry in Nigeria",
+  "content_4": "Chickens and a duck from live-bird markets have tested positive for avian influenza. The chickens were found in the western state of Kebbi in June, and the duck was found in the eastern state of Gombe in July. The birds were tested as part of a routine surveillance procedure to find and eliminate H5N1 and officials have stated that the \"available evidence so far suggests contact with wild birds may have led to the infection.\"",
+  "header_5": "H5N1 in Humans in Thailand",
+  "content_5": "Two children, 6 and 10, and two women, 62 and 70, have been cleared of suspected bird flu. All four patients showed clinical symptoms similar to those of bird flu, and the public health authority of Phichit province, said all four had contact with dead poultry prior to falling ill. While cleared of having H5N1, three were found to have seasonal influenza, and precautions are being taken to monitor relatives of the sick patients for the next 12 days."
+}

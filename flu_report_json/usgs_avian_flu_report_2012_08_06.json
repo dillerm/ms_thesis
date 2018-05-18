@@ -1,10 +1,6 @@
-[
-	{
-		"subsection_header_2": "Vietnam",
-		"subsection_content_2": ".  In the Quang Binh and Hai Duong provinces of Vietnam last month, outbreaks of H5N1 bird flu occurred in four separate villages.  Out of 17,642 total birds, 3,560 died from the virus while another 13,082 were culled to prevent the spread of disease.  Additional control measures that have been adopted include a quarantine of infected areas, movement control measures, and disinfection of affected areas.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=271",
-		"subsection_content_1": ".  Last fall, 162 harbor seals were stranded or died in the New England area of the United States. This week, a team of scientists including from the UGS published findings that suggest the seals had died from a novel H3N8 flu virus. The seal virus is closely related to strains of avian influenza strain commonly seen in wild birds.  The seal virus contains mutations that have been shown to enable other flu viruses to infect mammals better and raises concern of the threat posed by this virus to both animals and people.  This discovery indicates novel flu strains may emerge from unanticipated sources and has made scientists aware of the necessity to quickly identify new viruses and their potential risks to animals and humans alike.",
-		"subsection_header_1": "Seals (H3N8)",
-		"report_date": "2012-08-06"
-	}
-]
+{
+	"header_1": "Seals (H3N8)",
+	"content_1": ".  Last fall, 162 harbor seals were stranded or died in the New England area of the United States. This week, a team of scientists including from the UGS published findings that suggest the seals had died from a novel H3N8 flu virus. The seal virus is closely related to strains of avian influenza strain commonly seen in wild birds.  The seal virus contains mutations that have been shown to enable other flu viruses to infect mammals better and raises concern of the threat posed by this virus to both animals and people.  This discovery indicates novel flu strains may emerge from unanticipated sources and has made scientists aware of the necessity to quickly identify new viruses and their potential risks to animals and humans alike.",
+	"header_2": "H5N1 in Poultry in Vietnam",
+	"content_2": ".  In the Quang Binh and Hai Duong provinces of Vietnam last month, outbreaks of H5N1 bird flu occurred in four separate villages.  Out of 17,642 total birds, 3,560 died from the virus while another 13,082 were culled to prevent the spread of disease.  Additional control measures that have been adopted include a quarantine of infected areas, movement control measures, and disinfection of affected areas."
+}

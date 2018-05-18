@@ -1,12 +1,6 @@
-[
-	{
-		"subsection_header_2": "Cambodia (H5N1)",
-		"subsection_content_2": "The World Health Organization and the Cambodian Health Ministry confirmed two new human cases of H5N1 earlier this week. The latest victims, a nine-year-old boy from the Battambang province, and a five-year-old girl from the Kandal province, both had contact with sick or dead poultry before becoming ill. The Cambodian Health Minister is urging parents and guardians to keep their children away from sick or dead poultry and to wash their hands frequently as they are at a very high risk of contracting the virus. This year, there have been 16 cases of H5N1 in Cambodia alone, 11 resulting in death.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=314",
-		"subsection_content_1": "The Bhaktapur District Livestock Office confirmed five new cases of H5N1 earlier this week, raising the total number of outbreaks to 36 in the past four weeks. A rapid response team culled 3,905 chickens and destroyed 1,566 eggs and 100 kg of chicken feed at the infected farms. Officials remain on high alert and continue to test farms throughout the area in hopes to prevent the disease from spreading to more farms in the district.",
-		"subsection_content_3": "Chinese Health officials reported earlier this week that a 51-year-old woman tested positive for the H7N9 virus. The woman, from the Guangdong province, was a poultry slaughtering worker in a local market for many years, and is in critical condition. None of the 36 people who have had close contact with the victim are showing flu-like symptoms. In hopes to prevent the disease from spreading, the Guangdong Provincial Agricultural Department distributed five tons of disinfectant across the province. To date, 133 people in Mainland China have contracted the H7N9 virus, with 43 cases resulting in death.",
-		"subsection_header_1": "Nepal (H5N1)",
-		"report_date": "2013-08-19",
-		"subsection_header_3": "China (H7N9)"
-	}
-]
+{
+	"header_1": "Nepal (H5N1)",
+	"content_1": "The Bhaktapur District Livestock Office confirmed five new cases of H5N1 earlier this week, raising the total number of outbreaks to 36 in the past four weeks. A rapid response team culled 3,905 chickens and destroyed 1,566 eggs and 100 kg of chicken feed at the infected farms. Officials remain on high alert and continue to test farms throughout the area in hopes to prevent the disease from spreading to more farms in the district. Avian Influenza in Humans",
+	"header_2": "Cambodia (H5N1)",
+	"content_2": "The World Health Organization and the Cambodian Health Ministry confirmed two new human cases of H5N1 earlier this week. The latest victims, a nine-year-old boy from the Battambang province, and a five-year-old girl from the Kandal province, both had contact with sick or dead poultry before becoming ill. The Cambodian Health Minister is urging parents and guardians to keep their children away from sick or dead poultry and to wash their hands frequently as they are at a very high risk of contracting the virus. This year, there have been 16 cases of H5N1 in Cambodia alone, 11 resulting in death."
+}

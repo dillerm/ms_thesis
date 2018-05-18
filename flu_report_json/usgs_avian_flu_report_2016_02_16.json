@@ -1,12 +1,6 @@
-[
-	{
-		"subsection_header_2": "Taiwan (HPAI H5N2)",
-		"subsection_content_2": "The Animal Health Inspection and Protection Office confirmed a case of highly pathogenic H5N2 avian influenza virus at a chicken farm in Tainan.  After suspicious deaths were reported, the farm was quarantined, and samples were taken for laboratory testing.  The remaining 5,847 birds were culled to prevent further spread of the disease.  This is the 15th farm in Taiwan to be infected with avian influenza this year, the cause of this outbreak was not reported.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=458",
-		"subsection_content_1": "The World Organisation for Animal Health (OIE) reports new cases of highly pathogenic H5N1 avian influenza virus in the Federal Capital Territory, and the states of Adamawa, Ebonyi, Jigawa, Kaduna, Kano, and Plateau.  Samples were sent to the National Veterinary Research Institute, where avian influenza was confirmed.  A total of 4,708 birds died of the virus, and the remaining 41,105 were culled to prevent it spreading further.  Additional control measures include: movement control; disinfection; quarantine; surveillance; stamping out; and official destruction of animal products. The cause of these outbreaks is unknown, but poor farm biosecurity was observed.",
-		"subsection_content_3": "The Centre for Health Protection (CHP) has announced that 2 additional human cases of H7N9 avian influenza virus have been diagnosed.  The first, a 73-year-old man from Guangdong province began displaying symptoms on February 2, and was confirmed to have poultry contact before this.  The patient was admitted to the hospital on February 5, and he remains in serious condition.  The second patient is a 66-year-old man who was also admitted to a hospital on February 5, and is currently under management.",
-		"subsection_header_1": "Nigeria (HPAI H5N1)",
-		"report_date": "2016-02-16",
-		"subsection_header_3": "China (H7N9)"
-	}
-]
+{
+	"header_1": "Nigeria (HPAI H5N1)",
+	"content_1": "The World Organisation for Animal Health (OIE) reports new cases of highly pathogenic H5N1 avian influenza virus in the Federal Capital Territory, and the states of Adamawa, Ebonyi, Jigawa, Kaduna, Kano, and Plateau.  Samples were sent to the National Veterinary Research Institute, where avian influenza was confirmed.  A total of 4,708 birds died of the virus, and the remaining 41,105 were culled to prevent it spreading further.  Additional control measures include: movement control; disinfection; quarantine; surveillance; stamping out; and official destruction of animal products. The cause of these outbreaks is unknown, but poor farm biosecurity was observed.",
+	"header_2": "Taiwan (HPAI H5N2)",
+	"content_2": "The Animal Health Inspection and Protection Office confirmed a case of highly pathogenic H5N2 avian influenza virus at a chicken farm in Tainan.  After suspicious deaths were reported, the farm was quarantined, and samples were taken for laboratory testing.  The remaining 5,847 birds were culled to prevent further spread of the disease.  This is the 15th farm in Taiwan to be infected with avian influenza this year, the cause of this outbreak was not reported. Avian Influenza in Humans"
+}

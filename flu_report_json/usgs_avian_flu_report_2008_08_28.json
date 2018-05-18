@@ -1,14 +1,10 @@
-[
-	{
-		"subsection_header_2": "India.",
-		"subsection_content_2": "Avian influenza strains found in both India and neighboring Bangladesh appear to be genetically related. The Times of India reports that a source in the Indian animal husbandry department said \"...India and Bangladesh finally exchanged genetic information [regarding] H5N1 strains. We have found that both the strains are related. However, we can't say that Bangladesh was the cause of the outbreak in West Bengal because we don't have documented proof to show that infected poultry was smuggled into India.\"  Scientists requested information on the H5N1 strain from Bangladesh during an outbreak earlier this year, but it was not shared until this month.  It is unknown which of the viruses, from India or Bangladesh, was the primary cause of the outbreak in either location.",
-		"subsection_header_4": ")",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=99",
-		"subsection_content_4": "Back",
-		"subsection_content_1": "Two chickens have tested positive for H5 avian influenza at a market in Lokossa.  The chickens, purchased for personnel training at the Veterinary Laboratory of Parakou, tested positive for bird flu but the subtype was not described.  The last public outbreak of bird flu in Benin was in December of 2007 in Dangbo.",
-		"subsection_content_3": "No news this week.(",
-		"subsection_header_1": "Benin.",
-		"report_date": "2008-08-28",
-		"subsection_header_3": "H5N1 in Humans."
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds",
+	"content_1": "No news this week.",
+	"header_2": "H5N1 in Poultry",
+	"content_2": "Benin. Two chickens have tested positive for H5 avian influenza at a market in Lokossa.  The chickens, purchased for personnel training at the Veterinary Laboratory of Parakou, tested positive for bird flu but the subtype was not described.  The last public outbreak of bird flu in Benin was in December of 2007 in Dangbo. India. Avian influenza strains found in both India and neighboring Bangladesh appear to be genetically related. The Times of India reports that a source in the Indian animal husbandry department said \"...India and Bangladesh finally exchanged genetic information [regarding] H5N1 strains. We have found that both the strains are related. However, we can't say that Bangladesh was the cause of the outbreak in West Bengal because we don't have documented proof to show that infected poultry was smuggled into India.\"  Scientists requested information on the H5N1 strain from Bangladesh during an outbreak earlier this year, but it was not shared until this month.  It is unknown which of the viruses, from India or Bangladesh, was the primary cause of the outbreak in either location.",
+	"header_3": "Benin. in H5N1 in Humans.",
+	"content_3": "Two chickens have tested positive for H5 avian influenza at a market in Lokossa.  The chickens, purchased for personnel training at the Veterinary Laboratory of Parakou, tested positive for bird flu but the subtype was not described.  The last public outbreak of bird flu in Benin was in December of 2007 in Dangbo.",
+	"header_4": "India. in H5N1 in Humans.",
+	"content_4": "Avian influenza strains found in both India and neighboring Bangladesh appear to be genetically related. The Times of India reports that a source in the Indian animal husbandry department said \"...India and Bangladesh finally exchanged genetic information [regarding] H5N1 strains. We have found that both the strains are related. However, we can't say that Bangladesh was the cause of the outbreak in West Bengal because we don't have documented proof to show that infected poultry was smuggled into India.\"  Scientists requested information on the H5N1 strain from Bangladesh during an outbreak earlier this year, but it was not shared until this month.  It is unknown which of the viruses, from India or Bangladesh, was the primary cause of the outbreak in either location.H5N1 in Humans.No news this week.(more...)"
+}

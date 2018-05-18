@@ -1,12 +1,6 @@
-[
-	{
-		"subsection_header_2": "South Africa",
-		"subsection_content_2": ". Officials from the Department of Agriculture, Forestry and Fisheries recently reported three outbreaks of low pathogenic H7N7 on commercial ostrich farms in Oudtshoorn and George in the Western Cape Province of South Africa. Out of 9,047 birds, 3,012 were confirmed to have been infected with the virus. Various control measures being applied include quarantine, movement control, and screening.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=311",
-		"subsection_content_1": ". Officials from the Nepalese Department of Livestock Services confirmed three outbreaks of the highly pathogenic H5N1 avian influenza virus earlier this week. In the Narayani and Lumbini Zones, out of 1,675 birds, 410 died while 1,165 were destroyed to prevent further spread of the virus. The source of these outbreaks remains unknown. Various control measures being applied include stamping out, movement control, quarantine, and disinfection of contaminated areas.",
-		"subsection_content_3": "A recent article, \"Isolation and characterization of two H5N1 influenza viruses from swine in Jiangsu Province of China,\" published in Archives of Virology, investigates whether or not the H5N1 virus has ever been transmitted to pigs. Scientists in the Jiangsu province of eastern China collected a total of 1,107 nasal swab samples from healthy pigs from 2008-2009. From these samples, two H5N1 viruses were isolated and identified. One of the viruses was moderately pathogenic to mice while the other virus had limited ability to replicate, leading scientists to conclude that \u201cpigs are naturally infected with avian H5N1\u201d and that the virus has \u201cthe potential threat to public health due to adaption or reassortment of H5N1 virus in this species.\u201d",
-		"subsection_header_1": "Nepal",
-		"report_date": "2013-07-15",
-		"subsection_header_3": "H5N1 Research"
-	}
-]
+{
+	"header_1": "H5N1 in Poultry in Nepal",
+	"content_1": ". Officials from the Nepalese Department of Livestock Services confirmed three outbreaks of the highly pathogenic H5N1 avian influenza virus earlier this week. In the Narayani and Lumbini Zones, out of 1,675 birds, 410 died while 1,165 were destroyed to prevent further spread of the virus. The source of these outbreaks remains unknown. Various control measures being applied include stamping out, movement control, quarantine, and disinfection of contaminated areas.",
+	"header_2": "H7N7 in Poultry in South Africa",
+	"content_2": ". Officials from the Department of Agriculture, Forestry and Fisheries recently reported three outbreaks of low pathogenic H7N7 on commercial ostrich farms in Oudtshoorn and George in the Western Cape Province of South Africa. Out of 9,047 birds, 3,012 were confirmed to have been infected with the virus. Various control measures being applied include quarantine, movement control, and screening."
+}

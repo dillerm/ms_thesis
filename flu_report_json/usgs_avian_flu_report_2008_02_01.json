@@ -1,18 +1,10 @@
-[
-	{
-		"subsection_header_4": "Indonesia",
-		"subsection_content_1": ". About 1,000 crows have died in Barisal, Patuakhai and Dinajpur districts. It is suspected that the crows are eating  dead H5N1-infected chickens discarded improperly, such as in canals and ponds. Bangladesh has closed its border with India as the country deals with bird flu which has spread to 30 out of 64 districts. Bangladesh shares a long and porous border with India, which is also struggling to contain an outbreak of H5N1.",
-		"subsection_content_4": ". A physician writing to ProMED said that during the investigation into the source of one of the H5N1 outbreaks in Riau province, Indonesia, some of the general public became concerned about a nearby swallow farm (possibly cave swiftlets,",
-		"subsection_content_6": "Back",
-		"subsection_header_6": ")",
-		"subsection_header_3": "India",
-		"subsection_content_3": ". Because of the H5N1 outbreaks in poultry, wild bird monitoring has been stepped up in the forests around Malda and in water bodies near the Farakka Barrage on the border between India and Bangladesh. No sick or dead wild birds have been detected. The Farakka Barrage area contains a large amounts of waterfowl that forage in the rice paddy fields. Around half a dozen birds of an unspecified species have died at the Gharana wetlands on the border between the two countries. While H5N1 has not been reported in the area, samples will be tested as a precaution.",
-		"subsection_header_2": "Belarus.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=64",
-		"subsection_content_5": ", being raised for their edible nests) as a possible source of the virus. Some people burned tires to scare the birds away from a village building used for their nests.  However, within the village (Burung Angsa), testing revealed that eight out of eight geese did test positive for bird flu, though they did not appear to have any symptoms.  The writer concludes that the blame for bird flu \u201cseemed to follow the momentum of the community. There is a quickness to reach a cause or diagnosis, then stick to that despite data to the contrary.\u201d (",
-		"subsection_header_5": "Collocalia fuciphaga",
-		"subsection_content_2": "Border guards confronted an individual on a bicycle trying to smuggle 275 parrots into Belarus (from where not stated).  The border facility could only hold the birds in quarantine for three days. Because testing for bird flu would take over a week, the birds were euthanized,  according to a veterinary service spokesman.",
-		"subsection_header_1": "Bangladesh",
-		"report_date": "2008-02-01"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds in Bangladesh",
+	"content_1": ". About 1,000 crows have died in Barisal, Patuakhai and Dinajpur districts. It is suspected that the crows are eating  dead H5N1-infected chickens discarded improperly, such as in canals and ponds. Bangladesh has closed its border with India as the country deals with bird flu which has spread to 30 out of 64 districts. Bangladesh shares a long and porous border with India, which is also struggling to contain an outbreak of H5N1.Belarus.Border guards confronted an individual on a bicycle trying to smuggle 275 parrots into Belarus (from where not stated).  The border facility could only hold the birds in quarantine for three days. Because testing for bird flu would take over a week, the birds were euthanized,  according to a veterinary service spokesman.",
+	"header_2": "H5N1 in Wild birds in India",
+	"content_2": ". Because of the H5N1 outbreaks in poultry, wild bird monitoring has been stepped up in the forests around Malda and in water bodies near the Farakka Barrage on the border between India and Bangladesh. No sick or dead wild birds have been detected. The Farakka Barrage area contains a large amounts of waterfowl that forage in the rice paddy fields. Around half a dozen birds of an unspecified species have died at the Gharana wetlands on the border between the two countries. While H5N1 has not been reported in the area, samples will be tested as a precaution.",
+	"header_3": "H5N1 in Wild birds in Indonesia",
+	"content_3": ". A physician writing to ProMED said that during the investigation into the source of one of the H5N1 outbreaks in Riau province, Indonesia, some of the general public became concerned about a nearby swallow farm (possibly cave swiftlets,",
+	"header_4": "H5N1 in Wild birds in Collocalia fuciphaga",
+	"content_4": ", being raised for their edible nests) as a possible source of the virus. Some people burned tires to scare the birds away from a village building used for their nests.  However, within the village (Burung Angsa), testing revealed that eight out of eight geese did test positive for bird flu, though they did not appear to have any symptoms.  The writer concludes that the blame for bird flu “seemed to follow the momentum of the community. There is a quickness to reach a cause or diagnosis, then stick to that despite data to the contrary.” (more...)"
+}

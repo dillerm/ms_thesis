@@ -1,0 +1,64 @@
+# x = fixed
+
+------------- Reports with some content missing -------------
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2007_03_08.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2007_10_05.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2008_04_15.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2008_04_30.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2008_08_22.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2011_04_05.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2011_05_18.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2013_04_19.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2013_05_30.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2015_05_11.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2015_09_30.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2015_10_05.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2016_05_06.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2016_12_29.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2017_01_13.html
+x Empty values for following report: flu_report_html/usgs_avian_flu_report_2017_01_23.html
+
+------------- Reports with all content missing -------------
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2006_11_14.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2007_08_14.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2008_07_25.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2008_08_01.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2008_08_11.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2009_05_05.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2009_06_29.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2009_07_24.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2009_08_03.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2009_09_01.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2009_09_21.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2009_10_22.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2009_10_27.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2009_11_20.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2010_09_24.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2010_10_27.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2011_05_25.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2011_05_31.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2011_07_11.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2011_08_19.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2011_08_29.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2011_09_15.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2012_02_02.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2012_03_23.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2012_08_10.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2012_10_12.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2012_10_22.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2012_12_14.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2013_01_03.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2013_02_11.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2013_02_22.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2013_03_21.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2013_05_24.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2013_09_13.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2014_03_07.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2014_03_20.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2014_04_10.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2014_05_23.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2014_05_30.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2014_11_18.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2014_11_26.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2014_12_09.html
+x Did not scrape content for following report: flu_report_html/usgs_avian_flu_report_2015_01_22.html

@@ -1,14 +1,8 @@
-[
-	{
-		"subsection_header_2": "Philippines (HPAI H5)",
-		"subsection_content_2": "Highly pathogenic H5 avian influenza was reported in the Nueva Ecija Province, Philippines on August 18, 2017. The Philippines Bureau of Animal Industry reported the cases in the farming towns of Jaen and San Isidro. The virus resulted in the infection of 200,000 quails, 57,000 native chickens, 28,000 egg-laying chickens, and 22,000 ducks. A 7 kilometer quarantine zone was declared around both sites. The cases were immediately reported and the birds will be culled.",
-		"subsection_header_4": "China (H9N2)",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=525",
-		"subsection_content_4": "Highly pathogenic H9N2 avian influenza was reported in the Guangdong province of China on August 16, 2017. The virus was detected in a two year old child who was in contact with poultry prior to detection. The child\u2019s condition is now considered stable. This strain of bird flu has infected two other people this year. China also faces an epidemic from the H7N9 strain of bird flu.",
-		"subsection_content_1": "Highly pathogenic H5N6 avian influenza was reported in Guizhou Province, China on August 18, 2017. The outbreak of the virus resulted in the culling of 8,100 birds. China\u2019s Ministry and Agriculture reported that the outbreak is now under control.",
-		"subsection_content_3": "Highly pathogenic H5N8 avian influenza was detected in the Mpumalanga and Kwazulu-Natal Provinces of South Africa on August 22, 2017. The virus resulted in the death of 93 birds and the culling of an additional 50,135 birds. The outbreak is considered ongoing and the source of the outbreak is considered unknown. Control measures applied include surveillance within the containment zone, traceability, quarantine, vaccination prohibition, and no treatment of affected animals.",
-		"subsection_header_1": "China (HPAI H5N6)",
-		"report_date": "2017-08-25",
-		"subsection_header_3": "South Africa (HPAI H5N8)"
-	}
-]
+{
+	"header_1": "China (HPAI H5N6)",
+	"content_1": "Highly pathogenic H5N6 avian influenza was reported in Guizhou Province, China on August 18, 2017. The outbreak of the virus resulted in the culling of 8,100 birds. China’s Ministry and Agriculture reported that the outbreak is now under control.",
+	"header_2": "Philippines (HPAI H5)",
+	"content_2": "Highly pathogenic H5 avian influenza was reported in the Nueva Ecija Province, Philippines on August 18, 2017. The Philippines Bureau of Animal Industry reported the cases in the farming towns of Jaen and San Isidro. The virus resulted in the infection of 200,000 quails, 57,000 native chickens, 28,000 egg-laying chickens, and 22,000 ducks. A 7 kilometer quarantine zone was declared around both sites. The cases were immediately reported and the birds will be culled.",
+	"header_3": "South Africa (HPAI H5N8)",
+	"content_3": "Highly pathogenic H5N8 avian influenza was detected in the Mpumalanga and Kwazulu-Natal Provinces of South Africa on August 22, 2017. The virus resulted in the death of 93 birds and the culling of an additional 50,135 birds. The outbreak is considered ongoing and the source of the outbreak is considered unknown. Control measures applied include surveillance within the containment zone, traceability, quarantine, vaccination prohibition, and no treatment of affected animals."
+}

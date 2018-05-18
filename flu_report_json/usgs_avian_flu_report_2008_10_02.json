@@ -1,14 +1,12 @@
-[
-	{
-		"subsection_header_2": "Vietnam.",
-		"subsection_content_2": "More than 50 ducks died from H5N1 on a farm of 500 birds in Ca Mou province on September 22nd. The Animal Health Department said that all of the ducks on the farm were under 45 days old and had not been vaccinated. Vietnam most recently experienced a series of outbreaks in the southern province of Ben Tre near Ho Chi Minh City. A total of 26 provinces have been affected in 2008.",
-		"subsection_header_4": ")",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=104",
-		"subsection_content_4": "Back",
-		"subsection_content_1": "Major changes have been made in the Wild Bird Survey, the program responsible, in part, for avian influenza surveillance. Wild bird biologists and park wardens will monitor live and dead wild birds at designated reserves year round for bird flu; however, birds shot during the hunting season will no longer be tested. The changes are based on improved scientific understanding and experience since the Survey began in 2005. Department for Environment, Food and Rural Affairs chief veterinarian, Nigel Gibbens, said the survey will be kept under review and will be updated as necessary.",
-		"subsection_content_3": "A 48 year old farmer has died of suspected bird flu.  The man was admitted to the hospital September 29th with a high fever, cough, sore throat, chest pains and difficulty breathing, but died the next day.  He worked on a duck farm in the Pho Prathap Chang district that housed 1,600 free range ducks, many of which had died the previous week.  Suspicious poultry deaths have occurred in other areas of the district as well, and the man's 12 year old son is under observation for working at the same farm as his father.(",
-		"subsection_header_1": "UK.",
-		"report_date": "2008-10-02",
-		"subsection_header_3": "Thailand."
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds",
+	"content_1": "UK. Major changes have been made in the Wild Bird Survey, the program responsible, in part, for avian influenza surveillance. Wild bird biologists and park wardens will monitor live and dead wild birds at designated reserves year round for bird flu; however, birds shot during the hunting season will no longer be tested. The changes are based on improved scientific understanding and experience since the Survey began in 2005. Department for Environment, Food and Rural Affairs chief veterinarian, Nigel Gibbens, said the survey will be kept under review and will be updated as necessary.",
+	"header_2": "UK. in H5N1 in Poultry",
+	"content_2": "Major changes have been made in the Wild Bird Survey, the program responsible, in part, for avian influenza surveillance. Wild bird biologists and park wardens will monitor live and dead wild birds at designated reserves year round for bird flu; however, birds shot during the hunting season will no longer be tested. The changes are based on improved scientific understanding and experience since the Survey began in 2005. Department for Environment, Food and Rural Affairs chief veterinarian, Nigel Gibbens, said the survey will be kept under review and will be updated as necessary.H5N1 in Poultry",
+	"header_3": "H5N1 in Poultry",
+	"content_3": "Vietnam. More than 50 ducks died from H5N1 on a farm of 500 birds in Ca Mou province on September 22nd. The Animal Health Department said that all of the ducks on the farm were under 45 days old and had not been vaccinated. Vietnam most recently experienced a series of outbreaks in the southern province of Ben Tre near Ho Chi Minh City. A total of 26 provinces have been affected in 2008.",
+	"header_4": "Vietnam. in H5N1 in Humans.",
+	"content_4": "More than 50 ducks died from H5N1 on a farm of 500 birds in Ca Mou province on September 22nd. The Animal Health Department said that all of the ducks on the farm were under 45 days old and had not been vaccinated. Vietnam most recently experienced a series of outbreaks in the southern province of Ben Tre near Ho Chi Minh City. A total of 26 provinces have been affected in 2008.H5N1 in Humans.",
+	"header_5": "Thailand. in A 48 year old farmer has died of suspected bird flu.  The man was admitted to the hospital September 29th with a high fever, cough, sore throat, chest pains and difficulty breathing, but died the next day.  He worked on a duck farm in the Pho Prathap Chang district that housed 1,600 free range ducks, many of which had died the previous week.  Suspicious poultry deaths have occurred in other areas of the district as well, and the man?s 12 year old son is under observation for working at the same farm as his father.(more...)",
+	"content_5": "A 48 year old farmer has died of suspected bird flu.  The man was admitted to the hospital September 29th with a high fever, cough, sore throat, chest pains and difficulty breathing, but died the next day.  He worked on a duck farm in the Pho Prathap Chang district that housed 1,600 free range ducks, many of which had died the previous week.  Suspicious poultry deaths have occurred in other areas of the district as well, and the man?s 12 year old son is under observation for working at the same farm as his father.(more...)"
+}

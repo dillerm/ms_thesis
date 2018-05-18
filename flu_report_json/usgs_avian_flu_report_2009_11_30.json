@@ -1,14 +1,6 @@
-[
-	{
-		"subsection_header_2": "Ivory Coast",
-		"subsection_content_2": ". The story of a bird flu outbreak in the Ivory Coast has been retracted.  Poisoning is now suspected for the death of 30 wild white-necked ravens (Corvus albicollis) at a school in Abdijan in October.",
-		"subsection_header_4": ")",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=162",
-		"subsection_content_4": "Back",
-		"subsection_content_1": ". More ferrets in Oregon have contracted pandemic H1N1 (2009) flu from contact with infected owners. The first case of H1N1 in a ferret occurred in early October and by the end of the month, nine ferrets owned by a second family in Oregon came down with flu-like symptoms one week after children in the family had been ill with pandemic H1N1 (2009). Three of the ferrets tested positive for H1N1 and it is suspected that the rest have the same virus. Cases of human to animal transmission have caused concern that pets might also transmit the disease to humans, although there has been no documented case of pet to human transmission. Emilo DeBess, the state public health veterinarian, said, \u201cWe are advising vets to take care because of the possibility of animal to human transmission.\u201d Veterinarians and owners are encouraged to wash their hands well when dealing with sick animals.",
-		"subsection_content_3": ". Birds on a poultry farm in Thuringen Province are experiencing an outbreak of low pathogenic bird flu that began on November 19. The farm contains 2,420 birds, 25 of which died from the disease and 10 of which have been destroyed. The source of the outbreak is unknown, but the birds tested positive for low pathogenic bird flu at the Friedrich-Loeffler Institute on November 20. Precautions being taken to prevent the spread of the virus include control of wildlife reservoirs, movement control within the country, screening, zoning, and disinfection of the premises. There are plans to cull the rest of the susceptible animals and destroy their carcasses.\r\n            (",
-		"subsection_header_1": "USA",
-		"report_date": "2009-11-30",
-		"subsection_header_3": "Germany"
-	}
-]
+{
+	"header_1": "H5N1 in Poultry in Ivory Coast",
+	"content_1": ". The story of a bird flu outbreak in the Ivory Coast has been retracted.  Poisoning is now suspected for the death of 30 wild white-necked ravens (Corvus albicollis) at a school in Abdijan in October.",
+	"header_2": "H5N1 in Poultry in Germany",
+	"content_2": ". Birds on a poultry farm in Thuringen Province are experiencing an outbreak of low pathogenic bird flu that began on November 19. The farm contains 2,420 birds, 25 of which died from the disease and 10 of which have been destroyed. The source of the outbreak is unknown, but the birds tested positive for low pathogenic bird flu at the Friedrich-Loeffler Institute on November 20. Precautions being taken to prevent the spread of the virus include control of wildlife reservoirs, movement control within the country, screening, zoning, and disinfection of the premises. There are plans to cull the rest of the susceptible animals and destroy their carcasses.\r\n            (more...)"
+}

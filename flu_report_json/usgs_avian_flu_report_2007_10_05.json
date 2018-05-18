@@ -1,12 +1,8 @@
-[
-	{
-		"subsection_header_2": "H5N1 in Humans",
-		"subsection_content_2": "Indonesia. A 21-year-old man who died on 9/30 is the country's 86th fatal case of bird flu and the total number of cases in Indonesia stands at 107. He is belived to have contracted the disease from infected poultry. His 19-year-old sister who died with similar symptoms in April has been retroactively determined to have died of avian influenza and not typhoid fever.Tthe head of the neighborhood unit said that the two siblings helped their uncle slaughter and clean chickens for sale at the nearby market. Although officially keeping poultry is banned in Jakarta, many residents have ignored the ban. In a raid in the area following the recent human case, the authorities found over 100 chickens in the neighborhood. (",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=46",
-		"subsection_content_1": "Canada. The Canadian Food Inspection Agency (CFIA) announced on September 27 that they had quarantined a farm in Saskatchewan where there was an outbreak of highly pathogenic H7N3 on a poultry farm. Officials culled 50,000 chickens using carbon dioxide gas. According to a CFIA news release from October 3, the bird carcasses are being buried in a remote area of the property approved for this purpose by provincial authorities. Normal decomposition of the bird carcass following burial effectively deactivates the avian influenza virus and respects provincial environmental regulations and internationally accepted disease control and biocontainment guidelines.",
-		"subsection_content_3": "Back",
-		"subsection_header_1": "H5N1 in Poultry",
-		"report_date": "2007-10-05",
-		"subsection_header_3": ")"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds",
+	"content_1": "Nothing to report.",
+	"header_2": "H5N1 in Poultry in Canada",
+	"content_2": "The Canadian Food Inspection Agency (CFIA) announced on September 27 that they had quarantined a farm in Saskatchewan where there was an outbreak of highly pathogenic H7N3 on a poultry farm. Officials culled 50,000 chickens using carbon dioxide gas. According to a CFIA news release from October 3, the bird carcasses are being buried in a remote area of the property approved for this purpose by provincial authorities. Normal decomposition of the bird carcass following burial effectively deactivates the avian influenza virus and respects provincial environmental regulations and internationally accepted disease control and biocontainment guidelines.",
+	"header_3": "H5N1 in Humans in Indonesia",
+	"content_3": "A 21-year-old man who died on 9/30 is the country's 86th fatal case of bird flu and the total number of cases in Indonesia stands at 107. He is belived to have contracted the disease from infected poultry. His 19-year-old sister who died with similar symptoms in April has been retroactively determined to have died of avian influenza and not typhoid fever.Tthe head of the neighborhood unit said that the two siblings helped their uncle slaughter and clean chickens for sale at the nearby market. Although officially keeping poultry is banned in Jakarta, many residents have ignored the ban. In a raid in the area following the recent human case, the authorities found over 100 chickens in the neighborhood."
+}

@@ -1,8 +1,4 @@
-[
-	{
-		"subsection_content_1": "Health officials in Anhui Province, China, confirmed three new human cases of H7N9. Yang, a 40-year-old man from Taihu County, was confirmed on Monday to have contracted the virus, and he remains in critical condition. Two additional cases were also recently confirmed; Cao, a 69-year-old from Tunxi District of Huangshan City, and Han, a 58-year-old from Maanshan City, were also confirmed this week to have contracted H7N9. Both individuals are receiving treatment at local hospitals, and are in critical condition. The first cases of H7N9 bird flu were reported in China in March of 2013; to date, the country has reported over 200 human H7N9 cases.",
-		"subsection_header_1": "China (LPAI H7N9)",
-		"report_date": "2014-05-23",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=342"
-	}
-]
+{
+  "header_1": "Avian Influenza in Humans in China (LPAI H7N9)",
+  "content_1": "Health officials in Anhui Province, China, confirmed three new human cases of H7N9. Yang, a 40-year-old man from Taihu County, was confirmed on Monday to have contracted the virus, and he remains in critical condition. Two additional cases were also recently confirmed; Cao, a 69-year-old from Tunxi District of Huangshan City, and Han, a 58-year-old from Maanshan City, were also confirmed this week to have contracted H7N9. Both individuals are receiving treatment at local hospitals, and are in critical condition. The first cases of H7N9 bird flu were reported in China in March of 2013; to date, the country has reported over 200 human H7N9 cases."
+}

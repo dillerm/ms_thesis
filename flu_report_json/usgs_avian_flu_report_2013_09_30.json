@@ -1,10 +1,4 @@
-[
-	{
-		"subsection_header_2": "Taiwan (LPAI H5N2)",
-		"subsection_content_2": ".  The Council of Agriculture of Taiwan detected a new outbreak of low pathogenic H5N2 on a duck farm in Hualien County earlier this month during a required second round of surveillance testing.  Of the 13,000 susceptible birds, 20 were found to be infected with the virus.  Surveillance around the area remains high and control measures being applied include quarantine, movement control, screening and zoning, and disinfection.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=320",
-		"subsection_content_1": ".  The Nepalese veterinary authorities and the World Organization for Animal Health confirmed 43 new outbreaks of H5N1 in a two week span starting the 26th of July in the Bagmati, Lumbini, and Janakpur zones. A total of 55,628 birds died and 294,211 were culled.  Control measures being applied include stamping out, screening, and the disinfection of contaminated areas.  The source of the outbreaks is unknown and officials continue intense surveillance throughout the country in hopes to prevent future outbreaks.",
-		"subsection_header_1": "Nepal (HPAI H5N1)",
-		"report_date": "2013-09-30"
-	}
-]
+{
+	"header_1": "Nepal (HPAI H5N1)",
+	"content_1": ".  The Nepalese veterinary authorities and the World Organization for Animal Health confirmed 43 new outbreaks of H5N1 in a two week span starting the 26th of July in the Bagmati, Lumbini, and Janakpur zones. A total of 55,628 birds died and 294,211 were culled.  Control measures being applied include stamping out, screening, and the disinfection of contaminated areas.  The source of the outbreaks is unknown and officials continue intense surveillance throughout the country in hopes to prevent future outbreaks."
+}

@@ -1,24 +1,8 @@
-[
-	{
-		"subsection_header_8": "(",
-		"subsection_header_4": "Japan. A third quail farm tested positive for avian influenza in Aichi Prefecture. The new farm raises 640,000 birds and had previously received quails from the second affected farm.",
-		"subsection_content_9": "Back",
-		"subsection_header_7": "Egypt.  An  18-month-old  girl  from  the  Manoufiya  province is in stable condition  after  contracting  bird  flu.  She contracted the virus through contact with dead birds.",
-		"subsection_content_1": "Germany. The first case in 2009 of a lethal strain of bird flu was reported in the EU. A duck shot near the town of Starnberg in January tested positive for H5N1 bird flu. The duck was part of a flock of 35 ducks and 4 Canada geese that were shot on Jan. 11. The last outbreak of H5N1 in Germany was in a farm in Saxony last October.",
-		"subsection_content_4": "Nepal.  Bird flu has been detected in chickens that have died in the village of Pathamari, located 240 km east of the capital Kathmandu. After the detection, at least 232 chickens, one duck, 26 pigeons, and 41 eggs were destroyed on Mar. 10 by a team from the livestock services office.",
-		"subsection_content_6": "Egypt.  An  18-month-old  girl  from  the  Manoufiya  province is in stable condition  after  contracting  bird  flu.  She contracted the virus through contact with dead birds.",
-		"subsection_header_6": "H5N1 in Humans",
-		"subsection_header_3": "2,095 chickens and 205 eggs were destroyed in Netrakona and Gaibandha as of  March 6.",
-		"subsection_content_3": "Hong Kong. A second chicken, this time found floating in the sea off the outlying island of Tung Ping Chau in Hong Kong has tested positive for H5N1. Previously another chicken  found on the island had tested positive on Mar 6. Both birds were recovered on Mar. 3, but it took until this week for testing of the second sample to be completed.",
-		"subsection_header_2": "H5N1 in Poultry",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=125",
-		"subsection_header_9": ")",
-		"subsection_content_7": "According to local newspapers two women living in Cairo, a 32-year-old and her 55-year-old mother, were reported to have H5N1. The claim was denied by Egyptian Chief of Health Affairs Dr. Naibal Abdul-Qader, who said that there were no suspect cases in the country\u2019s capital.",
-		"subsection_content_5": "Vietnam. Samples from local households in Dien Bien all tested positive for H5N1. This is the third outbreak in the province within the past month. The local veterinary agency has culled nearly 300 birds and taken measures to contain the epidemic.",
-		"subsection_header_5": "UK. Restrictions were lifted from the two Bernards Matthews plants when the avian influenza strain was found to be H6N1, a low pathogenic strain.",
-		"subsection_content_2": "Bangladesh. The Department of Fisheries and Livestock detected bird flu virus and worked to cull birds at various locations around the country.",
-		"subsection_header_1": "H5N1 in Wild birds",
-		"report_date": "2009-03-17",
-		"subsection_content_8": "more..."
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds",
+	"content_1": "Germany. The first case in 2009 of a lethal strain of bird flu was reported in the EU. A duck shot near the town of Starnberg in January tested positive for H5N1 bird flu. The duck was part of a flock of 35 ducks and 4 Canada geese that were shot on Jan. 11. The last outbreak of H5N1 in Germany was in a farm in Saxony last October. India. 175 blood samples from wild and domestic birds were gathered to be tested for avian influenza.",
+	"header_2": "H5N1 in Poultry",
+	"content_2": "Bangladesh. The Department of Fisheries and Livestock detected bird flu virus and worked to cull birds at various locations around the country. Five outbreaks in three provinces (Chittagong, Dhaka and Rajshahi) were reported to the OIE (World Organization for Animal Health) this week. 2,095 chickens and 205 eggs were destroyed in Netrakona and Gaibandha as of  March 6. Hong Kong. A second chicken, this time found floating in the sea off the outlying island of Tung Ping Chau in Hong Kong has tested positive for H5N1. Previously another chicken  found on the island had tested positive on Mar 6. Both birds were recovered on Mar. 3, but it took until this week for testing of the second sample to be completed. Japan. A third quail farm tested positive for avian influenza in Aichi Prefecture. The new farm raises 640,000 birds and had previously received quails from the second affected farm. Nepal.  Bird flu has been detected in chickens that have died in the village of Pathamari, located 240 km east of the capital Kathmandu. After the detection, at least 232 chickens, one duck, 26 pigeons, and 41 eggs were destroyed on Mar. 10 by a team from the livestock services office. UK. Restrictions were lifted from the two Bernards Matthews plants when the avian influenza strain was found to be H6N1, a low pathogenic strain. Vietnam. Samples from local households in Dien Bien all tested positive for H5N1. This is the third outbreak in the province within the past month. The local veterinary agency has culled nearly 300 birds and taken measures to contain the epidemic.",
+	"header_3": "H5N1 in Humans",
+	"content_3": "Egypt.  An  18-month-old  girl  from  the  Manoufiya  province is in stable condition  after  contracting  bird  flu.  She contracted the virus through contact with dead birds. According to local newspapers two women living in Cairo, a 32-year-old and her 55-year-old mother, were reported to have H5N1. The claim was denied by Egyptian Chief of Health Affairs Dr. Naibal Abdul-Qader, who said that there were no suspect cases in the country’s capital."
+}

@@ -1,10 +1,6 @@
-[
-	{
-		"subsection_header_2": "Mexico",
-		"subsection_content_2": ". Officials from the Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA) reported that over the past month, eight H7N3 outbreaks have been confirmed in four Mexican states: Jalisco, Puebla, Guanajuato, and Aguascalientes. In total, the affected poultry farms, including two commercial layer farms, two heavy breeder flocks, three broiler flocks, and a backyard farm, have culled 815,034 birds. The remaining 296,054 birds are being closely monitored and vaccinated to prevent the disease from spreading further. Additional control measures being applied include movement control, screening and zoning, and disinfection of contaminated areas.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=307",
-		"subsection_content_1": ". Austrian authorities had to cull dozens of rare birds that had been smuggled into Europe by a Czech couple from Bali, Indonesia, after it was discovered that one of the dead birds contained the H5N1 virus. In total, the couple smuggled 60 birds, including wild parrots, birds of paradise, and other exotic species, into the country in suitcases. Thirty-nine birds died while being transported, while the remaining 21 were culled to prevent the disease from spreading further. The couple will be prosecuted and Austrian border guards reported that everyone who had come in contact with the birds had been treated and had shown no flu-like symptoms.",
-		"subsection_header_1": "Austria",
-		"report_date": "2013-06-17"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds in Austria",
+	"content_1": ". Austrian authorities had to cull dozens of rare birds that had been smuggled into Europe by a Czech couple from Bali, Indonesia, after it was discovered that one of the dead birds contained the H5N1 virus. In total, the couple smuggled 60 birds, including wild parrots, birds of paradise, and other exotic species, into the country in suitcases. Thirty-nine birds died while being transported, while the remaining 21 were culled to prevent the disease from spreading further. The couple will be prosecuted and Austrian border guards reported that everyone who had come in contact with the birds had been treated and had shown no flu-like symptoms.",
+	"header_2": "HPAI H7N3 in Poultry in Mexico",
+	"content_2": ". Officials from the Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA) reported that over the past month, eight H7N3 outbreaks have been confirmed in four Mexican states: Jalisco, Puebla, Guanajuato, and Aguascalientes. In total, the affected poultry farms, including two commercial layer farms, two heavy breeder flocks, three broiler flocks, and a backyard farm, have culled 815,034 birds. The remaining 296,054 birds are being closely monitored and vaccinated to prevent the disease from spreading further. Additional control measures being applied include movement control, screening and zoning, and disinfection of contaminated areas."
+}

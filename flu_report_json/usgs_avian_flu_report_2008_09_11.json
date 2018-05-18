@@ -1,16 +1,14 @@
-[
-	{
-		"subsection_header_4": "Indonesia.",
-		"subsection_content_1": "Scientists at Deakin University are studying avian malaria to help predict the future spread of bird flu in Australia.  The research, headed by Deakin's environmental scientist Rohan Clark, will focus on the Torres Strait region where migratory birds commonly move from south-east Asia and Papua-New Guinea to Australia. Studying the rate at which avian malaria spreads within populations may provide insight into how other diseases, such as H5N1, are spread through migratory birds.",
-		"subsection_content_4": "Two human cases of H5N1 infection from July were officially announced by the Indonesian government.  Both of the men, aged 20 and 38, were from Banten Province and had contact with infected poultry before their deaths.(",
-		"subsection_header_3": "Togo.",
-		"subsection_content_3": "Bird flu has been confirmed at a farm in the village of Agbata, near the capital of Lome.  Togo's health ministry did not disclose how many birds died in the outbreak, but the farm houses almost 4500 chickens.  Samples have been sent to labs in Ghana and Italy to determine if the strain is H5N1.  Togo has not seen a case of H5N1 since January, but Benin, its neighbor to the east, has recently seen a number of H5N1 outbreaks.",
-		"subsection_header_2": "Laos.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=101",
-		"subsection_content_5": "Back",
-		"subsection_header_5": ")",
-		"subsection_content_2": "More than 7000 poultry in Luang Prabang province will be destroyed following a die-off of ducks at a private farm on August 27th. The mortality event was closely followed by another 350 bird deaths in a nearby village.  Testing for H5N1 started on September 4th and positive results were announced 5 days later.  Laos, which recently established more stringent precautions involving bird flu, has been free of the virus since March.",
-		"subsection_header_1": "Australia.",
-		"report_date": "2008-09-11"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds",
+	"content_1": "Australia. Scientists at Deakin University are studying avian malaria to help predict the future spread of bird flu in Australia.  The research, headed by Deakin's environmental scientist Rohan Clark, will focus on the Torres Strait region where migratory birds commonly move from south-east Asia and Papua-New Guinea to Australia. Studying the rate at which avian malaria spreads within populations may provide insight into how other diseases, such as H5N1, are spread through migratory birds.",
+	"header_2": "Australia. in H5N1 in Poultry",
+	"content_2": "Scientists at Deakin University are studying avian malaria to help predict the future spread of bird flu in Australia.  The research, headed by Deakin's environmental scientist Rohan Clark, will focus on the Torres Strait region where migratory birds commonly move from south-east Asia and Papua-New Guinea to Australia. Studying the rate at which avian malaria spreads within populations may provide insight into how other diseases, such as H5N1, are spread through migratory birds.H5N1 in Poultry",
+	"header_3": "H5N1 in Poultry",
+	"content_3": "Laos. More than 7000 poultry in Luang Prabang province will be destroyed following a die-off of ducks at a private farm on August 27th. The mortality event was closely followed by another 350 bird deaths in a nearby village.  Testing for H5N1 started on September 4th and positive results were announced 5 days later.  Laos, which recently established more stringent precautions involving bird flu, has been free of the virus since March. Togo. Bird flu has been confirmed at a farm in the village of Agbata, near the capital of Lome.  Togo?s health ministry did not disclose how many birds died in the outbreak, but the farm houses almost 4500 chickens.  Samples have been sent to labs in Ghana and Italy to determine if the strain is H5N1.  Togo has not seen a case of H5N1 since January, but Benin, its neighbor to the east, has recently seen a number of H5N1 outbreaks.",
+	"header_4": "Laos. in H5N1 in Humans.",
+	"content_4": "More than 7000 poultry in Luang Prabang province will be destroyed following a die-off of ducks at a private farm on August 27th. The mortality event was closely followed by another 350 bird deaths in a nearby village.  Testing for H5N1 started on September 4th and positive results were announced 5 days later.  Laos, which recently established more stringent precautions involving bird flu, has been free of the virus since March.",
+	"header_5": "Togo. in H5N1 in Humans.",
+	"content_5": "Bird flu has been confirmed at a farm in the village of Agbata, near the capital of Lome.  Togo?s health ministry did not disclose how many birds died in the outbreak, but the farm houses almost 4500 chickens.  Samples have been sent to labs in Ghana and Italy to determine if the strain is H5N1.  Togo has not seen a case of H5N1 since January, but Benin, its neighbor to the east, has recently seen a number of H5N1 outbreaks.H5N1 in Humans.",
+	"header_6": "Indonesia. in Two human cases of H5N1 infection from July were officially announced by the Indonesian government.  Both of the men, aged 20 and 38, were from Banten Province and had contact with infected poultry before their deaths.(more...)",
+	"content_6": "Two human cases of H5N1 infection from July were officially announced by the Indonesian government.  Both of the men, aged 20 and 38, were from Banten Province and had contact with infected poultry before their deaths.(more...)"
+}

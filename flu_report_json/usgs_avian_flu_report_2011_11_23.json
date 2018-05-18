@@ -1,10 +1,6 @@
-[
-	{
-		"subsection_header_2": "Taiwan",
-		"subsection_content_2": ".  An outbreak of low pathogenic avian influenza was reported November 10 in the Hsinchu County of Taiwan.  The infection was detected on a native chicken breeder farm during active surveillance, and tests conducted on November 15 at the Animal Health Research Institute confirmed the chickens were infected with the H5N2 strain.  Movement restriction was immediately implemented, while clinical and epidemiological investigation of surrounding poultry farms is in progress.  Additional control measures include quarantine, screening, zoning, and disinfection.  The source of the outbreak remains unknown.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=247",
-		"subsection_content_1": ".  In the South Sulawesi province of Indonesia, outbreaks of H5N1 bird flu have killed approximately 14,000 chickens in three sub-districts.  The first outbreak began in the Watang Sawitto sub-district killing 6,500 chickens, and then spread killing an additional 7,500 chickens in the Tellung Palie of Suppa and Lanrisang sub-districts.  The Livestock Service culled and buried the infected chickens to prevent the spread of the virus.",
-		"subsection_header_1": "Indonesia",
-		"report_date": "2011-11-23"
-	}
-]
+{
+	"header_1": "H5N1 in Poultry in Indonesia",
+	"content_1": ".  In the South Sulawesi province of Indonesia, outbreaks of H5N1 bird flu have killed approximately 14,000 chickens in three sub-districts.  The first outbreak began in the Watang Sawitto sub-district killing 6,500 chickens, and then spread killing an additional 7,500 chickens in the Tellung Palie of Suppa and Lanrisang sub-districts.  The Livestock Service culled and buried the infected chickens to prevent the spread of the virus.",
+	"header_2": "H5N1 in Poultry in Taiwan",
+	"content_2": ".  An outbreak of low pathogenic avian influenza was reported November 10 in the Hsinchu County of Taiwan.  The infection was detected on a native chicken breeder farm during active surveillance, and tests conducted on November 15 at the Animal Health Research Institute confirmed the chickens were infected with the H5N2 strain.  Movement restriction was immediately implemented, while clinical and epidemiological investigation of surrounding poultry farms is in progress.  Additional control measures include quarantine, screening, zoning, and disinfection.  The source of the outbreak remains unknown."
+}

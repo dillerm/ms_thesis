@@ -1,14 +1,6 @@
-[
-	{
-		"subsection_header_2": "H5N1 in Poultry",
-		"subsection_content_2": "Vietnam. Bird flu has been confirmed in the Vinh Long province according to Vietnam\u2019s Department of Animal Health. The bird flu broke out on a local farm May 5 and had killed 250 of the 1,100 ducks by May 12. Samples from the ducks were sent to the provincial animal health bureau and tested positive for H5N1 virus. Local authorities are culling the remaining ducks and taking other measures to prevent the spread of bird flu. Four provinces in Vietnam are currently experiencing outbreaks of bird flu (Thanh Hoa, Quang Ngai, Dong Thap, and Vinh Long).",
-		"subsection_header_4": ")",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=138",
-		"subsection_content_4": "Back",
-		"subsection_content_1": "China. An outbreak of bird flu in migratory birds has been confirmed in Gonghe County, in Qinghai province in Central China. The outbreak began on May 5 and 200 wild birds had died near Gengghai Lake as of May 21. They tested positive for H5N1 at China\u2019s National Avian Influenza Reference Laboratory. There are 133 hectares of wetlands in the county and it is an important stopping point for migratory birds. As of May 19 there were still at least 1,000 birds visible in the county\u2019s wetlands. Officials are taking precautions, such as disinfecting all area farms and banning outsiders from entering. Although no poultry have shown signs of bird flu, 21,000 have been culled and 23,000 have been vaccinated to prevent the spread of the disease.",
-		"subsection_content_3": "Egypt. A three-year-old boy from Mahalla has contracted bird flu and is stable condition after being treated with Tamiflu. A spokesman for the Health Ministry reported that the boy had symptoms including a high fever after contact with domestic poultry. A 4-year-old girl has died from H5N1. She was from the province of Daqahlia and became sick on May 9 but was not hospitalized until May 17. A four-year-old boy also from the Daqahlia province and a 3-year-old boy from Sohag have contracted bird flu. Both boys were admitted to the hospital with high fevers and their condition stabilized after being treated with Tamiflu. A Health Ministry spokesman says that both boys had been in contact with birds suspected of being infected with bird flu. There have now been 74 cases of bird flu in Egypt and 27 people have died.\r\n            (",
-		"subsection_header_1": "H5N1 in Wild birds",
-		"report_date": "2009-05-22",
-		"subsection_header_3": "H5N1 in Human"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds",
+	"content_1": "China. An outbreak of bird flu in migratory birds has been confirmed in Gonghe County, in Qinghai province in Central China. The outbreak began on May 5 and 200 wild birds had died near Gengghai Lake as of May 21. They tested positive for H5N1 at China’s National Avian Influenza Reference Laboratory. There are 133 hectares of wetlands in the county and it is an important stopping point for migratory birds. As of May 19 there were still at least 1,000 birds visible in the county’s wetlands. Officials are taking precautions, such as disinfecting all area farms and banning outsiders from entering. Although no poultry have shown signs of bird flu, 21,000 have been culled and 23,000 have been vaccinated to prevent the spread of the disease.",
+	"header_2": "H5N1 in Poultry",
+	"content_2": "Vietnam. Bird flu has been confirmed in the Vinh Long province according to Vietnam’s Department of Animal Health. The bird flu broke out on a local farm May 5 and had killed 250 of the 1,100 ducks by May 12. Samples from the ducks were sent to the provincial animal health bureau and tested positive for H5N1 virus. Local authorities are culling the remaining ducks and taking other measures to prevent the spread of bird flu. Four provinces in Vietnam are currently experiencing outbreaks of bird flu (Thanh Hoa, Quang Ngai, Dong Thap, and Vinh Long)."
+}

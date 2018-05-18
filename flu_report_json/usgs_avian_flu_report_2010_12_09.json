@@ -1,20 +1,14 @@
-[
-	{
-		"subsection_header_4": "Nepal",
-		"subsection_header_7": ")",
-		"subsection_content_1": ". According to the Ministry for Food, Agriculture, Forestry and Fisheries, a blood sample from a wild mallard in the Mangyeong River in North Jeolla tested positive for H5N1 bird flu. The sample was taken as part of the annual preventive inspection of migratory birds and the result was confirmed on December 7. In order to keep the disease from spreading to domestic poultry, the ministry is conducting an emergency disinfection of the area around the river and has established a quarantine zone within a 10 km (6.2 mile) radius with four mobile quarantine posts within a 1-km radius of the epicenter. Since the positive test was not from a poultry farm, Korea maintains avian-influenza free status and is able to export poultry. There are 13 duck farms and roughly 3.2 million poultry being raised within the management zone. Officials are monitoring birds for sickness and installing nets around farms to keep away wild birds. These farms will not be able to ship poultry until quarantine officials have cleared them.",
-		"subsection_content_4": ". A farm housing 11,503 poultry in Narayani zone experienced an outbreak of H5N1 bird flu beginning on October 25. The disease killed 66 birds on the farm;the rest were culled to prevent the spread of the disease. Other measures such as quarantine, movement control, disinfection of the premises, and dipping/spraying have been enacted. The cause of illness was determined as H5N1 by the Central Veterinary Laboratory on October 27 and this result was confirmed by the Veterinary Laboratories Agency on November 19. The origin of the outbreak is unknown but the event was resolved on October 30.",
-		"subsection_content_6": ". The Ministry of Health reported that H5N1 bird flu has been confirmed in a patient being treated at RS Hasan Sadikin Hospital in Bandung. The patient is alive and is still receiving treatment.",
-		"subsection_header_6": "Indonesia",
-		"subsection_header_3": "Egypt",
-		"subsection_content_3": ". According to a report on December 7, field tests carried out by the Directorate have discovered 89 domestic poultry breeding locations that are positive for bird flu. Infected birds have been culled and nearby birds have been vaccinated to prevent the spread of the disease. Engineer Sami Amara, Governor of Menoufiya, urges more severe measures, such as preventing the circulation of live birds and emphasizing education of citizens.",
-		"subsection_header_2": "Azerbaijan",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=208",
-		"subsection_content_7": "Back",
-		"subsection_content_5": ". Abdel Rahman Shahin, the official spokesperson for the Ministry of Health, announced on December 4 that a 30-year-old woman from governorate of Gharbia died from bird flu. Hers is the 37th death from bird flu in Egypt since the disease first appeared in 2006 and the tenth bird flu fatality to occur in Egypt in 2010.",
-		"subsection_header_5": "Egypt",
-		"subsection_content_2": ". According to the Deputy Minister of Health, Elsever Agayev, bird flu has been discovered in poultry in Samukh region. The State Veterinary Service received blood samples for testing after many birds died in the region. Officials have verified that the virus has an H5 subtype but are awaiting further tests to determine whether or not it is H5N1 bird flu.",
-		"subsection_header_1": "S. Korea",
-		"report_date": "2010-12-09"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds",
+	"content_1": "S. Korea . According to the Ministry for Food, Agriculture, Forestry and Fisheries, a blood sample from a wild mallard in the Mangyeong River in North Jeolla tested positive for H5N1 bird flu. The sample was taken as part of the annual preventive inspection of migratory birds and the result was confirmed on December 7. In order to keep the disease from spreading to domestic poultry, the ministry is conducting an emergency disinfection of the area around the river and has established a quarantine zone within a 10 km (6.2 mile) radius with four mobile quarantine posts within a 1-km radius of the epicenter. Since the positive test was not from a poultry farm, Korea maintains avian-influenza free status and is able to export poultry. There are 13 duck farms and roughly 3.2 million poultry being raised within the management zone. Officials are monitoring birds for sickness and installing nets around farms to keep away wild birds. These farms will not be able to ship poultry until quarantine officials have cleared them.",
+	"header_2": "H5N1 in Poultry in Azerbaijan",
+	"content_2": ". According to the Deputy Minister of Health, Elsever Agayev, bird flu has been discovered in poultry in Samukh region. The State Veterinary Service received blood samples for testing after many birds died in the region. Officials have verified that the virus has an H5 subtype but are awaiting further tests to determine whether or not it is H5N1 bird flu.",
+	"header_3": "H5N1 in Poultry in Egypt",
+	"content_3": ". According to a report on December 7, field tests carried out by the Directorate have discovered 89 domestic poultry breeding locations that are positive for bird flu. Infected birds have been culled and nearby birds have been vaccinated to prevent the spread of the disease. Engineer Sami Amara, Governor of Menoufiya, urges more severe measures, such as preventing the circulation of live birds and emphasizing education of citizens.",
+	"header_4": "H5N1 in Poultry in Nepal",
+	"content_4": ". A farm housing 11,503 poultry in Narayani zone experienced an outbreak of H5N1 bird flu beginning on October 25. The disease killed 66 birds on the farm;the rest were culled to prevent the spread of the disease. Other measures such as quarantine, movement control, disinfection of the premises, and dipping/spraying have been enacted. The cause of illness was determined as H5N1 by the Central Veterinary Laboratory on October 27 and this result was confirmed by the Veterinary Laboratories Agency on November 19. The origin of the outbreak is unknown but the event was resolved on October 30.",
+	"header_5": "H5N1 in Humans in Egypt",
+	"content_5": ". Abdel Rahman Shahin, the official spokesperson for the Ministry of Health, announced on December 4 that a 30-year-old woman from governorate of Gharbia died from bird flu. Hers is the 37th death from bird flu in Egypt since the disease first appeared in 2006 and the tenth bird flu fatality to occur in Egypt in 2010.",
+	"header_6": "H5N1 in Humans in Indonesia",
+	"content_6": ". The Ministry of Health reported that H5N1 bird flu has been confirmed in a patient being treated at RS Hasan Sadikin Hospital in Bandung. The patient is alive and is still receiving treatment.(more..."
+}

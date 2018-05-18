@@ -1,10 +1,6 @@
-[
-	{
-		"subsection_header_2": "Cambodia",
-		"subsection_content_2": ". The World Health Organization and Cambodian Health Ministry confirmed earlier this week that a three-year-old boy from Cambodia\u2019s eastern Prey Veng province died of H5N1, bringing the number of human deaths to five and total human cases to 14. The source of the outbreak remains unknown, however, the boy\u2019s doctors believe that exposure to the virus most likely came from coming in contact with sick or dead poultry from the village. Health officials are urging parents to keep their children away from sick or dead birds and to wash their hands often.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=312",
-		"subsection_content_1": ". In Cubbon Park, in the Indian state of Karnataka, officials recently placed a sign reading \u2018Feeding pigeon leads to bird flu disease; please avoid feeding pigeons. Warning: fine Rs 100.\u2019 While there is currently no scientific evidence that links feeding pigeons to the contraction of H5N1, officials hoped the sign would prevent people from standing on the side of the road to feed the birds. According to Dr. Sudharshan Ballal, medical director at the Manipal Hospital and a specialist in H1N1, by and large feeding pigeons does not lead to bird flu. \"Some of the birds\u2019 excreta may contain the virus and, in a crowd, the infection could spread. But people don\u2019t catch bird flu just by feeding pigeons. There is no need to get alarmed.\"",
-		"subsection_header_1": "India",
-		"report_date": "2013-07-18"
-	}
-]
+{
+	"header_1": "Avian Influenza in Wild birds in India",
+	"content_1": ". In Cubbon Park, in the Indian state of Karnataka, officials recently placed a sign reading ‘Feeding pigeon leads to bird flu disease; please avoid feeding pigeons. Warning: fine Rs 100.’ While there is currently no scientific evidence that links feeding pigeons to the contraction of H5N1, officials hoped the sign would prevent people from standing on the side of the road to feed the birds. According to Dr. Sudharshan Ballal, medical director at the Manipal Hospital and a specialist in H1N1, by and large feeding pigeons does not lead to bird flu. \"Some of the birds’ excreta may contain the virus and, in a crowd, the infection could spread. But people don’t catch bird flu just by feeding pigeons. There is no need to get alarmed.\"",
+	"header_2": "Avian Influenza in Humans in Cambodia",
+	"content_2": ". The World Health Organization and Cambodian Health Ministry confirmed earlier this week that a three-year-old boy from Cambodia’s eastern Prey Veng province died of H5N1, bringing the number of human deaths to five and total human cases to 14. The source of the outbreak remains unknown, however, the boy’s doctors believe that exposure to the virus most likely came from coming in contact with sick or dead poultry from the village. Health officials are urging parents to keep their children away from sick or dead birds and to wash their hands often."
+}

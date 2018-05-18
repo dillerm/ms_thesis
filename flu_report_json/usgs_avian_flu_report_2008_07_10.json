@@ -1,14 +1,6 @@
-[
-	{
-		"subsection_header_2": "H5N1 in Poultry",
-		"subsection_content_2": "No new outbreaks reported this week.",
-		"subsection_header_4": ")",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=92",
-		"subsection_content_4": "Back",
-		"subsection_content_1": "No new outbreaks reported this week.",
-		"subsection_content_3": "No new outbreaks reported this week. (",
-		"subsection_header_1": "H5N1 in Wild birds",
-		"report_date": "2008-07-10",
-		"subsection_header_3": "H5N1 in Humans"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds",
+	"content_1": "No new outbreaks reported this week.",
+	"header_2": "H5N1 in Poultry",
+	"content_2": "No new outbreaks reported this week."
+}

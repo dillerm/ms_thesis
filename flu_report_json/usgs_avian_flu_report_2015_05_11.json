@@ -1,20 +1,10 @@
-[
-	{
-		"subsection_header_4": "Kastamonu (HPAI H5N1)",
-		"subsection_header_7": "Birds in a backyard flock of mixed poultry in Lewis County, Missouri have been infected with highly pathogenic H5N2 avian influenza.  10-12 birds in the flock tested positive for the disease, leading to the quarantine and destruction of 130 birds on the property.",
-		"subsection_content_1": "In Hong Kong, highly pathogenic H5N6 avian influenza has been detected in a wild Oriental Magpie-Robin, which later died of the virus.  It is unknown how the bird contracted the virus, and there has been both screening and disinfection of the affected areas.",
-		"subsection_content_4": "Avian influenza has been detected in 127 backyard poultry in Kastamonu, Turkey.  35 animals died of the virus, and 92 were destroyed.  Other measures influence quarantine, movement controls, cleaning and disinfection of the affected holding areas, and monitoring within a 10km radius.",
-		"subsection_content_6": "Birds in a backyard flock of mixed poultry in Lewis County, Missouri have been infected with highly pathogenic H5N2 avian influenza.  10-12 birds in the flock tested positive for the disease, leading to the quarantine and destruction of 130 birds on the property.",
-		"subsection_header_6": "USA",
-		"subsection_header_3": "Turkey (bird flu)",
-		"subsection_content_3": "Kastamonu (HPAI H5N1)",
-		"subsection_header_2": "USA (Wisconsin, HPAI H5N2)",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=419",
-		"subsection_content_7": "Two more farms in Iowa have tested positive for avian influenza, a chicken farm in Osceola County with 100,000 birds and a turkey farm in Cherokee County with an unknown number of birds.  With these new cases, the total bird flu count in Iowa has risen to 37 sites, spread across 11 counties.",
-		"subsection_content_5": "Poultry facilities in Balikesir province are quarantined after the deaths of at least 40,000 chickens that tested positive for bird flu.  All remaining chickens have been euthanized, for a final death count of 70,000, and disinfection and hygiene measures have been increased.",
-		"subsection_header_5": "Edincik (bird flu)",
-		"subsection_content_2": "H5N2 avian influenza has been confirmed in a snowy owl in Oconto County.  The owl is the first wild bird in Wisconsin to test positive for this virus, and one of 11 dead wild birds that are being tested.  How the owl contracted the virus is currently unknown, but it is the 60th wild bird in the United States to test positive for the highly pathogenic virus strain.",
-		"subsection_header_1": "Hong Kong (HPAI H5N6)",
-		"report_date": "2015-05-11"
-	}
-]
+{
+	"header_1": "Hong Kong (HPAI H5N6)",
+	"content_1": "In Hong Kong, highly pathogenic H5N6 avian influenza has been detected in a wild Oriental Magpie-Robin, which later died of the virus.  It is unknown how the bird contracted the virus, and there has been both screening and disinfection of the affected areas.",
+	"header_2": "USA (Wisconsin, HPAI H5N2)",
+	"content_2": "H5N2 avian influenza has been confirmed in a snowy owl in Oconto County.  The owl is the first wild bird in Wisconsin to test positive for this virus, and one of 11 dead wild birds that are being tested.  How the owl contracted the virus is currently unknown, but it is the 60th wild bird in the United States to test positive for the highly pathogenic virus strain.",
+	"header_3": "Turkey (bird flu) - Kastamonu (HPAI H5N1) and Edincik (bird flu)",
+	"content_3": "Avian influenza has been detected in 127 backyard poultry in Kastamonu, Turkey.  35 animals died of the virus, and 92 were destroyed.  Other measures influence quarantine, movement controls, cleaning and disinfection of the affected holding areas, and monitoring within a 10km radius.Poultry facilities in Balikesir province are quarantined after the deaths of at least 40,000 chickens that tested positive for bird flu.  All remaining chickens have been euthanized, for a final death count of 70,000, and disinfection and hygiene measures have been increased.",
+	"header_4": "USA",
+	"content_4": "Birds in a backyard flock of mixed poultry in Lewis County, Missouri have been infected with highly pathogenic H5N2 avian influenza.  10-12 birds in the flock tested positive for the disease, leading to the quarantine and destruction of 130 birds on the property.Two more farms in Iowa have tested positive for avian influenza, a chicken farm in Osceola County with 100,000 birds and a turkey farm in Cherokee County with an unknown number of birds.  With these new cases, the total bird flu count in Iowa has risen to 37 sites, spread across 11 counties."
+}

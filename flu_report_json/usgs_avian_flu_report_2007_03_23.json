@@ -1,14 +1,8 @@
-[
-	{
-		"subsection_header_2": "Pakistan:",
-		"subsection_content_2": "Over 40 crows have been found dead in the city of Islamabad over the past week. Eight were tested and two have been found to be positive for H5N1.  According to one news report, Agriculture and Livestock Ministry spokesman Mohammed Afzal said that there is no evidence of any infection in poultry farms in the country; but during 2007, H5N1 was reported from chickens and peacocks in the capital's twin city of Rawalpindi, Punjab, in Mansehra, Northwest Frontier and at a zoo in Islamabad.",
-		"subsection_header_4": ")",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=20",
-		"subsection_content_4": "Back",
-		"subsection_content_1": "An endangered mountain hawk eagle, also called the Hodgson's hawk eagle (Spizaetus nipalensis orientalis), found near Sagaramura in Kumamoto Prefecture, has tested positive for H5N1.  The bird was found sick on January 4 and died soon afterwards.  Investigations on the pathogenicity of the virus and an analysis of  its phylogenetic origin are underway.  If confirmed to be highly pathogenic, this infection preceeded the first outbreak in poultry reported on January 13.  The eagle was found less than 75 km from three of the four 2007 outbreaks.  The mountain hawk eagle does not migrate and it is unclear at the present time how it was infected.  All wild birds tested so far in the areas surrounding the 2007 H5N1 poultry outbreaks have been negative.",
-		"subsection_content_3": "Specialists from the Federal Veterinarian and Phytosanitary Control Service (Rosselkhoznadzor) have begun shooting wild birds in the Kaliningrad region to stop bird flu, according to press secretary Yevgeny Safronov.  The region did not have any H5N1 cases in 2006 and initial analysis of blood samples from the shot birds was also negative. (",
-		"subsection_header_1": "Japan:",
-		"report_date": "2007-03-23",
-		"subsection_header_3": "Russia:"
-	}
-]
+{
+	"header_1": "H5N1 in Wild Birds in Japan:",
+	"content_1": "An endangered mountain hawk eagle, also called the Hodgson?s hawk eagle (Spizaetus nipalensis orientalis), found near Sagaramura in Kumamoto Prefecture, has tested positive for H5N1.  The bird was found sick on January 4 and died soon afterwards.  Investigations on the pathogenicity of the virus and an analysis of  its phylogenetic origin are underway.  If confirmed to be highly pathogenic, this infection preceeded the first outbreak in poultry reported on January 13.  The eagle was found less than 75 km from three of the four 2007 outbreaks.  The mountain hawk eagle does not migrate and it is unclear at the present time how it was infected.  All wild birds tested so far in the areas surrounding the 2007 H5N1 poultry outbreaks have been negative.",
+	"header_2": "H5N1 in Wild Birds in Pakistan:",
+	"content_2": "Over 40 crows have been found dead in the city of Islamabad over the past week. Eight were tested and two have been found to be positive for H5N1.  According to one news report, Agriculture and Livestock Ministry spokesman Mohammed Afzal said that there is no evidence of any infection in poultry farms in the country; but during 2007, H5N1 was reported from chickens and peacocks in the capital?s twin city of Rawalpindi, Punjab, in Mansehra, Northwest Frontier and at a zoo in Islamabad.",
+	"header_3": "H5N1 in Wild Birds in Russia:",
+	"content_3": "Specialists from the Federal Veterinarian and Phytosanitary Control Service (Rosselkhoznadzor) have begun shooting wild birds in the Kaliningrad region to stop bird flu, according to press secretary Yevgeny Safronov.  The region did not have any H5N1 cases in 2006 and initial analysis of blood samples from the shot birds was also negative. (more...)"
+}

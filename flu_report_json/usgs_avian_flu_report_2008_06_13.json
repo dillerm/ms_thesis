@@ -1,14 +1,8 @@
-[
-	{
-		"subsection_header_2": "North Korea.",
-		"subsection_content_2": "A South Korean aid group is disclosing that avian influenza has been reported in North Korea. The suspected outbreak, which occurred near a military base in  South Hamgyong province near the capital Pyongyang, would be the first reported case in the country since 2005. South Korean reports of avian flu in the region cite North Korean quarantine authorities, but the claim has not yet been confirmed by either South or North Korean officials.",
-		"subsection_header_4": ")",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=88",
-		"subsection_content_4": "Back",
-		"subsection_content_1": "Poultry in three markets in Cheung Sha Wan Temporary Wholesale Poultry Market have tested positive for H5N1 Avian Influenza. All 2,900 birds in the Po On Road market and surrounding areas of Sham Shui Po were culled after the area was sealed off, June 7th, to prevent further spread of the disease. No H5N1 was found in any of the dead birds.  The chickens likely came from mainland China illegally, as the farms that supply the market were cleared of the disease before shipping, as were local supply farms.  Hong Kong has banned poultry shipments from the mainland for 21 days pending investigation as a result of this growing issue.  Reluctance on the part of the poultry traders to report sick birds for fear of culling may lead to the continuing outbreaks in China and Hong Kong.",
-		"subsection_content_3": "No news to report this week (",
-		"subsection_header_1": "Hong Kong.",
-		"report_date": "2008-06-13",
-		"subsection_header_3": "H5N1 in Humans"
-	}
-]
+{
+	"header_1": "H5N1 in Poultry",
+	"content_1": "Hong Kong. Poultry in three markets in Cheung Sha Wan Temporary Wholesale Poultry Market have tested positive for H5N1 Avian Influenza. All 2,900 birds in the Po On Road market and surrounding areas of Sham Shui Po were culled after the area was sealed off, June 7th, to prevent further spread of the disease. No H5N1 was found in any of the dead birds.  The chickens likely came from mainland China illegally, as the farms that supply the market were cleared of the disease before shipping, as were local supply farms.  Hong Kong has banned poultry shipments from the mainland for 21 days pending investigation as a result of this growing issue.  Reluctance on the part of the poultry traders to report sick birds for fear of culling may lead to the continuing outbreaks in China and Hong Kong. North Korea. A South Korean aid group is disclosing that avian influenza has been reported in North Korea. The suspected outbreak, which occurred near a military base in  South Hamgyong province near the capital Pyongyang, would be the first reported case in the country since 2005. South Korean reports of avian flu in the region cite North Korean quarantine authorities, but the claim has not yet been confirmed by either South or North Korean officials.",
+	"header_2": "Hong Kong. in H5N1 in Humans",
+	"content_2": "Poultry in three markets in Cheung Sha Wan Temporary Wholesale Poultry Market have tested positive for H5N1 Avian Influenza. All 2,900 birds in the Po On Road market and surrounding areas of Sham Shui Po were culled after the area was sealed off, June 7th, to prevent further spread of the disease. No H5N1 was found in any of the dead birds.  The chickens likely came from mainland China illegally, as the farms that supply the market were cleared of the disease before shipping, as were local supply farms.  Hong Kong has banned poultry shipments from the mainland for 21 days pending investigation as a result of this growing issue.  Reluctance on the part of the poultry traders to report sick birds for fear of culling may lead to the continuing outbreaks in China and Hong Kong.",
+	"header_3": "North Korea. in H5N1 in Humans",
+	"content_3": "A South Korean aid group is disclosing that avian influenza has been reported in North Korea. The suspected outbreak, which occurred near a military base in  South Hamgyong province near the capital Pyongyang, would be the first reported case in the country since 2005. South Korean reports of avian flu in the region cite North Korean quarantine authorities, but the claim has not yet been confirmed by either South or North Korean officials.H5N1 in HumansNo news to report this week (more...)"
+}

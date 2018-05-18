@@ -1,26 +1,18 @@
-[
-	{
-		"subsection_header_8": "In April 2016, the Jiangsu Province reported six cases of human infection with the H7N9 avian",
-		"subsection_header_4": "Italy (HPAI H7N7)",
-		"subsection_content_3": "Data from the Agriculture Ministry show 148 cases of avian influenza in Indonesia in the first 4 months of the year.  This is a significant increase, considering in 2015 only 123 cases were reported.  The Director of Animal Health Services at the Agriculture Ministry cites a lack of public awareness as the main reason for the spread of highly pathogenic H5N1 avian influenza virus.  This, coupled with lowered poultry immunity due to the El Nino effect, make the threat of a more widespread avian influenza epidemic more imminent.",
-		"subsection_header_7": "China (LPAI H7N9)",
-		"report_date": "2016-05-20",
-		"subsection_content_5": "The Ministry of Health in Laos reported an outbreak of H5N1 in the Kampot province on May 10.  A total of 349 chickens, one duck, and 37 chicken eggs from seven families in Chhouk district's Koh Russei village were culled and burned by health officials. The source of the outbreak is unknown. A girl had died from H5N1 in Kampot in 2014.",
-		"subsection_header_5": "Cambodia (HPAI H5N1)",
-		"subsection_header_2": "Ghana (HPAI H5N1)",
-		"subsection_header_6": "Taiwan (HPAI H5N2)",
-		"subsection_content_9": "The Egyptian MOH posted a confirmation of a human avian flu infection in the Dakahalia",
-		"subsection_content_4": "The World Organisation for Animal Health (OIE) reports a case of highly pathogenic H7N7 avian influenza virus on a turkey farm in the region of Emilia-Romagna.  The Experimental Zooprophylactic Institute confirmed that 2,170 of the 49,472 birds are infected with the disease, and 170 of them have died from it.  Control measures implemented include disinfection, traceability, stamping out, surveillance, and official disposal of carcasses, by-products, and waste.  The source of this outbreak is unknown.",
-		"subsection_content_6": "The Tainan City Animal Health Inspection and Protection Office report that in Taipei on May 4, around 5,000 chickens were culled after an avian influenza outbreak was confirmed. The Animal Health Research Institute under the Council of Agriculture confirmed that on May 2, the dead chicken had been infected with the avian flu virus H5N2 after conducting tissue sample tests. The office also completed the disinfection of the affected farm, other poultry farms within a 1 kilometer radius, and the surrounding paths and highways. As of the time of press, no abnormal poultry deaths had been reported on any other poultry farms. The cause of the outbreak is unknown.",
-		"subsection_header_3": "Indonesia (HPAI H5N1)",
-		"subsection_header_1": "Egypt (HPAI H5N1)",
-		"subsection_content_10": "It is suspected to be a case of H5N1.  This is the 5th case reported in Egypt in 2016.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=468",
-		"subsection_content_2": "The World Organisation for Animal Health (OIE) has reported 4 cases of highly pathogenic H5N1 avian influenza virus at farms in the Centra and Eastern provinces, and the Greater Accra Regions.  A total of 1,278 birds died from the disease, and the remaining 7,722 were culled to prevent it spreading further.  Additional control measures include: movement control; disinfection; quarantine; and stamping out.  The source of this outbreak is unknown.",
-		"subsection_header_9": "Egypt (HPAI H5N1)",
-		"subsection_content_7": "In April 2016, the Jiangsu Province reported six cases of human infection with the H7N9 avian",
-		"subsection_content_1": "The Food and Agriculture Organization of the United Nations (FAO) reports 2 cases of highly pathogenic H5N1 avian influenza virus in the Governorates of Al Sharqia and Beni Suef.  A total of 32 birds were culled after becoming infected with the disease.  The source of this outbreak was not reported.",
-		"subsection_header_10": "Governate. A fifty-year-old man is under hospital treatment in Mansoura as of May 14.",
-		"subsection_content_8": "influenza with five deaths. Since the beginning of 2016 there were a total of twenty-one cases of"
-	}
-]
+{
+	"header_1": "Egypt (HPAI H5N1)",
+	"content_1": "The Food and Agriculture Organization of the United Nations (FAO) reports 2 cases of highly pathogenic H5N1 avian influenza virus in the Governorates of Al Sharqia and Beni Suef.  A total of 32 birds were culled after becoming infected with the disease.  The source of this outbreak was not reported.",
+	"header_2": "Ghana (HPAI H5N1)",
+	"content_2": "The World Organisation for Animal Health (OIE) has reported 4 cases of highly pathogenic H5N1 avian influenza virus at farms in the Centra and Eastern provinces, and the Greater Accra Regions.  A total of 1,278 birds died from the disease, and the remaining 7,722 were culled to prevent it spreading further.  Additional control measures include: movement control; disinfection; quarantine; and stamping out.  The source of this outbreak is unknown.",
+	"header_3": "Indonesia (HPAI H5N1)",
+	"content_3": "Data from the Agriculture Ministry show 148 cases of avian influenza in Indonesia in the first 4 months of the year.  This is a significant increase, considering in 2015 only 123 cases were reported.  The Director of Animal Health Services at the Agriculture Ministry cites a lack of public awareness as the main reason for the spread of highly pathogenic H5N1 avian influenza virus.  This, coupled with lowered poultry immunity due to the El Nino effect, make the threat of a more widespread avian influenza epidemic more imminent.",
+	"header_4": "Italy (HPAI H7N7)",
+	"content_4": "The World Organisation for Animal Health (OIE) reports a case of highly pathogenic H7N7 avian influenza virus on a turkey farm in the region of Emilia-Romagna.  The Experimental Zooprophylactic Institute confirmed that 2,170 of the 49,472 birds are infected with the disease, and 170 of them have died from it.  Control measures implemented include disinfection, traceability, stamping out, surveillance, and official disposal of carcasses, by-products, and waste.  The source of this outbreak is unknown.",
+	"header_5": "Cambodia (HPAI H5N1)",
+	"content_5": "The Ministry of Health in Laos reported an outbreak of H5N1 in the Kampot province on May 10.  A total of 349 chickens, one duck, and 37 chicken eggs from seven families in Chhouk district's Koh Russei village were culled and burned by health officials. The source of the outbreak is unknown. A girl had died from H5N1 in Kampot in 2014.",
+	"header_6": "Taiwan (HPAI H5N2)",
+	"content_6": "The Tainan City Animal Health Inspection and Protection Office report that in Taipei on May 4, around 5,000 chickens were culled after an avian influenza outbreak was confirmed. The Animal Health Research Institute under the Council of Agriculture confirmed that on May 2, the dead chicken had been infected with the avian flu virus H5N2 after conducting tissue sample tests. The office also completed the disinfection of the affected farm, other poultry farms within a 1 kilometer radius, and the surrounding paths and highways. As of the time of press, no abnormal poultry deaths had been reported on any other poultry farms. The cause of the outbreak is unknown. Avian Influenza in Humans",
+	"header_7": "China (LPAI H7N9) in In April 2016, the Jiangsu Province reported six cases of human infection with the H7N9 avian",
+	"content_7": "influenza with five deaths. Since the beginning of 2016 there were a total of twenty-one cases ofH7N9 avian influenza and a total of nine deaths.",
+	"header_8": "Egypt (HPAI H5N1)",
+	"content_8": "The Food and Agriculture Organization of the United Nations (FAO) reports 2 cases of highly pathogenic H5N1 avian influenza virus in the Governorates of Al Sharqia and Beni Suef.  A total of 32 birds were culled after becoming infected with the disease.  The source of this outbreak was not reported."
+}

@@ -1,14 +1,6 @@
-[
-	{
-		"subsection_header_2": "Chinese Taipei",
-		"subsection_content_2": ". A farmer in Tai-Tung prefecture reported signs of parakeratosis (scaly skin) in his pigs to the prefecture animal disease control competent authority on September 2. Samples were collected and sent to the Animal Health Research Institute for diagnosis. Testing revealed the pigs were infected with the 2009 pandemic H1N1 influenza virus. Only 4 cases were confirmed in a herd of 4,000 pigs. Prevention methods such as movement control and disinfection of the premises were implemented. Follow-up tests on September 6 returned negative results.",
-		"subsection_header_4": "Other publications of interest",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=198",
-		"subsection_content_4": "Muranaka M et al. Distribution of Influenza Virus Sialoreceptors on Upper and Lower Respiratory Tract in Horses and Dogs. J Vet Med Sci. 2010 Aug 25. [Epub ahead of print]",
-		"subsection_content_1": "Chairul Nidom of Airlangga University in Surabaya, Indonesia, and colleagues in Japan have been tracking H5N1 in pigs since 2005 in Indonesia, the country hardest hit by the avian flu virus. They report that 7.4 percent of the 700 pigs that they tested between 2005 and 2009 carried the H5N1 virus. Although H5N1 bird flu kills 60 percent of the people that it infects, it has not caused a pandemic because it does not spread easily from human to human and only 505 individuals have been infected since 2003 worldwide. Scientists are concerned that the virus will adapt in pigs, which have many similarities to humans, and will be able to spread more easily. The scientists show that one of the 39 strains of H5N1 virus from pigs shows signs of being able to infect people. Researchers encourage countries to improve influenza surveillance in pigs, because infected pigs show no symptoms.",
-		"subsection_content_3": ". A study has shown that gulls brought the bird flu virus back to Thailand. \"We have scientific evidence that a seagull was the carrier of the birdflu virus, not the openbill stork,\" said Professor Pilaipan Puthavathana of Mahidol University's Department of Microbiology. His research team studied the migratory patterns of birds and discovered that some brown headed gulls fly to Cambodia and China in the winter. The team isolated the H5N1 virus in four of 153 birds of this flock in 2005 and 2008. The flock might have played a role in the spread of H5N1 virus along its route. The researchers hope that this information will help in surveillance efforts.",
-		"subsection_header_1": "News Update, September 10",
-		"report_date": "2010-09-10",
-		"subsection_header_3": "Thailand"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds in Thailand",
+	"content_1": ". A study has shown that gulls brought the bird flu virus back to Thailand. \"We have scientific evidence that a seagull was the carrier of the birdflu virus, not the openbill stork,\" said Professor Pilaipan Puthavathana of Mahidol University's Department of Microbiology. His research team studied the migratory patterns of birds and discovered that some brown headed gulls fly to Cambodia and China in the winter. The team isolated the H5N1 virus in four of 153 birds of this flock in 2005 and 2008. The flock might have played a role in the spread of H5N1 virus along its route. The researchers hope that this information will help in surveillance efforts.",
+	"header_2": "H5N1 in Wild birds in Other publications of interest",
+	"content_2": "Muranaka M et al. Distribution of Influenza Virus Sialoreceptors on Upper and Lower Respiratory Tract in Horses and Dogs. J Vet Med Sci. 2010 Aug 25. [Epub ahead of print]"
+}

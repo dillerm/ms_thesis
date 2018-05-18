@@ -1,14 +1,8 @@
-[
-	{
-		"subsection_header_2": "United Kingdom:",
-		"subsection_content_2": "Veterinary Laboratories Association (VLA) praised a group of hunters for their assistance in obtaining wild waterfowl samples from 22 sites across England, Scotland, Wales, and Northern Ireland as part of an early warning system for HPAI H5N1. Peter Marshall, the research officer for BASC, the British Association for Shooting and Conservation, said \"The team of wildfowlers who took part in the avian flu monitoring sent in over 700 samples to the VLA which is a great achievement. Thanks to the efforts of our wildfowling members the VLA has also isolated other strains of avian influenza which they would not otherwise have had access to.\"",
-		"subsection_header_4": ")",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=19",
-		"subsection_content_4": "Back",
-		"subsection_content_1": "Another wild bird in Hong Kong has tested positive for the H5N1 bird flu virus. A long-tailed shrike (Lanius schach) found dead on March 3 in the densely populated Hung Hom district was confirmed with the disease by the government's agriculture, fisheries and conservation department.  Biologists believe local species of wild birds found dead with the virus could have picked it up from contact with infected flocks in mainland China. The discovery of a thirteenth bird infected with H5N1 in Hong Kong this year has prompted the Hong Kong Bird Watching Society to urge the Hong Kong government to ban the trade in wild birds.",
-		"subsection_content_3": "Over the past week, 13 new cases of bird flu have been detected in Afghanistan, bringing the number of confirmed cases in the country to 17 for 2007, health officials said.  Assadullah Azhari, a spokesman for the United Nations Food and Agriculture Organisation in Kabul, reported that 9 dead birds were diagnosed with the virulent H5N1 strain in 5 districts of Nangarhar and Kunar provinces.  Four other cases were identified in backyard poultry in the capital of Kabul.  In an effort to reduce the risks of the virus, authorities have launched a massive poultry vaccination campaign in the capital and in the 2 provinces where the infectious disease has been confirmed. (",
-		"subsection_header_1": "China (Hong Kong):",
-		"report_date": "2007-03-20",
-		"subsection_header_3": "Afghanistan:"
-	}
-]
+{
+	"header_1": "H5N1 in Wild Birds in China (Hong Kong):",
+	"content_1": "Another wild bird in Hong Kong has tested positive for the H5N1 bird flu virus. A long-tailed shrike (Lanius schach) found dead on March 3 in the densely populated Hung Hom district was confirmed with the disease by the government's agriculture, fisheries and conservation department.  Biologists believe local species of wild birds found dead with the virus could have picked it up from contact with infected flocks in mainland China. The discovery of a thirteenth bird infected with H5N1 in Hong Kong this year has prompted the Hong Kong Bird Watching Society to urge the Hong Kong government to ban the trade in wild birds.",
+	"header_2": "H5N1 in Wild Birds in United Kingdom:",
+	"content_2": "Veterinary Laboratories Association (VLA) praised a group of hunters for their assistance in obtaining wild waterfowl samples from 22 sites across England, Scotland, Wales, and Northern Ireland as part of an early warning system for HPAI H5N1. Peter Marshall, the research officer for BASC, the British Association for Shooting and Conservation, said \"The team of wildfowlers who took part in the avian flu monitoring sent in over 700 samples to the VLA which is a great achievement. Thanks to the efforts of our wildfowling members the VLA has also isolated other strains of avian influenza which they would not otherwise have had access to.\"",
+	"header_3": "H5N1 in Domestic Animals in Afghanistan:",
+	"content_3": "Over the past week, 13 new cases of bird flu have been detected in Afghanistan, bringing the number of confirmed cases in the country to 17 for 2007, health officials said.  Assadullah Azhari, a spokesman for the United Nations Food and Agriculture Organisation in Kabul, reported that 9 dead birds were diagnosed with the virulent H5N1 strain in 5 districts of Nangarhar and Kunar provinces.  Four other cases were identified in backyard poultry in the capital of Kabul.  In an effort to reduce the risks of the virus, authorities have launched a massive poultry vaccination campaign in the capital and in the 2 provinces where the infectious disease has been confirmed. (more...)"
+}

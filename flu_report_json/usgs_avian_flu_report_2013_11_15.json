@@ -1,12 +1,6 @@
-[
-	{
-		"subsection_header_2": "Cambodia (HPAI H5N1)",
-		"subsection_content_2": "The Cambodian Health Ministry and the World Health Organization released a joint statement confirming two new human cases of H5N1: a 29-year-old male from Pailin province and a 3-year-old boy from Kampong Speu province. Investigators have found that both individuals recently handled sick or dead poultry. The 29-year-old man died last week, and is Cambodia\u2019s 33rd death from the virus out of 47 total cases. The 3-year-old boy is currently in critical condition. Health Minister Mam Bunheng is urging people to keep children away from sick or dead poultry and to make sure to wash thoroughly with soap and water after all contact with poultry.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=324",
-		"subsection_content_1": ".  Nepalese officials confirmed that 85 new cases of H5N1 have occurred since August in three zones (Bagmati, Narayani, and Bheri).  43,691 birds have died of infection and 1,372309 were culled to prevent the disease from spreading further.  Intensive surveillance activities have been implemented throughout the country and control measures being applied include disinfection of contaminated farms, movement control throughout the country, and control of wildlife reservoirs.",
-		"subsection_content_3": "A report published this week by researchers in Taiwan urges the public to be cautious and prepared for the possibility of increasingly dangerous strains of a flu virus previously only found in chickens. The low virulent H6N1 strain was discovered in May in a 20-year-old Taiwanese woman. It is still unclear how the patient contracted the virus as she has no contact with poultry. She remains the only known case of H6N1 infection in people. The report investigates the possibility of the flu viruses combining to develop into more dangerous, thus more difficult to treat, flu strains. Scientists are calling for vigilance, and the continued development of flu vaccines.",
-		"subsection_header_1": "Nepal (HPAI H5N1)",
-		"report_date": "2013-11-15",
-		"subsection_header_3": "Taiwan (LPAI H6N1)"
-	}
-]
+{
+	"header_1": "Nepal (HPAI H5N1)",
+	"content_1": ".  Nepalese officials confirmed that 85 new cases of H5N1 have occurred since August in three zones (Bagmati, Narayani, and Bheri).  43,691 birds have died of infection and 1,372309 were culled to prevent the disease from spreading further.  Intensive surveillance activities have been implemented throughout the country and control measures being applied include disinfection of contaminated farms, movement control throughout the country, and control of wildlife reservoirs. Avian Influenza in Humans",
+	"header_2": "Cambodia (HPAI H5N1)",
+	"content_2": "The Cambodian Health Ministry and the World Health Organization released a joint statement confirming two new human cases of H5N1: a 29-year-old male from Pailin province and a 3-year-old boy from Kampong Speu province. Investigators have found that both individuals recently handled sick or dead poultry. The 29-year-old man died last week, and is Cambodia’s 33rd death from the virus out of 47 total cases. The 3-year-old boy is currently in critical condition. Health Minister Mam Bunheng is urging people to keep children away from sick or dead poultry and to make sure to wash thoroughly with soap and water after all contact with poultry."
+}

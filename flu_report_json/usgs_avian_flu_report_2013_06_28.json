@@ -1,10 +1,6 @@
-[
-	{
-		"subsection_header_2": "China",
-		"subsection_content_2": ". The Shanghai Health and Family Planning Commission confirmed on June 27, 2013, that a 56-year-old man from Shanghai, died of the H7N9 virus, bringing the number of human deaths to 16 since the start of the year. The victim\u2019s wife also died of the virus on April 3, 2013, but health officials \u201csaid there is no clear evidence to show human-to-human infection between the couple since they may have been exposed to the same source of infection.\u201d",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=309",
-		"subsection_content_1": ". German officials confirmed an outbreak of low pathogenic avian influenza H7N7 on a farm in Emsland in Lower Saxony, Germany, earlier this week. Of the flock of 13,406, there were 400 birds that tested positive with the virus. All birds at the farm were destroyed to prevent the disease from spreading further. The source of the outbreak remains unknown and control measures being applied include stamping out, zoning, and disinfection of contaminated areas.",
-		"subsection_header_1": "Germany",
-		"report_date": "2013-06-28"
-	}
-]
+{
+	"header_1": "H7N7 in Poultry in Germany",
+	"content_1": ". German officials confirmed an outbreak of low pathogenic avian influenza H7N7 on a farm in Emsland in Lower Saxony, Germany, earlier this week. Of the flock of 13,406, there were 400 birds that tested positive with the virus. All birds at the farm were destroyed to prevent the disease from spreading further. The source of the outbreak remains unknown and control measures being applied include stamping out, zoning, and disinfection of contaminated areas.",
+	"header_2": "H7N9 in Humans in China",
+	"content_2": ". The Shanghai Health and Family Planning Commission confirmed on June 27, 2013, that a 56-year-old man from Shanghai, died of the H7N9 virus, bringing the number of human deaths to 16 since the start of the year. The victim’s wife also died of the virus on April 3, 2013, but health officials “said there is no clear evidence to show human-to-human infection between the couple since they may have been exposed to the same source of infection.”Due to the high number of H7N9 cases in Shanghai this year, the city enacted a citywide emergency response at the start of April, but recently downgraded their emergency stratus on May 9 after no new cases were reported for almost three weeks. At this time, there are no plans to institute heightened monitoring."
+}

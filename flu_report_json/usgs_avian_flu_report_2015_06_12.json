@@ -1,16 +1,10 @@
-[
-	{
-		"subsection_header_4": "USA (HPAI H5N2)",
-		"subsection_content_1": "Two great crested grebes and two common terns found dead near Ubsu-Nur Lake in the Republic of Tyva (Tuva) during active monitoring of the area tested positive for the highly pathogenic H5N1 avian influenza virus.  The virus has not been detected from healthy migratory birds sampled at the same time.",
-		"subsection_content_4": "7 additional cases of the highly pathogeni H5N2 avian influenza virus have been confirmed by the United States Deapartment of Agriculture Animal and Health Inspection Service (APHIS).  Outbreaks occurred in Iowa at turkey farms in Hamilton County (19,600 birds) and Sac County (42,200 birds).  In Minnesota, outbreaks were reported at turkeys farms in Brown County (39,000 birds), Kandiyohi County (4,000 birds), and Renville County (4,800 birds) and a chicken farm in Renville County (15,000 birds).  Nebraska reported an outbreak in a backyard flock in Dixon County.  To prevent further spread of the disease, all affected premises have been quarantined, and the surviving birds culled. Premises in four counties in Arizona were placed under quarantine Friday (6/12/15) because they had received chicken, quail or pheasant birds or eggs from a farm in Iowa in the week before H5N2 was detected. The Iowa farm is suspected to have shipped similar samples to other parts of the country. Follow up investigation, including laboratory testing, is being conducted.",
-		"subsection_header_3": "Ghana (HPAI H5N1)",
-		"subsection_content_3": "An additional case of the highly pathogenic H5N1 avian influenza virus has been reported at a farm in Kpone Katamanso, Greater Accra Region with 11- and 12-month-old layers.  246 birds died and the remaining 1,033 were culled to prevent further spread of the virus.",
-		"subsection_header_2": "USA (HPAI H5N2)",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=424",
-		"subsection_content_5": "The Centre for Health Protection of the Department of Health has reported an additional human case of the lowly pathogenic H7N9 avian influenza virus in a 61-year-old man from Shanghai.  The patient is still under treatment for the virus.  In May, China reported a total of 15 H7N9 cases with 6 deaths.  Since 2013, there have been a total of 641 human cases of the virus reported.",
-		"subsection_header_5": "China (LPAI H7N9)",
-		"subsection_content_2": "Three young Canada geese collected in Sterling Heights, Michigan have been confirmed to be infected with the highly pathogenic H5N2 avian influenza virus.  This is the first time the disease has been discovered in the state, bringing the number of states affected with the disease to 21.  Officials are focusing on measures to prevent the disease from spreading to poultry, such as practicing biosecurity measure including washing boots and tires, gating in poultry farms, and adding air vents to barns in case the virus is airborne.",
-		"subsection_header_1": "Russia (HPAI H5N1)",
-		"report_date": "2015-06-12"
-	}
-]
+{
+	"header_1": "Russia (HPAI H5N1)",
+	"content_1": "Two great crested grebes and two common terns found dead near Ubsu-Nur Lake in the Republic of Tyva (Tuva) during active monitoring of the area tested positive for the highly pathogenic H5N1 avian influenza virus.  The virus has not been detected from healthy migratory birds sampled at the same time.",
+	"header_2": "USA (HPAI H5N2)",
+	"content_2": "Three young Canada geese collected in Sterling Heights, Michigan have been confirmed to be infected with the highly pathogenic H5N2 avian influenza virus.  This is the first time the disease has been discovered in the state, bringing the number of states affected with the disease to 21.  Officials are focusing on measures to prevent the disease from spreading to poultry, such as practicing biosecurity measure including washing boots and tires, gating in poultry farms, and adding air vents to barns in case the virus is airborne. Avian Influenza in Poultry",
+	"header_3": "Ghana (HPAI H5N1)",
+	"content_3": "An additional case of the highly pathogenic H5N1 avian influenza virus has been reported at a farm in Kpone Katamanso, Greater Accra Region with 11- and 12-month-old layers.  246 birds died and the remaining 1,033 were culled to prevent further spread of the virus.",
+	"header_4": "USA (HPAI H5N2)",
+	"content_4": "Three young Canada geese collected in Sterling Heights, Michigan have been confirmed to be infected with the highly pathogenic H5N2 avian influenza virus.  This is the first time the disease has been discovered in the state, bringing the number of states affected with the disease to 21.  Officials are focusing on measures to prevent the disease from spreading to poultry, such as practicing biosecurity measure including washing boots and tires, gating in poultry farms, and adding air vents to barns in case the virus is airborne. Avian Influenza in Poultry"
+}

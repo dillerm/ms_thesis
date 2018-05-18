@@ -1,10 +1,4 @@
-[
-	{
-		"subsection_header_2": "Indonesia (HPAI H5N1)",
-		"subsection_content_2": ".  Indonesian health officials confirmed earlier this week that a 31-year-old woman from the West Java Province died after being treated for H5N1.  She developed symptoms on November 1, and was treated at various health clinics before H5N1 was diagnosed. She died on November 11. The woman kept chickens in her home and could have come into contact with the 50-60 chickens in her neighborhood.  This is the country\u2019s 163rd bird-flu related death.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=325",
-		"subsection_content_1": ".  The German veterinary authorities and the World Organization for Animal Health (OIE) confirmed a new outbreak of low pathogenic avian influenza on a poultry farm in the state of Thuringia.  Out of 827 susceptible birds, four died after contracting the disease while the remaining 823 were destroyed to prevent the disease from spreading to other parts of the country.  The virus has been characterized as the H5 subtype of the low pathogenic avian influenza virus, but the neuraminidase subtype has not been characterized. Control measures being applied include zoning and disinfection of contaminated areas.  The source of the outbreak remains unknown.",
-		"subsection_header_1": "Germany (LPAI H5)",
-		"report_date": "2013-11-26"
-	}
-]
+{
+	"header_1": "Germany (LPAI H5)",
+	"content_1": ".  The German veterinary authorities and the World Organization for Animal Health (OIE) confirmed a new outbreak of low pathogenic avian influenza on a poultry farm in the state of Thuringia.  Out of 827 susceptible birds, four died after contracting the disease while the remaining 823 were destroyed to prevent the disease from spreading to other parts of the country.  The virus has been characterized as the H5 subtype of the low pathogenic avian influenza virus, but the neuraminidase subtype has not been characterized. Control measures being applied include zoning and disinfection of contaminated areas.  The source of the outbreak remains unknown. Avian Influenza in Humans"
+}

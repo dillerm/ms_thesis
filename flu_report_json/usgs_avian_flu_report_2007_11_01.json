@@ -1,16 +1,8 @@
-[
-	{
-		"subsection_header_4": "H5N1 in Humans",
-		"subsection_content_1": "Testing begins in Florida.",
-		"subsection_content_4": "Indonesia. A three-year-old boy has been diagnosed with bird flu. The boy fell ill on October 22; he is in stable condition now after being hospitalized since October 27. Several chickens kept by the family had recently died. This is the third bird flu case in Tangerang this month, however, there is no link between the boy and the four-year-old girl who died of bird flu last week. A 13-year-old boy from this area died from bird flu on October 13. (",
-		"subsection_header_3": "Nigeria. Bird flu may be gradually re-occurring in the Deferal Capital Territories, according to Danladi Etsu Zhin, the Kuje Area Council executive chairman.",
-		"subsection_content_3": "Vietnam. Testing of 480 ducks and 80 chickens that died at 13 small farms in Cao Bang province have tested positive for H5N1. Bird flu is reported to have returned to the northern province of Nam Dinh, but it has yet to be officially confirmed by the Department of Agriculture. If confirmed, this is the third province (following Quang Tri and Cao Bang) to be currently affected.",
-		"subsection_header_2": "H5N1 in Poultry",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=51",
-		"subsection_content_5": "Back",
-		"subsection_header_5": ")",
-		"subsection_content_2": "Nigeria. Bird flu may be gradually re-occurring in the Deferal Capital Territories, according to Danladi Etsu Zhin, the Kuje Area Council executive chairman.",
-		"subsection_header_1": "USA.",
-		"report_date": "2007-11-01"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds",
+	"content_1": "USA. Testing begins in Florida.",
+	"header_2": "USA. in H5N1 in Poultry",
+	"content_2": "Testing begins in Florida.H5N1 in PoultryNigeria. Bird flu may be gradually re-occurring in the Deferal Capital Territories, according to Danladi Etsu Zhin, the Kuje Area Council executive chairman.Vietnam. Testing of 480 ducks and 80 chickens that died at 13 small farms in Cao Bang province have tested positive for H5N1. Bird flu is reported to have returned to the northern province of Nam Dinh, but it has yet to be officially confirmed by the Department of Agriculture. If confirmed, this is the third province (following Quang Tri and Cao Bang) to be currently affected.H5N1 in HumansIndonesia. A three-year-old boy has been diagnosed with bird flu. The boy fell ill on October 22; he is in stable condition now after being hospitalized since October 27. Several chickens kept by the family had recently died. This is the third bird flu case in Tangerang this month, however, there is no link between the boy and the four-year-old girl who died of bird flu last week. A 13-year-old boy from this area died from bird flu on October 13. (more...)",
+	"header_3": "H5N1 in Poultry",
+	"content_3": "Nigeria. Bird flu may be gradually re-occurring in the Deferal Capital Territories, according to Danladi Etsu Zhin, the Kuje Area Council executive chairman. Vietnam. Testing of 480 ducks and 80 chickens that died at 13 small farms in Cao Bang province have tested positive for H5N1. Bird flu is reported to have returned to the northern province of Nam Dinh, but it has yet to be officially confirmed by the Department of Agriculture. If confirmed, this is the third province (following Quang Tri and Cao Bang) to be currently affected."
+}

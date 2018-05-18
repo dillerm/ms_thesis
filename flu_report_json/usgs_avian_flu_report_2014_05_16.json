@@ -1,10 +1,6 @@
-[
-	{
-		"subsection_header_2": "China (LPAI H7N9)",
-		"subsection_content_2": ". The article Novel Avian Influenza A(H7N9) Virus in Tree Sparrow, Shanghai, China, 2013 published recently in the journal Emerging Infectious Diseases, found \u201chigh similarity\u201d in the genetics of an avian influenza A(H7N9) virus from an apparently healthy tree sparrow in Shanghai and the H7N9 viruses from humans and poultry in the region. The authors suggest that there may be transmission from poultry to tree sparrows or vice versa and highlights the importance of tracking the influenza virus in a variety of species.",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=341",
-		"subsection_content_1": ".  Chinese health officials confirmed two new cases of H7N9 this past week.  The victims, a 50-year-old man and a 71-year-old man, both from Guangdong province, have been hospitalized and are being treated.  So far this year, more than 120 people have been infected with the H7N9 virus.  Guangdong province has been hit especially hard, with five deaths in April alone.  Disease surveillance, health education, and travel warnings have been increased throughout the country in hopes to prevent further outbreaks.",
-		"subsection_header_1": "China (LPAI H7N9)",
-		"report_date": "2014-05-16"
-	}
-]
+{
+	"header_1": "China (LPAI H7N9)",
+	"content_1": ".  Chinese health officials confirmed two new cases of H7N9 this past week.  The victims, a 50-year-old man and a 71-year-old man, both from Guangdong province, have been hospitalized and are being treated.  So far this year, more than 120 people have been infected with the H7N9 virus.  Guangdong province has been hit especially hard, with five deaths in April alone.  Disease surveillance, health education, and travel warnings have been increased throughout the country in hopes to prevent further outbreaks. Avian Influenza in Wild Birds",
+	"header_2": "China (LPAI H7N9)",
+	"content_2": ".  Chinese health officials confirmed two new cases of H7N9 this past week.  The victims, a 50-year-old man and a 71-year-old man, both from Guangdong province, have been hospitalized and are being treated.  So far this year, more than 120 people have been infected with the H7N9 virus.  Guangdong province has been hit especially hard, with five deaths in April alone.  Disease surveillance, health education, and travel warnings have been increased throughout the country in hopes to prevent further outbreaks. Avian Influenza in Wild Birds"
+}

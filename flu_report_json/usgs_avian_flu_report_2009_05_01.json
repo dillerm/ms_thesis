@@ -1,16 +1,4 @@
-[
-	{
-		"subsection_header_4": "Egypt. A 38-year-old woman from Asyut province was diagnosed with bird flu after being hospitalized with a fever and bad cough on March 14. It is thought that she contracted the disease through contact with dead poultry. This is the 59th case of bird flu in Egypt.",
-		"subsection_content_1": "News Update, May 1",
-		"subsection_content_4": "Vietnam. A three-year-old boy from Dong Thap province tested positive for H5N1 bird flu. There are conflicting reports on how the boy was exposed; the family may have raised chickens that died recently. There are also duck farms near his home that have been affected by H5N1.  The boy had eaten either the chicken or duck prior to developing symptoms. He died on Mar 19.  Four people have been infected with bird flu in Vietnam this year and the virus has been blamed for two deaths.",
-		"subsection_header_3": "H5N1 in Humans",
-		"subsection_content_3": "Egypt. A 38-year-old woman from Asyut province was diagnosed with bird flu after being hospitalized with a fever and bad cough on March 14. It is thought that she contracted the disease through contact with dead poultry. This is the 59th case of bird flu in Egypt.",
-		"subsection_header_2": "H5N1 in Poultry",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=134",
-		"subsection_content_5": "more...",
-		"subsection_header_5": "(",
-		"subsection_content_2": "Bangladesh. Bird flu has been detected in a poultry farm in the village of Rampur in Netrakona District.  The district Livestock Office said that dozens of birds that died over the last week have tested positive. Officials culled 1,595 chickens and 205 eggs.",
-		"subsection_header_1": ")",
-		"report_date": "2009-05-01"
-	}
-]
+{
+	"header_1": "H5N1 in Poultry",
+	"content_1": "Bangladesh. Bird flu has been detected in a poultry farm in the village of Rampur in Netrakona District.  The district Livestock Office said that dozens of birds that died over the last week have tested positive. Officials culled 1,595 chickens and 205 eggs. India. New outbreaks of bird flu are occurring in the Darjeeling District of West Bengal one month after officials announced that the outbreak was contained. West Bengal officials began the process of culling about 11,000 birds. Indonesia. The Ngawi Husbandry Agency of East Java reported that 30 chickens in Ngawi died of bird flu. A two-year-old child is in the hospital following contact with some of the chickens, avian influenza is suspected."
+}

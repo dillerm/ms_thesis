@@ -1,22 +1,10 @@
-[
-	{
-		"subsection_header_8": ")",
-		"subsection_header_4": "Anser albifrons",
-		"subsection_header_7": "H5N1 in Humans",
-		"subsection_content_1": "Nial Moores from Birds   Korea, part of the United Nations Food and Agriculture Organization (FAO)   mission to South Korea to investigate the H5N1 outbreaks in domestic poultry,   made public his personal observations that there was no evidence of large-scale   wild bird mortality near the H5N1 outbreaks.  During the week-long mission, 2   ducks and 2 rufous (Oriental) turtle doves (",
-		"subsection_content_4": "), and   mallards; collected within 10 km of the outbreaks will be analyzed in South   Korea and Australia. These observations do not necessarily reflect the official   FAO report, which has yet to be released.",
-		"subsection_content_6": "Vietnam: During the week of December 20, 2006, H5N1 was reported in ducks raised illegally in three locations in two provinces (Ca Mau and Bac Lieu) in the Mekong Delta.  The scale of the situation then repeatedly expanded, first to he adjacent province of Hau Giang, then as of the beginning of 2007 to a total of 25 communities in three. During the same period, cross-border smuggling of poultry continued in the northern provinces bordering China. Over a ton of poultry was seized over the New Year by local authorities in the province of Qang Ninh. The northern smuggling route has frequently been cited as a possible route of introduction of H5N1 into Vietnam. The bird flu situation in Vietnam was further complicated as over 70% of the poultry tested in the central provinces of Quang Nam and Quang Ngai are positive for H5N1.",
-		"subsection_header_6": "Vietnam:",
-		"subsection_header_3": "Corvus   frugilegus",
-		"subsection_content_3": "), greater white-fronted geese (",
-		"subsection_header_2": "Streptopelia orientalis",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=12",
-		"subsection_content_7": "Three members of an extended family, a   brother (26), sister (15), and a 30-year-old niece, who were part of a household   of 33 people have died from H5N1 in the Gharbiya governorate in Egypt. The   family had initially denied that they raised ducks at home but the brother and   sister had slaughtered the flock after a number of the ducks died. (",
-		"subsection_content_5": "A scaly-breasted munia (a   finch species) found dead in Causeway Bay, an urban shopping district in Hong   Kong has tested positive for the H5 subtype, and one news source indicated it   may be H5N1.  The bird was one of six birds found dead on New Year\u2019s Eve on the   island territory.",
-		"subsection_header_5": "Hong Kong:",
-		"subsection_content_2": ") were   the only dead birds found.  Samples from wild birds, including rook (",
-		"subsection_header_1": "South Korea:",
-		"report_date": "2007-01-08",
-		"subsection_content_8": "Back"
-	}
-]
+{
+	"header_1": "H5N1 in Wild Birds in South Korea:",
+	"content_1": "Nial Moores from Birds   Korea, part of the United Nations Food and Agriculture Organization (FAO)   mission to South Korea to investigate the H5N1 outbreaks in domestic poultry,   made public his personal observations that there was no evidence of large-scale   wild bird mortality near the H5N1 outbreaks.  During the week-long mission, 2   ducks and 2 rufous (Oriental) turtle doves (Streptopelia orientalis) were   the only dead birds found.  Samples from wild birds, including rook (",
+	"header_2": "H5N1 in Wild Birds in Corvus   frugilegus",
+	"content_2": "), greater white-fronted geese (Anser albifrons), and   mallards; collected within 10 km of the outbreaks will be analyzed in South   Korea and Australia. These observations do not necessarily reflect the official   FAO report, which has yet to be released.",
+	"header_3": "H5N1 in Wild Birds in Hong Kong:",
+	"content_3": "A scaly-breasted munia (a   finch species) found dead in Causeway Bay, an urban shopping district in Hong   Kong has tested positive for the H5 subtype, and one news source indicated it   may be H5N1.  The bird was one of six birds found dead on New Year’s Eve on the   island territory.",
+	"header_4": "H5N1 in   Domestic Animals in Vietnam:",
+	"content_4": "Vietnam: During the week of December 20, 2006, H5N1 was reported in ducks raised illegally in three locations in two provinces (Ca Mau and Bac Lieu) in the Mekong Delta.  The scale of the situation then repeatedly expanded, first to he adjacent province of Hau Giang, then as of the beginning of 2007 to a total of 25 communities in three. During the same period, cross-border smuggling of poultry continued in the northern provinces bordering China. Over a ton of poultry was seized over the New Year by local authorities in the province of Qang Ninh. The northern smuggling route has frequently been cited as a possible route of introduction of H5N1 into Vietnam. The bird flu situation in Vietnam was further complicated as over 70% of the poultry tested in the central provinces of Quang Nam and Quang Ngai are positive for H5N1."
+}

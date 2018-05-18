@@ -1,18 +1,10 @@
-[
-	{
-		"subsection_header_4": "Boone County, AR",
-		"subsection_content_1": "Asbury, Jasper County, MO",
-		"subsection_content_4": "The highly pathogenic H5N2 avian influenza was confirmed at a turkey farm in Boone County. The farm, along with the Asbury farm in Missouri, is a contract farm that supplies to Butterball LLC, the largest turkey producer in the U.S.  The disease, which spread into the southeast after appearing in a migratory route along the Mississippi River, raises concerns for the future of the poultry industry.",
-		"subsection_content_6": "Two women from Menoufia and Sharqui governorates have died of the highly pathogenic H5N1 avian influenza virus, bringing the total number of deaths this year to 13.  Three cases, including a two-year-old child from Cairo and two men in their 40s from the Delta area, are still under treatment. Between December 2014 and February 2015, a total of 101 human cases have been reported in the country with 31 fatalities.  Egypt is now the country with the most human cases of H5N1, accounting for 37% of all cases worldwide.",
-		"subsection_header_6": "Egypt (HPAI H5N1)",
-		"subsection_header_3": "Fortuna, Moniteau County, MO",
-		"subsection_content_3": "A second case of highkly pathogenic H5N2 avian influenza was reported a day later at a facility in Fortuna, Moniteau County housing 21,000 turkeys.  The premise is a contract farm for Cargill Inc. The remaining birds on both the Asbury and Fortuna facilities will be culled to prevent further spread of the disease.  Surveillance and testing are also underway at nearby farms to ensure the virus has not spread.",
-		"subsection_header_2": "Asbury, Jasper County, MO",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=411",
-		"subsection_content_5": "Researchers warn that the highly pathogenic H7N9 avian influenza virus is fast-mutating and could cause a pandemic.  At least 48 different sub-types have been discovered through genome sequencing.  This genetic diversity can increase the virus's ability to spread among humans, although there has been no evidence yet of sustained human-to-human transmission which is a prerequisite for pandemic spread.  H7N9 can spread from birds to humans more easily than the H5N1 strain, which has infected 784 people in 16 countries with 492 deaths since its appearance in 2003, whereas H7N9 has infected 596 persons since its emergence two years ago.",
-		"subsection_header_5": "China (LPAI H7N9)",
-		"subsection_content_2": "According the Missouri Department of Agriculture, the highly pathogenic H5N2 avian influenza virus has been confirmed at a turkey farm in Asbury, Jasper County housing 30,100 birds.  The flock experienced high mortality, with 3000 birds died in a 24 hour period. This marked the first time that H5N2 had been detected in Missouri. A 10 km quarantine zone has been established, and because of the farms location, the zone extends into portions of Kansas.",
-		"subsection_header_1": "USA (HPAI H5N2)",
-		"report_date": "2015-03-13"
-	}
-]
+{
+	"header_1": "USA (HPAI H5N2) in Asbury, Jasper County, MO",
+	"content_1": "According the Missouri Department of Agriculture, the highly pathogenic H5N2 avian influenza virus has been confirmed at a turkey farm in Asbury, Jasper County housing 30,100 birds.  The flock experienced high mortality, with 3000 birds died in a 24 hour period. This marked the first time that H5N2 had been detected in Missouri. A 10 km quarantine zone has been established, and because of the farms location, the zone extends into portions of Kansas.",
+	"header_2": "USA (HPAI H5N2) in Fortuna, Moniteau County, MO",
+	"content_2": "A second case of highkly pathogenic H5N2 avian influenza was reported a day later at a facility in Fortuna, Moniteau County housing 21,000 turkeys.  The premise is a contract farm for Cargill Inc. The remaining birds on both the Asbury and Fortuna facilities will be culled to prevent further spread of the disease.  Surveillance and testing are also underway at nearby farms to ensure the virus has not spread.",
+	"header_3": "USA (HPAI H5N2) in Boone County, AR",
+	"content_3": "The highly pathogenic H5N2 avian influenza was confirmed at a turkey farm in Boone County. The farm, along with the Asbury farm in Missouri, is a contract farm that supplies to Butterball LLC, the largest turkey producer in the U.S.  The disease, which spread into the southeast after appearing in a migratory route along the Mississippi River, raises concerns for the future of the poultry industry.",
+	"header_4": "China (LPAI H7N9)",
+	"content_4": "Researchers warn that the highly pathogenic H7N9 avian influenza virus is fast-mutating and could cause a pandemic.  At least 48 different sub-types have been discovered through genome sequencing.  This genetic diversity can increase the virus?s ability to spread among humans, although there has been no evidence yet of sustained human-to-human transmission which is a prerequisite for pandemic spread.  H7N9 can spread from birds to humans more easily than the H5N1 strain, which has infected 784 people in 16 countries with 492 deaths since its appearance in 2003, whereas H7N9 has infected 596 persons since its emergence two years ago."
+}

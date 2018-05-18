@@ -1,22 +1,4 @@
-[
-	{
-		"subsection_header_8": ")",
-		"subsection_header_4": "Ardea cinerea",
-		"subsection_header_7": "Bangladesh. Bangladesh has reported 35 H5N1 outbreaks in poultry  to the World Organization for Animal Health (OIE) that occurred from March 26 to December 12, 2007. On December 17,  two H5N1 outbreaks were reported in the Galbanda District. In one, 57 birds died from a flock of 622 in an outbreak that began on December 5; in the other, 8 birds died from a flock of 476 in an outbreak that began on December 10.",
-		"subsection_content_1": "According to an overview report that the FAO recently released about the",
-		"subsection_content_4": ") found sick on December 5 at a wetland near the Mai Po Nature Reserve that subsequently died has tested positive for H5N1, which prompted authorities to temporarily close public access to the reserve. Hong Kong's Agriculture, Fisheries and Conservation Department said the reserve will be closed for 21 days. The grey heron is a non-native species and migrates to Hong Kong in winter. In another occurrence, a common buzzard (",
-		"subsection_content_6": "Bangladesh. Bangladesh has reported 35 H5N1 outbreaks in poultry  to the World Organization for Animal Health (OIE) that occurred from March 26 to December 12, 2007. On December 17,  two H5N1 outbreaks were reported in the Galbanda District. In one, 57 birds died from a flock of 622 in an outbreak that began on December 5; in the other, 8 birds died from a flock of 476 in an outbreak that began on December 10.",
-		"subsection_header_6": "H5N1 in Poultry",
-		"subsection_header_3": "H5N1 in Wild birds",
-		"subsection_content_3": "Hong Kong. A grey heron (",
-		"subsection_header_2": "2007 global H5N1 situation",
-		"report_url": "https://www.nwhc.usgs.gov/disease_information/avian_influenza/avian_influenza_id.jsp?id=59",
-		"subsection_content_7": "Germany. Two chickens have tested positive for H5N1 in Altglobsow in eastern Germany near Berlin. The chickens were part of a flock of nine, and after five of them died, two were sent for testing.  The remaining birds have been destroyed and a 3 km protection zone has been imposed. According to the OIE report, 10 birds in a backyard flock of 11 laying hens have died and the remaining bird destroyed. The International Herald Tribune reported that Germany had previously detected H5N1 in a domestic goose in November. Preliminary analysis of the genetic sequence of the virus indicates that it is related to the strains found previously in Germany. (",
-		"subsection_content_5": "a common visitor to Hong Kong) found dead on December 17 in Lantau has tested positive for H5N1. According to the Agriculture, Fisheries & Conservation Department, there are no chicken farms within 3 km of where the birds were found at either location.",
-		"subsection_header_5": "Buteo buteo,",
-		"subsection_content_2": ",  there were fewer outbreaks in 2007 (30 countries) than in 2006 (54 countries). H5N1 was reported in five countries for the first time this year (Bangladesh, Benin, Ghana, Saudi Arabia, and Togo). According to the report, except for some outbreaks in wild birds, the majority of the cases occurred in domestic poultry. While increased surveillance and rapid response has allowed countries such as India, Malaysia, Romania and Turkey to control their outbreaks, the virus persists on three continents and remains a threat to those countries that have controlled their outbreaks or have not yet been exposed.",
-		"subsection_header_1": "News Update, Dec 21",
-		"report_date": "2007-12-21",
-		"subsection_content_8": "Back"
-	}
-]
+{
+	"header_1": "H5N1 in Wild birds in Buteo buteo,",
+	"content_1": "Hong Kong. A grey heron (Ardea cinerea) found sick on December 5 at a wetland near the Mai Po Nature Reserve that subsequently died has tested positive for H5N1, which prompted authorities to temporarily close public access to the reserve. Hong Kong's Agriculture, Fisheries and Conservation Department said the reserve will be closed for 21 days. The grey heron is a non-native species and migrates to Hong Kong in winter. In another occurrence, a common buzzard (a common visitor to Hong Kong) found dead on December 17 in Lantau has tested positive for H5N1. According to the Agriculture, Fisheries & Conservation Department, there are no chicken farms within 3 km of where the birds were found at either location."
+}
