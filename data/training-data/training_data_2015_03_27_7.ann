@@ -1,0 +1,12 @@
+T1	location 0 3	USA
+T2	location 5 7	MN
+T3	influenza 8 17	HPAI H5N2
+T4	host_organism 103 113	wild birds
+T5	influenza 133 177	highly pathogenic H5N2 avian influenza virus
+T6	host_organism 194 206	turkey flock
+T7	location 207 218	Pope County
+T12	location 490 501	Pope County
+T13	location 561 565	U.S.
+T14	host_organism 581 591	wild birds
+T15	host_organism 636 642	turkey
+T16	host_organism 698 703	birds

@@ -1,0 +1,11 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 27	Indonesia
+T4	host_organism 33 39	people
+T5	location 73 88	Malang District
+T6	location 92 101	East Java
+T7	host_organism 147 153	person
+T8	date 220 226	August
+T9	influenza 61 69	bird flu
+T10	influenza 178 186	bird flu
+T11	influenza 345 354	flu virus

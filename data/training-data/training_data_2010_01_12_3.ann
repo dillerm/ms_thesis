@@ -1,0 +1,13 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 27	Cambodia
+T4	influenza 43 47	H5N1
+T5	host_organism 65 72	poultry
+T6	location 89 107	Kang Cham province
+T7	date 117 128	December 16
+T8	host_organism 163 171	chickens
+T9	host_organism 180 185	ducks
+T10	host_organism 191 196	birds
+T11	influenza 276 281	virus
+T12	location 471 479	Cambodia
+T13	influenza 537 550	H5N1 bird flu

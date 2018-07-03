@@ -1,0 +1,15 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 29	Bangladesh
+T4	influenza 54 62	bird flu
+T5	date 80 85	March
+T6	date 96 101	April
+T7	location 122 131	Gaibandha
+T8	location 133 143	Chittagong
+T9	location 145 153	Rajshahi
+T10	location 155 162	Comilla
+T11	location 164 174	Patuakhali
+T12	location 176 181	Biral
+T13	location 183 194	Narayanganj
+T14	location 196 202	Rangpu
+T15	location 209 217	Norsingd

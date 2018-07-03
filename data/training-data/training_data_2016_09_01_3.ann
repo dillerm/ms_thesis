@@ -1,0 +1,22 @@
+T1	location 0 5	China
+T2	influenza 7 16	LPAI H7N9
+T3	influenza 109 150	low pathogenic H7N9 avian influenza virus
+T4	location 154 161	Beijing
+T5	location 163 177	Hebei Province
+T6	location 183 198	Fujian Province
+T7	host_organism 203 218	79-year-old man
+T8	location 222 228	Fujian
+T9	date 237 244	July 10
+T10	host_organism 276 291	78-year-old man
+T11	location 295 301	Fujian
+T12	host_organism 349 356	poultry
+T13	host_organism 361 376	35-year-old man
+T14	location 380 387	Beijing
+T15	location 446 453	Jiangxi
+T16	host_organism 435 442	poultry
+T17	host_organism 460 468	patients
+T18	location 490 495	Hebei
+T19	host_organism 499 515	13-year-old girl
+T20	host_organism 522 539	68-year-old woman
+T21	influenza 596 616	H7N9 avian influenza
+T22	date 669 676	October

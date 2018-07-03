@@ -1,0 +1,12 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 27	Hong Kong
+T5	influenza 74 87	H9N2 bird flu
+T6	influenza 104 113	influenza
+T7	host_organism 136 142	humans
+T8	host_organism 191 195	girl
+T9	date 256 264	November
+T10	influenza 338 342	H9N2
+T11	host_organism 348 352	girl
+T12	date 371 382	December 11
+T4	host_organism 41 45	girl

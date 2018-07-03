@@ -1,0 +1,12 @@
+T1	location 0 5	India
+T4	host_organism 107 118	house crows
+T5	host_organism 120 136	Corvus splendens
+T8	location 353 359	Amethi
+T9	date 363 371	March 13
+T10	host_organism 386 391	ducks
+T11	host_organism 393 397	hens
+T12	host_organism 403 410	pigeons
+T2	influenza 12 16	H5N1
+T3	influenza 50 70	H5N1 avian influenza
+T6	location 145 153	Haliapur
+T13	location 162 171	Sultanpur

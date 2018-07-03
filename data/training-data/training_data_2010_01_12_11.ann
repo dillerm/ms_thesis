@@ -1,0 +1,9 @@
+T1	location 0 6	Russia
+T2	location 25 46	Chuvashskaya province
+T3	influenza 116 133	H1N1 (2009) virus
+T4	date 165 175	December 3
+T5	date 199 210	November 10
+T6	host_organism 234 238	pigs
+T7	host_organism 298 302	pigs
+T8	host_organism 308 312	pigs
+T9	host_organism 440 444	pigs

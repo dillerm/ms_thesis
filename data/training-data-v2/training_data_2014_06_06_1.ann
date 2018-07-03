@@ -1,0 +1,17 @@
+T1	influenza 0 15	Avian Influenza
+T2	host_organism 19 25	Humans
+T3	location 29 34	China
+T5	date 51 57	June 4
+T6	host_organism 158 163	human
+T7	influenza 173 177	H7N9
+T8	location 185 192	Jiangsu
+T14	host_organism 408 415	poultry
+T15	host_organism 437 442	human
+T16	influenza 452 456	H7N9
+T17	location 480 485	China
+T4	influenza 41 45	H7N9
+T9	location 197 205	Shandong
+T10	host_organism 273 276	man
+T11	host_organism 296 301	woman
+T12	host_organism 254 257	man
+T13	host_organism 383 386	man

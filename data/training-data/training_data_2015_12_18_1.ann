@@ -1,0 +1,5 @@
+T1	location 0 5	China
+T2	influenza 7 16	HPAI H5N6
+T3	influenza 95 139	highly pathogenic H5N6 avian influenza virus
+T4	location 165 179	Hunan province
+T5	host_organism 301 306	birds

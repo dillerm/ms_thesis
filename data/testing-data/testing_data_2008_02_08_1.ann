@@ -1,0 +1,18 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 13 18	birds
+T3	location 22 31	Hong Kong
+T4	host_organism 37 62	black-crowned night heron
+T5	date 77 83	Jan 28
+T6	influenza 102 106	H5N1
+T7	host_organism 222 233	great egret
+T8	host_organism 235 252	Casmerodius albus
+T9	influenza 330 348	H5 avian influenza
+T10	date 416 424	December
+T11	host_organism 454 464	grey heron
+T12	influenza 479 483	H5N1
+T13	date 488 492	2006
+T14	host_organism 513 518	birds
+T15	influenza 533 537	H5N1
+T16	location 555 564	Hong Kong
+T17	influenza 287 295	bird flu
+T18	host_organism 301 305	bird

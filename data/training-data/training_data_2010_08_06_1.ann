@@ -1,0 +1,23 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 28	Indonesia
+T4	location 79 91	East Jakarta
+T5	host_organism 107 115	chickens
+T6	host_organism 121 126	ducks
+T7	host_organism 136 143	pigeons
+T8	influenza 169 177	bird flu
+T9	host_organism 207 212	birds
+T10	host_organism 363 370	poultry
+T11	host_organism 407 412	birds
+T12	date 455 469	July 27 and 28
+T13	host_organism 484 492	chickens
+T14	influenza 512 525	H5N1 bird flu
+T15	location 545 568	South Sulawesi province
+T16	host_organism 632 640	chickens
+T17	host_organism 921 926	birds
+T18	host_organism 1019 1027	chickens
+T19	influenza 1071 1084	H5N1 bird flu
+T20	host_organism 1359 1367	chickens
+T21	influenza 1495 1503	bird flu
+T22	host_organism 694 703	livestock
+T23	location 992 1008	Lampung province

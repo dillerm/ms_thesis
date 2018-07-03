@@ -1,0 +1,29 @@
+T1	location 0 6	France
+T3	influenza 19 23	H5N2
+T4	influenza 25 29	H5N9
+T6	location 156 162	France
+T7	influenza 266 270	H5N2
+T10	influenza 315 319	H5N9
+T13	host_organism 415 420	birds
+T14	influenza 496 500	H5N1
+T15	host_organism 507 512	ducks
+T19	location 1160 1166	France
+T20	location 1321 1327	France
+T21	location 1332 1338	Landes
+T22	host_organism 1382 1389	poultry
+T23	location 1420 1428	Dordogne
+T24	location 1502 1522	Pyrénées Atlantiques
+T25	host_organism 1564 1569	ducks
+T26	location 1578 1582	Gers
+T27	host_organism 1617 1622	ducks
+T28	host_organism 1627 1639	guinea fowls
+T30	location 1819 1824	Spain
+T2	influenza 13 17	H5N1
+T5	influenza 129 152	avian influenza viruses
+T8	location 293 299	Landes
+T9	location 364 384	Pyrénées-Atlantiques
+T12	location 835 843	Dordogne
+T16	location 530 538	Dordogne
+T17	influenza 1135 1156	avian influenza virus
+T18	date 1187 1200	last two days
+T11	host_organism 341 346	ducks

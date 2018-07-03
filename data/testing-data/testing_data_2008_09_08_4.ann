@@ -1,0 +1,7 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 21	USA
+T4	date 155 168	September 4th
+T5	location 172 181	La Crosse
+T6	location 183 192	Wisconsin
+T7	influenza 407 421	bird flu virus

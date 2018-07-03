@@ -1,0 +1,14 @@
+T1	location 0 7	Hungary
+T2	influenza 9 18	HPAI H5N8
+T3	influenza 68 112	highly pathogenic H5N8 avian influenza virus
+T4	location 117 132	Csongrad County
+T5	host_organism 174 183	mute swan
+T6	date 193 201	10/19/16
+T7	host_organism 225 229	bird
+T8	host_organism 280 284	bird
+T9	location 331 343	Bekes County
+T10	host_organism 351 356	birds
+T11	host_organism 412 419	turkeys
+T12	influenza 421 430	HPAI H5N8
+T13	host_organism 462 467	birds
+T14	host_organism 545 550	birds

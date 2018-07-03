@@ -1,0 +1,16 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 27	Indonesia
+T5	influenza 94 98	H5N1
+T6	date 102 118	December 6, 2012
+T7	host_organism 164 168	fowl
+T9	location 220 229	Indonesia
+T11	host_organism 349 352	boy
+T13	location 437 446	Indonesia
+T14	date 450 459	September
+T16	host_organism 789 794	ducks
+T17	influenza 830 840	H5N1 virus
+T4	host_organism 82 85	boy
+T8	location 190 199	West Java
+T18	location 212 217	Bogor
+T12	influenza 394 398	H5N1

@@ -1,0 +1,17 @@
+T1	influenza 0 15	Avian Influenza
+T2	host_organism 19 25	Humans
+T3	location 29 34	China
+T4	influenza 36 45	LPAH H7N9
+T5	date 51 57	June 4
+T6	host_organism 158 163	human
+T7	influenza 173 177	H7N9
+T8	location 185 192	Jiangsu
+T9	location 197 215	Shandong provinces
+T10	host_organism 242 257	33-year-old man
+T11	host_organism 261 276	51-year-old man
+T12	host_organism 284 301	51-year-old woman
+T13	host_organism 371 386	61-year-old man
+T14	host_organism 408 415	poultry
+T15	host_organism 437 442	human
+T16	influenza 452 456	H7N9
+T17	location 480 485	China

@@ -1,0 +1,12 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 30	South Korea
+T4	influenza 46 59	H5N2 bird flu
+T5	host_organism 80 84	duck
+T6	location 93 119	Chung Chong-Namdo province
+T7	host_organism 137 142	ducks
+T8	date 405 415	December 7
+T9	date 498 509	December 22
+T10	host_organism 522 527	ducks
+T11	influenza 634 639	virus
+T12	host_organism 662 667	ducks

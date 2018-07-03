@@ -1,0 +1,19 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 18	Wild birds
+T3	location 22 27	China
+T4	influenza 43 56	H5N1 bird flu
+T5	date 66 71	May 9
+T6	location 79 105	Shuanghu district of Tibet
+T7	date 126 132	May 25
+T8	host_organism 158 168	wild birds
+T9	host_organism 184 202	brown-headed gulls
+T10	host_organism 204 224	Larus brunnicephalus
+T11	host_organism 230 246	bar-headed geese
+T12	host_organism 248 261	Anser indicus
+T13	host_organism 268 285	red-billed chough
+T14	host_organism 287 310	Pyrrhocorax pyrrhocorax
+T15	host_organism 320 335	Eurasian wigeon
+T16	host_organism 337 350	Anas penelope
+T17	influenza 353 357	H5N1
+T18	date 428 434	June 3
+T19	host_organism 492 501	wild bird

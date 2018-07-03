@@ -1,0 +1,18 @@
+T1	location 0 6	Taiwan
+T2	influenza 8 17	HPAI H5N2
+T3	influenza 19 23	H5N8
+T4	influenza 93 137	highly pathogenic H5N2 avian influenza virus
+T5	host_organism 160 168	chickens
+T6	location 190 205	Changhua county
+T7	host_organism 271 279	chickens
+T8	host_organism 302 310	chickens
+T9	location 589 604	Pingtung county
+T10	influenza 635 679	highly pathogenic H5N8 avian influenza virus
+T11	host_organism 686 691	ducks
+T12	host_organism 728 733	ducks
+T13	influenza 1196 1220	H5 avian influenza virus
+T14	location 1244 1250	Taipei
+T15	host_organism 1316 1324	chickens
+T16	influenza 1359 1374	avian influenza
+T17	host_organism 1505 1513	chickens
+T18	location 1556 1569	Yunlin county

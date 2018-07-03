@@ -1,0 +1,31 @@
+# Specify location of training file and location where the model is to be stored
+trainFile = ner-crf-training-data-v2.tsv
+serializeTo = flu-ner-model-v3.ser.gz
+
+# Specify structure of training file; column 0 contains the word, while column 1 contains the annotation
+map = word=0,answer=1
+
+# Specify order of CRF
+maxLeft = 1
+
+# Convert IO format to IOB2
+entitySubclassification="IOB2"
+retainEntitySubclassification=true
+
+useClassFeature=true
+useWord=true
+useNGrams=true
+noMidNGrams=true
+maxNGramLeng=2
+usePrev=true
+useNext=true
+useWordPairs=true
+useDisjunctive=true
+useSequences=true
+usePrevSequences=true
+
+# Properties for word shape features
+useTypeSeqs=true
+useTypeSeqs2=true
+useTypeySequences=true
+wordShape=chris2useLC

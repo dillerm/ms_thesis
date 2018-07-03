@@ -1,0 +1,10 @@
+T1	location 0 5	China
+T4	location 155 171	Guangdong, China
+T5	date 222 237	January 10 2017
+T7	host_organism 407 414	poultry
+T8	influenza 441 445	H7N9
+T9	host_organism 457 464	poultry
+T10	date 468 472	2013
+T2	influenza 12 16	H7N9
+T3	influenza 109 129	H7N9 avian influenza
+T6	influenza 375 385	H7N9 virus

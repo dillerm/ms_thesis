@@ -1,0 +1,7 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 13 18	birds
+T3	location 22 24	UK
+T4	host_organism 34 39	swans
+T5	date 53 59	Jan 28
+T6	influenza 80 84	H5N1
+T7	host_organism 152 157	swans

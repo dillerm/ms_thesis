@@ -1,0 +1,23 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 26	Vietnam
+T4	location 61 67	Ca Mau
+T5	location 69 78	Dien Bien
+T6	location 80 89	Soc Trang
+T7	location 91 99	Nam Dinh
+T8	location 101 112	Tuyen Quang
+T9	location 114 122	Ha Giang
+T10	location 127 136	Khanh Hoa
+T11	location 151 160	Khanh Hoa
+T12	host_organism 168 173	birds
+T13	date 272 279	March 2
+T14	location 377 396	Mekong Delta region
+T15	location 415 426	Tuyen Quang
+T16	location 431 439	Ha Giang
+T17	date 486 493	March 3
+T18	host_organism 536 541	birds
+T19	location 545 556	Tuyen Quang
+T20	date 569 580	February 26
+T21	date 588 595	March 1
+T22	host_organism 623 631	chickens
+T23	influenza 27 35	Bird flu

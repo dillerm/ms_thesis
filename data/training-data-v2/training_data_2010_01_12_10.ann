@@ -1,0 +1,14 @@
+T1	location 0 11	South Korea
+T2	influenza 22 39	H1N1 (2009) virus
+T4	date 105 116	December 31
+T5	host_organism 141 145	pigs
+T6	date 373 384	December 14
+T7	influenza 418 435	H1N1 (2009) virus
+T10	location 526 538	Cholla-Namdo
+T13	host_organism 641 645	pigs
+T14	host_organism 851 855	Pigs
+T3	location 77 92	Kyongsang-Namdo
+T8	location 470 484	Kyonsang-Bukdo
+T9	location 500 510	Kyonggi-Do
+T11	location 545 553	Cheju-Do
+T12	location 573 587	Kyonsang-Namdo

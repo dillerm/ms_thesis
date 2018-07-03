@@ -1,0 +1,15 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 26	Nigeria
+T4	host_organism 27 35	Chickens
+T5	host_organism 42 46	duck
+T6	influenza 95 110	avian influenza
+T7	host_organism 116 124	chickens
+T8	location 160 165	Kebbi
+T9	date 169 173	June
+T10	host_organism 183 187	duck
+T11	location 222 227	Gombe
+T12	date 231 235	July
+T13	host_organism 241 246	birds
+T14	host_organism 419 424	birds
+T15	influenza 325 329	H5N1

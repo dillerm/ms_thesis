@@ -1,0 +1,8 @@
+T1	influenza 0 4	H5N1
+T3	location 22 31	Hong Kong
+T4	influenza 90 98	bird flu
+T5	location 153 162	Hong Kong
+T6	date 166 169	Dec
+T7	date 171 175	2007
+T2	host_organism 13 18	Birds
+T8	host_organism 237 242	birds

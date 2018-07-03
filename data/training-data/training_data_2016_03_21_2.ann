@@ -1,0 +1,10 @@
+T1	location 0 6	France
+T2	influenza 8 17	HPAI H5N9
+T3	influenza 90 134	highly pathogenic H5N9 avian influenza virus
+T4	location 151 168	Landes Department
+T5	host_organism 327 332	birds
+T6	location 668 674	Landes
+T7	influenza 685 689	HPAI
+T8	date 709 713	2015
+T9	influenza 732 741	HPAI H5N9
+T10	location 754 760	France

@@ -1,0 +1,12 @@
+T1	location 0 5	Egypt
+T2	influenza 7 16	HPAI H5N1
+T3	host_organism 98 103	human
+T4	influenza 113 157	highly pathogenic H5N1 avian influenza virus
+T5	location 161 166	Cairo
+T6	location 171 175	Giza
+T7	host_organism 182 189	patient
+T8	location 193 198	Cairo
+T9	date 228 235	March 4
+T10	host_organism 245 252	patient
+T11	location 256 260	Giza
+T12	date 270 281	February 24

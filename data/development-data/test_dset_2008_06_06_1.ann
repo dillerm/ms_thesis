@@ -1,0 +1,20 @@
+T1	influenza 0 4	H5N1
+T3	location 22 27	China
+T4	influenza 93 105	H5N1 viruses
+T6	date 156 169	December 2005
+T8	influenza 213 217	H5N1
+T9	host_organism 251 259	chickens
+T10	host_organism 264 269	geese
+T2	host_organism 13 18	birds
+T5	host_organism 125 130	ducks
+T7	location 193 198	Hunan
+T11	host_organism 282 287	ducks
+T12	host_organism 344 352	chickens
+T13	host_organism 354 359	geese
+T14	host_organism 361 366	ducks
+T15	host_organism 371 375	mice
+T16	host_organism 292 296	mice
+T17	host_organism 417 421	duck
+T18	host_organism 425 429	duck
+T19	host_organism 472 476	mice
+T20	influenza 306 310	H5N1

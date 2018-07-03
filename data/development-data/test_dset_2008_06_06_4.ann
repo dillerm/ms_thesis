@@ -1,0 +1,8 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 22	USA
+T4	host_organism 120 128	chickens
+T5	location 161 169	Arkansas
+T6	influenza 194 198	H7N3
+T7	host_organism 225 230	birds
+T8	influenza 281 291	H7N3 virus

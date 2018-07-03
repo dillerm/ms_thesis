@@ -1,0 +1,13 @@
+T1	location 0 5	China
+T3	date 21 28	June 17
+T5	location 148 156	Shenyang
+T7	influenza 199 203	H7N9
+T8	host_organism 210 213	man
+T9	host_organism 251 258	chicken
+T10	influenza 543 547	H5N6
+T12	date 592 596	June
+T2	influenza 12 16	H7N9
+T4	host_organism 138 142	male
+T6	location 176 184	Liaoning
+T13	location 168 173	China
+T11	location 551 559	Liaoning

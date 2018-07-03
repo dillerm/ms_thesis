@@ -1,0 +1,9 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 25	Mexico
+T4	host_organism 172 180	chickens
+T6	influenza 249 263	bird flu virus
+T7	host_organism 363 370	poultry
+T8	host_organism 513 521	chickens
+T9	influenza 564 569	virus
+T5	location 211 221	Guanajuato

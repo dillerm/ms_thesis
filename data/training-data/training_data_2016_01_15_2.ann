@@ -1,0 +1,15 @@
+T1	location 0 6	France
+T2	influenza 8 17	HPAI H5N1
+T3	influenza 19 23	H5N2
+T4	influenza 86 124	highly pathogenic avian influenza H5N1
+T5	host_organism 146 153	poultry
+T7	location 195 222	Department of Haute-Garonne
+T8	location 303 309	France
+T9	host_organism 331 339	chickens
+T10	host_organism 350 355	ducks
+T11	host_organism 434 439	ducks
+T13	location 463 494	Department Pyrenees-Atlantiques
+T14	influenza 496 534	Highly pathogenic avian influenza H5N2
+T15	host_organism 560 565	ducks
+T6	location 169 186	Lafitte-Vigordane
+T12	location 451 455	Orin

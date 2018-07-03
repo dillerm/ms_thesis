@@ -1,0 +1,14 @@
+T1	location 0 23	Palestinian Territories
+T2	influenza 25 34	HPAI H5N1
+T3	influenza 98 142	highly pathogenic avian influenza H5N1 virus
+T5	location 188 197	Jerusalem
+T6	host_organism 239 243	hens
+T7	location 359 380	Palestinian Authority
+T8	location 385 391	Israel
+T9	influenza 406 421	Avian influenza
+T10	date 450 457	January
+T11	date 462 470	February
+T13	location 518 541	Palestinian Territories
+T4	location 176 182	Katana
+T12	location 484 496	Moshav Avial
+T14	location 500 506	Israel

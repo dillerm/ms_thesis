@@ -1,0 +1,11 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 18	Wild birds
+T3	location 22 31	Hong Kong
+T4	influenza 102 106	H5N1
+T5	host_organism 150 171	oriental magpie robin
+T6	date 181 192	December 29
+T7	host_organism 320 330	wild birds
+T8	influenza 356 364	bird flu
+T9	location 368 377	Hong Kong
+T10	date 381 385	2009
+T11	host_organism 290 294	bird

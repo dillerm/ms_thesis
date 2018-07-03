@@ -1,0 +1,18 @@
+T1	location 0 6	Taiwan
+T2	influenza 8 17	HPAI H5N6
+T3	date 40 51	February 20
+T4	influenza 65 85	H5N6 avian influenza
+T5	host_organism 124 131	chicken
+T6	location 145 176	Hsinchu County, northern Taiwan
+T7	influenza 205 209	H5N6
+T8	location 213 227	Hsinchu County
+T9	host_organism 274 282	chickens
+T10	date 316 327	February 18
+T11	influenza 370 395	HPAI H5N6 avian influenza
+T12	location 435 448	Chiayi County
+T13	host_organism 456 461	ducks
+T14	location 485 497	Yilan County
+T15	location 524 537	Yunlin County
+T16	host_organism 552 560	chickens
+T17	host_organism 612 619	poultry
+T18	date 659 670	February 17

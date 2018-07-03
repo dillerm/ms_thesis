@@ -1,0 +1,12 @@
+T1	location 0 6	Mexico
+T2	influenza 8 17	HPAI H7N3
+T3	influenza 101 145	highly pathogenic H7N3 avian influenza virus
+T4	host_organism 219 226	chicken
+T5	host_organism 231 245	Indian peafowl
+T6	host_organism 247 273	Phasianidae:Pavo cristatus
+T7	location 285 300	Jalisco, Puebla
+T8	location 305 321	Veracruz, Mexico
+T9	date 563 568	March
+T10	host_organism 586 594	chickens
+T11	host_organism 602 616	Indian peafowl
+T12	host_organism 654 659	birds

@@ -67,7 +67,7 @@ for link in find_links:
         latest_report_content = scrap_content(link_to_archives) # Scrap HTML content of latest archived report
         next_report_url = find_next_url(latest_report_content)
         dt_latest_report = format_date_for_fname(latest_report_content.find(selected=True).string)
-        f_name = 'flu_report_html/usgs_avian_flu_report_' + dt_latest_report + '.html'
+        f_name = 'flu-report-html/usgs_avian_flu_report_' + dt_latest_report + '.html'
 
         with open(f_name, 'w') as report1_f:
             report1_f.write(str(latest_report_content.prettify()))
@@ -76,7 +76,7 @@ for link in find_links:
             try:
                 page_content = scrap_content(next_report_url)
                 dt = format_date_for_fname(page_content.find(selected=True).string)
-                fname = 'flu_report_html/usgs_avian_flu_report_' + dt + '.html'
+                fname = 'flu-report-html/usgs_avian_flu_report_' + dt + '.html'
             except http.client.HTTPException:
                 print("Disconnected from server. Please stand by.")
                 time.sleep(30)

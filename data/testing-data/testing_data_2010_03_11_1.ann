@@ -1,0 +1,7 @@
+T1	location 0 7	Denmark
+T2	location 45 52	Denmark
+T3	influenza 116 127	H7 bird flu
+T4	date 151 158	March 5
+T5	date 228 235	March 9
+T6	host_organism 299 307	mallards
+T7	host_organism 314 322	chickens

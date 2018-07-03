@@ -1,0 +1,12 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 26	Thailand
+T4	host_organism 31 39	children
+T5	host_organism 59 64	women
+T6	host_organism 127 135	patients
+T7	location 226 233	Phichit
+T8	host_organism 280 287	poultry
+T9	influenza 334 338	H5N1
+T10	influenza 365 383	seasonal influenza
+T11	host_organism 450 458	patients
+T12	influenza 181 189	bird flu

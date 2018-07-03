@@ -1,0 +1,14 @@
+T1	influenza 0 12	H3N2 Variant
+T2	host_organism 16 22	Humans
+T3	location 26 39	United States
+T4	influenza 54 63	swine flu
+T5	host_organism 105 111	people
+T6	influenza 126 144	variant H3N2 virus
+T7	host_organism 150 154	pigs
+T8	location 162 165	U.S
+T9	host_organism 244 248	pigs
+T10	location 252 257	Korea
+T11	influenza 286 289	flu
+T12	influenza 365 373	bird flu
+T13	influenza 412 421	swine flu
+T14	influenza 636 643	viruses

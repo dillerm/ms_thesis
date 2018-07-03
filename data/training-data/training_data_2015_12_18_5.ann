@@ -1,0 +1,13 @@
+T1	location 0 7	Vietnam
+T2	influenza 9 18	HPAI H5N1
+T3	influenza 20 24	H5N6
+T4	influenza 76 120	highly pathogenic H5N1 avian influenza virus
+T5	location 146 163	Chau Duc District
+T7	host_organism 217 225	chickens
+T8	host_organism 247 252	birds
+T9	influenza 478 521	highly pathogenic H5N6 avian influenza viru
+T10	host_organism 544 550	quails
+T11	location 576 594	Quang Nam Province
+T12	host_organism 612 617	birds
+T13	host_organism 647 652	birds
+T6	location 183 198	Ba Ria-Vung Tau

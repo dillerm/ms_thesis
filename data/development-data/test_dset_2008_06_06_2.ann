@@ -1,0 +1,8 @@
+T1	influenza 0 4	H5N1
+T3	location 22 27	Japan
+T4	host_organism 32 37	swans
+T5	date 64 69	April
+T6	location 73 79	Aomori
+T7	influenza 100 104	H5N1
+T8	date 188 196	June 3rd
+T2	host_organism 13 18	birds

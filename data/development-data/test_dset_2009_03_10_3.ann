@@ -1,0 +1,9 @@
+T2	host_organism 8 15	Poultry
+T3	location 19 24	Japan
+T4	influenza 25 45	H7N6 avian influenza
+T5	location 78 94	Toyohashi, Aichi
+T6	host_organism 113 118	quail
+T7	host_organism 201 206	birds
+T8	host_organism 283 288	birds
+T9	date 360 367	March 4
+T10	influenza 369 371	H7

@@ -1,0 +1,17 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 22	USA
+T4	host_organism 27 36	pheasants
+T5	location 61 76	Treasure Valley
+T6	location 100 105	Idaho
+T7	influenza 141 156	avian influenza
+T8	host_organism 191 196	birds
+T9	host_organism 301 306	birds
+T10	location 370 375	Chino
+T11	location 377 387	California
+T12	host_organism 401 406	birds
+T13	host_organism 507 512	ducks
+T14	host_organism 514 523	pheasants
+T15	host_organism 525 542	chukar partridges
+T16	host_organism 548 553	quail
+T17	host_organism 578 583	birds

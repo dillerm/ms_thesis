@@ -1,0 +1,13 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 23	Egypt
+T5	location 57 66	el-Fayoum
+T6	influenza 114 128	bird flu virus
+T7	influenza 155 160	birds
+T9	location 193 203	Alexandria
+T10	host_organism 247 252	birds
+T11	influenza 319 327	bird flu
+T12	host_organism 331 337	humans
+T13	location 341 346	Egypt
+T4	host_organism 48 51	boy
+T8	host_organism 184 187	boy

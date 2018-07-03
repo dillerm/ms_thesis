@@ -1,0 +1,22 @@
+T1	location 0 5	China
+T4	location 154 161	Beijing
+T8	location 222 228	Fujian
+T9	date 237 244	July 10
+T11	location 295 301	Fujian
+T12	host_organism 349 356	poultry
+T14	location 380 387	Beijing
+T15	location 446 453	Jiangxi
+T16	host_organism 435 442	poultry
+T17	host_organism 460 468	patients
+T18	location 490 495	Hebei
+T21	influenza 596 616	H7N9 avian influenza
+T22	date 669 676	October
+T2	influenza 12 16	H7N9
+T3	influenza 124 150	H7N9 avian influenza virus
+T5	location 163 168	Hebei
+T6	location 183 189	Fujian
+T7	host_organism 215 218	man
+T10	host_organism 288 291	man
+T13	host_organism 373 376	man
+T19	host_organism 511 515	girl
+T20	host_organism 534 539	woman

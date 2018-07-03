@@ -1,0 +1,6 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 26	Germany
+T4	influenza 102 106	H5N1
+T6	host_organism 220 228	chickens
+T5	location 149 160	Brandenburg

@@ -1,0 +1,12 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 25	Vietnam
+T5	influenza 61 69	bird flu
+T6	date 73 77	Feb.
+T7	date 78 80	13
+T8	date 89 93	Feb.
+T9	date 94 96	25
+T10	influenza 126 134	bird flu
+T11	location 138 145	Vietnam
+T12	date 152 156	2003
+T4	host_organism 40 43	man

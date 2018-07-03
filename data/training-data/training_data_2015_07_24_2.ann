@@ -1,0 +1,8 @@
+T1	influenza 0 15	Avian Influenza
+T2	host_organism 19 26	Poultry
+T3	location 30 36	Taiwan
+T4	influenza 38 47	HPAI H5N2
+T5	influenza 70 114	highly pathogenic H5N2 avian influenza virus
+T6	location 152 181	Taixi Township, Yunlin County
+T7	location 207 241	Changzhi Township, Pingtung County
+T8	host_organism 250 255	birds

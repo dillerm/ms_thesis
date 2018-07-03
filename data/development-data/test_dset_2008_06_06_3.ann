@@ -1,0 +1,15 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 21	UK
+T4	influenza 22 40	H7 avian influenza
+T5	host_organism 89 97	chickens
+T6	location 101 112	Oxfordshire
+T7	host_organism 302 310	chickens
+T8	influenza 330 345	avian influenza
+T9	influenza 370 388	H7 avian influenza
+T10	date 451 457	June 4
+T11	influenza 543 545	H7
+T12	location 553 555	UK
+T13	date 562 570	May 2006
+T14	location 593 600	Banbury
+T15	influenza 623 625	H7

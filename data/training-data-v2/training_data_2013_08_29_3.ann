@@ -1,0 +1,21 @@
+T1	influenza 0 20	H5N1 Avian Influenza
+T2	host_organism 24 30	Humans
+T3	location 34 39	Nepal
+T4	influenza 144 154	H5N1 virus
+T5	host_organism 196 201	women
+T6	host_organism 209 214	women
+T7	host_organism 315 320	women
+T11	host_organism 501 506	woman
+T13	influenza 778 786	bird flu
+T14	location 798 803	Nepal
+T15	host_organism 862 867	birds
+T17	date 939 951	26th of July
+T18	host_organism 994 1002	chickens
+T19	host_organism 1007 1012	ducks
+T20	location 1258 1266	Katmandu
+T21	host_organism 1302 1316	bird flu virus
+T22	influenza 1402 1412	H5N1 virus
+T23	location 1435 1443	Katmandu
+T8	host_organism 452 459	patient
+T9	location 527 538	Nawalparasi
+T10	location 875 884	Bhaktapur

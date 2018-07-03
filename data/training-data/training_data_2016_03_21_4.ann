@@ -1,0 +1,7 @@
+T1	location 0 7	Nigeria
+T2	influenza 9 18	HPAI H5N1
+T3	influenza 88 132	highly pathogenic H5N1 avian influenza virus
+T4	location 150 156	Kaduna
+T5	location 158 162	Kano
+T6	location 168 175	Plateau
+T7	host_organism 288 293	birds

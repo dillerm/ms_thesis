@@ -1,0 +1,28 @@
+T1	location 0 5	Spain
+T2	influenza 7 16	HPAI H5N8
+T3	influenza 91 129	highly pathogenic H5N8 avian influenza
+T4	location 133 142	Catalonia
+T6	date 168 179	February 20
+T7	host_organism 183 194	white stork
+T8	influenza 263 267	H5N8
+T9	date 281 288	January
+T10	host_organism 294 307	greylag geese
+T11	location 322 346	Castilla y Leon province
+T12	influenza 371 380	HPAI H5N8
+T13	host_organism 416 421	stork
+T14	host_organism 462 469	poultry
+T15	date 596 607	February 23
+T17	location 669 678	Catalonia
+T18	influenza 714 752	highly pathogenic H5N8 avian influenza
+T20	host_organism 856 861	ducks
+T21	host_organism 1040 1050	wild birds
+T22	host_organism 1054 1059	stork
+T23	location 1074 1083	Catalonia
+T24	date 1087 1098	February 20
+T25	influenza 1119 1123	H5N8
+T26	host_organism 1152 1162	wild birds
+T27	influenza 1252 1267	avian influenza
+T28	location 1271 1276	Spain
+T5	location 157 162	Spain
+T16	location 693 698	Spain
+T19	location 808 814	Girona

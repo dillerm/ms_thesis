@@ -1,0 +1,10 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 13 18	birds
+T3	location 22 24	UK
+T4	host_organism 28 36	seabirds
+T5	host_organism 91 96	birds
+T6	host_organism 105 123	black-backed gulls
+T7	location 137 147	Peedie Sea
+T8	location 153 159	Orkney
+T9	influenza 295 299	H5N1
+T10	influenza 77 85	bird flu

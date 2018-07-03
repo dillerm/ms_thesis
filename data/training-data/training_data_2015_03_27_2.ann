@@ -1,0 +1,13 @@
+T1	location 0 5	India
+T2	influenza 7 16	HPAI H5N1
+T3	influenza 32 70	highly pathogenic H5N1 avian influenza
+T4	host_organism 107 118	house crows
+T5	host_organism 120 136	Corvus splendens
+T7	influenza 216 221	virus
+T8	location 353 359	Amethi
+T9	date 363 371	March 13
+T10	host_organism 386 391	ducks
+T11	host_organism 393 397	hens
+T12	host_organism 403 410	pigeons
+T6	location 145 158	Haliapur area
+T13	location 162 180	Sultanpur district

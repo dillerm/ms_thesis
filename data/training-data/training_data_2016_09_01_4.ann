@@ -1,0 +1,10 @@
+T1	location 0 5	China
+T2	influenza 7 11	H9N2
+T3	date 16 24	February
+T4	host_organism 28 33	human
+T5	influenza 42 68	H9N2 avian influenza virus
+T7	host_organism 107 114	patient
+T9	date 203 214	February 15
+T10	date 228 239	February 19
+T11	host_organism 246 253	patient
+T6	location 93 100	Chengdu

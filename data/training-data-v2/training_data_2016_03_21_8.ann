@@ -1,0 +1,22 @@
+T1	location 0 5	China
+T3	host_organism 73 78	human
+T5	host_organism 136 144	patients
+T7	location 174 183	Zhongshan
+T9	location 212 219	Shantou
+T11	date 320 327	March 6
+T12	host_organism 369 375	patien
+T13	host_organism 400 407	poultry
+T14	date 464 472	March 17
+T15	host_organism 596 601	human
+T19	location 705 717	Longyan City
+T20	date 747 755	March 16
+T22	host_organism 796 803	patient
+T24	host_organism 950 957	patient
+T2	influenza 12 16	H7N9
+T4	influenza 103 129	H7N9 avian influenza virus
+T6	host_organism 163 168	woman
+T8	host_organism 203 206	man
+T10	location 673 678	Hubei
+T17	location 656 663	Longyan
+T16	influenza 626 652	H7N9 avian influenza virus
+T18	location 807 812	Hubei

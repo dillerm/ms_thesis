@@ -1,0 +1,13 @@
+T1	location 0 9	Hong Kong
+T2	date 14 25	December 10
+T3	date 169 180	November 26
+T4	influenza 214 231	H1N1 (2009) virus
+T5	host_organism 288 292	pigs
+T6	location 252 270	Yuen Long district
+T7	host_organism 317 321	pigs
+T8	influenza 363 366	flu
+T9	influenza 599 604	virus
+T10	host_organism 636 643	animals
+T11	influenza 862 866	H1N1
+T12	date 914 925	December 21
+T13	host_organism 980 984	pigs

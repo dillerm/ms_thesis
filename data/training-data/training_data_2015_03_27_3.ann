@@ -1,0 +1,13 @@
+T1	location 0 3	USA
+T2	influenza 5 14	HPAI H5N2
+T3	influenza 16 54	Highly pathogenic avian influenza H5N2
+T4	host_organism 78 90	Canada goose
+T5	location 94 101	Montana
+T6	host_organism 110 122	Canada goose
+T7	location 142 154	Cheyenne, MT
+T8	influenza 231 235	H5N2
+T9	date 266 270	2014
+T10	location 278 280	US
+T12	host_organism 363 372	wild bird
+T14	host_organism 189 193	bird
+T11	location 326 333	Montana

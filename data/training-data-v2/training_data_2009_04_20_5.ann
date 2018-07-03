@@ -1,0 +1,15 @@
+T1	influenza 29 37	Bird flu
+T2	influenza 0 4	H5N1
+T3	host_organism 8 15	Poultry
+T4	location 19 28	Indonesia
+T5	location 61 65	Riau
+T6	date 105 110	March
+T7	host_organism 134 141	poultry
+T8	date 172 179	April 4
+T9	host_organism 237 245	chickens
+T10	influenza 266 274	bird flu
+T11	host_organism 319 327	chickens
+T13	influenza 414 422	bird flu
+T12	location 465 477	Teluk Masjid
+T14	location 482 493	Teluk Batil
+T15	host_organism 718 725	poultry

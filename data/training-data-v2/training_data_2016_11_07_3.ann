@@ -1,0 +1,79 @@
+T1	location 0 5	India
+T4	location 141 162	District of Alappuzha
+T7	date 208 224	October 27, 2016
+T9	host_organism 250 257	poultry
+T10	location 279 288	Ramankari
+T11	location 293 301	Thakazhy
+T12	date 326 333	11/4/16
+T13	host_organism 378 383	birds
+T14	location 412 421	Alappuzha
+T15	location 432 437	Anari
+T16	location 439 446	Kainadi
+T17	location 448 457	Karuvatta
+T18	location 459 472	Mampuzhakkara
+T19	location 474 486	Neelamperoor
+T20	location 488 497	Pallippad
+T21	location 502 507	Pandi
+T22	location 568 576	Thakazhy
+T23	location 578 588	Cheruthana
+T24	location 594 606	Muttom Grama
+T25	host_organism 660 665	ducks
+T26	host_organism 702 707	ducks
+T27	host_organism 771 776	ducks
+T28	location 792 798	Muttom
+T29	host_organism 807 812	ducks
+T30	location 816 824	Thakazhy
+T31	host_organism 830 835	ducks
+T32	location 873 883	Cheruthana
+T33	location 936 943	Kainadi
+T34	location 947 959	Neelamperoor
+T35	host_organism 978 983	ducks
+T37	location 1111 1121	Arpookkara
+T40	date 1348 1355	11/4/16
+T41	host_organism 1374 1379	birds
+T42	host_organism 1437 1442	birds
+T43	location 1569 1578	New Delhi
+T45	host_organism 1652 1657	birds
+T46	date 1676 1681	10/14
+T47	host_organism 1697 1710	rosy pelicans
+T48	host_organism 1718 1723	ducks
+T49	host_organism 1732 1745	painted stork
+T50	host_organism 1751 1756	birds
+T51	influenza 1782 1786	H5N8
+T52	host_organism 1825 1830	birds
+T53	host_organism 1843 1857	grey partridge
+T54	host_organism 1873 1885	rosy pelican
+T55	host_organism 1889 1894	munia
+T56	host_organism 1912 1917	crows
+T58	influenza 1999 2003	H5N8
+T60	host_organism 2127 2132	birds
+T61	location 2150 2155	Delhi
+T62	location 2173 2192	Hauz Khas Deer Park
+T63	location 2197 2209	Shakti Sthal
+T64	influenza 2303 2307	H5N8
+T66	host_organism 2659 2664	birds
+T67	host_organism 2679 2693	painted storks
+T69	host_organism 2775 2789	painted storks
+T71	date 2831 2839	10/22/16
+T72	host_organism 2875 2889	painted storks
+T73	host_organism 2980 2985	birds
+T75	host_organism 3026 3031	ducks
+T76	location 3061 3068	Rajpura
+T77	influenza 3094 3098	H5N8
+T78	influenza 3174 3186	H5N8 viruses
+T79	influenza 3253 3265	H5N8 viruses
+T5	location 180 186	Kerala
+T6	location 199 204	India
+T38	location 1152 1160	Kottayam
+T39	location 1178 1184	Kerala
+T57	location 1957 1969	Sundar Nagar
+T59	location 2009 2017	Ghazipur
+T65	location 2641 2655	Madhya Pradesh
+T2	influenza 12 16	H5N8
+T3	influenza 107 133	H5N1 avian influenza virus
+T8	influenza 232 236	H5N8
+T36	influenza 1081 1107	H5N8 avian influenza virus
+T44	influenza 1619 1645	H5N8 avian influenza virus
+T68	influenza 2820 2824	H5N8
+T70	date 2841 2855	Two days later
+T74	location 3005 3011	Punjab

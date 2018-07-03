@@ -1,0 +1,13 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 26	Cambodia
+T4	host_organism 84 89	human
+T5	influenza 99 103	H5N1
+T6	location 165 192	southeastern Takeo province
+T7	location 200 241	central Kampong Speu province of Cambodia
+T8	host_organism 259 275	15-year-old girl
+T9	host_organism 282 297	35-year-old man
+T10	influenza 334 342	bird flu
+T11	location 411 419	Cambodia
+T12	influenza 444 448	H5N1
+T13	host_organism 348 367	eight-month-old boy

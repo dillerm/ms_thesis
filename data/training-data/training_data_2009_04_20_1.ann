@@ -1,0 +1,10 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 85 100	migratory birds
+T3	host_organism 8 18	Wild birds
+T4	location 22 27	India
+T5	influenza 132 140	bird flu
+T6	location 144 149	India
+T7	host_organism 168 183	migratory birds
+T8	influenza 204 208	H5N1
+T9	host_organism 275 290	migratory birds
+T10	influenza 359 367	bird flu

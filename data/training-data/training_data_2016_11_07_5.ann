@@ -1,0 +1,8 @@
+T1	location 0 15	The Netherlands
+T2	influenza 17 24	LPAI H5
+T3	influenza 77 116	low pathogenic H5 avian influenza virus
+T4	location 138 144	Deurne
+T5	host_organism 169 175	turkey
+T6	host_organism 183 192	pheasants
+T7	host_organism 204 209	ducks
+T8	host_organism 428 435	poultry

@@ -12,9 +12,10 @@ import io
 
 
 flu_subtype = re.compile('^H[0-9]N[0-9]\s?[A-Za-z]*\s?(in)?\s?')
-pathogenicity_subtype1 = re.compile('^[HL]PAI H[0-9]N?[0-9]? in ')
+pathogenicity_subtype1 = re.compile('^[HL]PAI\s?H?[0-9]?N?[0-9]?\s?in ')
 pathogenicity_subtype2 = re.compile('^[A-Za-z]+ \((([HL]PAI|possible)?\s?H[0-9]N?[0-9]?.*|.*\s?AI|.bird flu.)\)$')
 pathogenicity_subtype3 = re.compile('^[A-Za-z]+ [A-Za-z]+ \((([HL]PAI|possible)?\s?H[0-9]N?[0-9]?.*|.*\s?AI)|.bird flu.\)')
+#pathogenicity_subtype4 = re.compile('^[HL]PAI in ')
 punctuation = re.compile('[?.!]')
 location_heading = re.compile('^\s?[A-Za-z]+?\s?[A-Za-z]+?[\.|\:]\s?$')
 location = re.compile('^\w+?\s?\w+?[\.|\:]')
@@ -38,7 +39,7 @@ def find_header(lst, regex_expression):
             return False
 
 
-dhand = input("Directory name: ")
+dhand = input("Name of directory: ")
 
 empty_keys = set()
 empty_dicts = set()
@@ -54,7 +55,7 @@ try:
 
             change_filename = f_name.split('.html')
             rm_dir = change_filename[0].split('/')
-            fname = 'flu_report_json/' + rm_dir[1] + '.json'
+            fname = 'flu-report-json/' + rm_dir[1] + '.json'
 
             report_table = soup.find('table', id='maincontent')
 
@@ -122,10 +123,9 @@ try:
                                         and not re.match(pathogenicity_subtype1, remaining_s) \
                                         and not re.match(pathogenicity_subtype2, remaining_s) \
                                         and not re.match(pathogenicity_subtype3, remaining_s):
-                                    #print(remaining_s)
                                     if re.search(punctuation, remaining_s) is None \
                                             and not remaining_s.startswith('Avian Influenza in '):
-                                        #print('289: '), remaining_s
+                                        print('289: ', remaining_s)
                                         trigger = 'y'
                                         k = remaining_strings.index(remaining_s)
 
@@ -138,7 +138,6 @@ try:
                                                 content = content + possible_content
                                                 continue
                                             else:
-                                                #print('301: ', header)
                                                 content_dct[header_label] = header
                                                 content_dct[content_label] = content
 
@@ -148,11 +147,11 @@ try:
                                                 break
 
                                     elif trigger == '':
+                                        print(remaining_s)
                                         content_lst.append(remaining_s)
                                         content = ' '.join(content_lst)
 
                                     elif remaining_s == last_s:
-                                        #print('315: ', header)
                                         content_dct[header_label] = header
                                         content_dct[content_label] = content
                                         print("Reached the end.")
@@ -161,7 +160,6 @@ try:
                                     if content == '' : break
                                     content_dct[header_label] = header
                                     content_dct[content_label] = content
-                                    #print('324: ', header)
 
                                     content = ''
                                     header = ''
@@ -216,7 +214,7 @@ try:
                                         header = ''
                                         count += 1
                                         break
-            #print(content_dct)
+            print(content_dct)
 
             # Write parsing errors to errors.txt file
             if not content_dct:

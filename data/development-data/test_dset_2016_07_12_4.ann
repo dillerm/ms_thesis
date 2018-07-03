@@ -1,0 +1,9 @@
+T1	location 0 7	Vietnam
+T3	influenza 93 97	H5N6
+T4	location 110 117	Vietnam
+T5	location 258 272	Hanoï, Vietnam
+T6	location 342 352	Quang Ngai
+T7	host_organism 359 364	birds
+T8	host_organism 392 397	birds
+T9	host_organism 453 458	birds
+T2	influenza 14 18	H5N6

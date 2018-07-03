@@ -1,0 +1,12 @@
+T1	influenza 0 4	H5N1
+T2	location 22 31	Hong Kong
+T3	host_organism 52 71	red-billed starling
+T4	host_organism 73 90	Sturnus  sericeus
+T5	influenza 117 121	H5N1
+T6	date 152 158	May 26
+T7	location 195 219	Mong Kok, Kowloon, China
+T8	influenza 363 367	H5N1
+T9	location 372 377	China
+T10	date 388 392	2007
+T11	host_organism 8 18	Wild Birds
+T12	host_organism 327 337	wild birds

@@ -1,0 +1,13 @@
+T1	location 0 3	USA
+T3	host_organism 38 45	mallard
+T6	date 271 275	2014
+T7	date 276 280	2015
+T8	host_organism 286 290	bird
+T9	host_organism 312 321	waterfowl
+T10	location 367 384	Fairbanks, Alaska
+T11	influenza 422 432	H5N2 virus
+T12	date 439 448	June 2015
+T14	location 508 514	Alaska
+T2	influenza 10 14	H5N2
+T4	influenza 126 141	avian influenza
+T5	influenza 214 224	H5N2 virus

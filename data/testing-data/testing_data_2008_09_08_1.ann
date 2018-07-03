@@ -1,0 +1,13 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 13 18	birds
+T3	location 22 31	Singapore
+T4	host_organism 49 52	man
+T5	host_organism 108 113	birds
+T6	location 119 128	Indonesia
+T7	location 132 141	Singapore
+T8	host_organism 199 202	man
+T9	host_organism 282 301	Oriental White Eyes
+T10	host_organism 261 264	man
+T11	host_organism 399 404	birds
+T12	date 503 508	April
+T13	host_organism 552 557	birds

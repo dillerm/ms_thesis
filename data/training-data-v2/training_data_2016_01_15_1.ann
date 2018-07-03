@@ -1,0 +1,19 @@
+T1	location 0 6	Taiwan
+T3	location 69 75	Taiwan
+T4	host_organism 93 101	sparrows
+T5	influenza 124 134	H5 subtype
+T7	host_organism 188 196	sparrows
+T9	influenza 274 284	H5 subtype
+T10	date 288 297	January 8
+T11	host_organism 388 396	sparrows
+T12	influenza 410 433	avian influenza viruses
+T13	host_organism 566 574	sparrows
+T14	influenza 634 662	H5 highly pathogenic subtype
+T15	host_organism 668 674	pigeon
+T17	date 745 755	January 11
+T2	influenza 13 15	H5
+T8	location 224 232	Taichung
+T6	influenza 156 177	avian influenza virus
+T16	location 716 722	Taipei
+T19	location 725 741	Wenshan District
+T18	location 235 249	Situn District

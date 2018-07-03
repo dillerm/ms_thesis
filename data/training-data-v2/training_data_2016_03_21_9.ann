@@ -1,0 +1,12 @@
+T1	location 0 5	Egypt
+T3	host_organism 98 103	human
+T5	location 161 166	Cairo
+T6	location 171 175	Giza
+T7	host_organism 182 189	patient
+T8	location 193 198	Cairo
+T9	date 228 235	March 4
+T10	host_organism 245 252	patient
+T11	location 256 260	Giza
+T12	date 270 281	February 24
+T2	influenza 12 16	H5N1
+T4	influenza 131 157	H5N1 avian influenza virus

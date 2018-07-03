@@ -1,0 +1,7 @@
+T1	location 0 9	Indonesia
+T2	influenza 11 20	HPAI H5N1
+T3	influenza 86 130	highly pathogenic H5N1 avian influenza virus
+T4	location 134 158	Bangka Belitung province
+T5	host_organism 181 189	chickens
+T6	host_organism 191 196	ducks
+T7	host_organism 202 206	pigs

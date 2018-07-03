@@ -1,0 +1,15 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 24	Nepal
+T4	influenza 115 119	H5N1
+T5	location 127 136	Kathmandu
+T8	host_organism 218 223	birds
+T9	location 300 314	Kaski District
+T10	host_organism 320 328	chickens
+T11	influenza 396 401	virus
+T12	host_organism 429 436	poultry
+T13	host_organism 509 514	birds
+T14	host_organism 575 580	birds
+T6	location 141 156	Kaski Districts
+T15	location 160 165	Nepal
+T7	location 195 204	Kathmandu

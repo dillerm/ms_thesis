@@ -1,0 +1,18 @@
+T1	location 0 7	Ontario
+T3	date 23 35	July 8, 2016
+T4	influenza 102 122	H5N2 avian influenza
+T5	location 179 192	St Catharines
+T6	location 212 219	Ontario
+T7	host_organism 225 230	birds
+T8	date 247 259	July 4, 2016
+T9	influenza 329 344	avian influenza
+T10	influenza 360 370	H5 subtype
+T13	influenza 627 631	H5N8
+T14	location 650 652	US
+T15	location 657 663	Canada
+T16	host_organism 738 743	birds
+T17	host_organism 840 845	birds
+T18	influenza 1028 1043	avian influenza
+T2	influenza 14 18	H5N2
+T11	influenza 515 541	H5 avian influenza viruses
+T12	influenza 606 626	avian influenza H5N2

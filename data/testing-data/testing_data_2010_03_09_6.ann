@@ -1,0 +1,15 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 25	Vietnam
+T4	location 58 65	Vietnam
+T5	date 95 99	2010
+T6	date 171 182	February 25
+T7	date 231 242	February 23
+T8	host_organism 115 120	woman
+T9	location 126 136	Tien Giang
+T10	location 285 294	Dong Thap
+T11	host_organism 424 431	poultry
+T12	host_organism 498 502	girl
+T13	date 542 561	earlier in the week
+T14	influenza 461 469	bird flu
+T15	influenza 74 82	bird flu

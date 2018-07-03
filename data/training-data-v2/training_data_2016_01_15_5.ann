@@ -1,0 +1,12 @@
+T1	location 0 7	Vietnam
+T4	location 135 142	Vietnam
+T5	date 173 182	January 5
+T7	host_organism 220 225	birds
+T9	date 323 332	January 6
+T10	host_organism 382 390	chickens
+T11	host_organism 404 409	geese
+T12	host_organism 451 456	birds
+T2	influenza 14 18	H5N6
+T3	influenza 111 131	H5N6 avian influenza
+T6	location 190 200	Quang Ngai
+T8	location 303 310	Kon Tum

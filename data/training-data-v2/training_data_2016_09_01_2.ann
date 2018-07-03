@@ -1,0 +1,17 @@
+T1	location 0 4	Togo
+T4	location 155 170	Maritime Region
+T5	location 175 184	Adetikope
+T6	host_organism 193 198	birds
+T7	influenza 247 251	H5N1
+T8	influenza 351 356	birds
+T9	location 414 423	Adidogome
+T10	host_organism 429 434	birds
+T11	host_organism 491 496	birds
+T12	location 829 833	Togo
+T14	date 869 873	2008
+T16	influenza 978 982	H5N1
+T17	date 989 993	2015
+T2	influenza 11 15	H5N1
+T3	influenza 104 130	H5N1 avian influenza virus
+T13	influenza 857 861	H5N1
+T15	location 952 958	Africa

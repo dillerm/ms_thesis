@@ -1,0 +1,17 @@
+T1	location 0 4	Togo
+T2	influenza 6 15	HPAI H5N1
+T3	influenza 86 130	highly pathogenic H5N1 avian influenza virus
+T4	location 155 170	Maritime Region
+T5	location 175 184	Adetikope
+T6	host_organism 193 198	birds
+T7	influenza 247 251	H5N1
+T8	influenza 351 356	birds
+T9	location 414 423	Adidogome
+T10	host_organism 429 434	birds
+T11	host_organism 491 496	birds
+T12	location 829 833	Togo
+T13	influenza 852 861	HPAI H5N1
+T14	date 869 873	2008
+T15	location 944 958	western Africa
+T16	influenza 978 982	H5N1
+T17	date 989 993	2015

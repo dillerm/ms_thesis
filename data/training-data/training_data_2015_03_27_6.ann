@@ -1,0 +1,12 @@
+T1	location 0 5	China
+T2	influenza 7 16	HPAI H5N1
+T3	influenza 118 156	highly pathogenic H5N1 avian influenza
+T4	host_organism 160 166	humans
+T5	host_organism 173 181	patients
+T6	host_organism 188 203	34-year-old man
+T7	host_organism 210 221	17-year-old
+T8	location 227 251	Kunming, Yunnan Province
+T9	date 375 382	March 3
+T10	influenza 424 428	H5N1
+T11	host_organism 409 414	human
+T12	date 458 462	2003

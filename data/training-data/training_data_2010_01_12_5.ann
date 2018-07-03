@@ -1,0 +1,7 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 26	Vietnam
+T4	host_organism 40 45	birds
+T5	location 81 98	Cao Bang province
+T6	influenza 107 120	H5N1 bird flu
+T7	influenza 559 572	H5N1 bird flu

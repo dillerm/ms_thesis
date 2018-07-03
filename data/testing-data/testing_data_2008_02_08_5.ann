@@ -1,0 +1,17 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 24	India
+T4	location 59 70	West Bengal
+T5	location 156 161	India
+T6	host_organism 209 216	poultry
+T7	date 450 454	Feb.
+T8	date 455 456	3
+T9	location 536 552	Canning Block II
+T10	location 556 573	South 24 Parganas
+T11	location 642 647	Assam
+T12	location 670 678	Parganas
+T13	location 708 713	Bihar
+T14	location 715 724	Jharkhand
+T15	location 729 735	Orissa
+T16	influenza 135 143	bird flu
+T17	influenza 506 514	bird flu

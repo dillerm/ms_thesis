@@ -1,0 +1,8 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 24	India
+T4	host_organism 41 46	birds
+T5	host_organism 67 74	poultry
+T7	influenza 129 142	H5N1 bird flu
+T8	host_organism 426 431	Birds
+T6	location 108 115	Burdwan

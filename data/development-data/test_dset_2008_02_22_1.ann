@@ -1,0 +1,8 @@
+T1	influenza 0 4	H5N1
+T3	location 22 30	Pakistan
+T4	influenza 128 136	bird flu
+T5	location 150 158	Pakistan
+T6	location 198 208	Bangladesh
+T2	host_organism 13 18	birds
+T8	host_organism 95 100	birds
+T7	host_organism 299 304	birds

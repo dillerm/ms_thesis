@@ -1,0 +1,11 @@
+T1	location 0 2	UK
+T4	host_organism 107 115	chickens
+T5	location 145 159	Fife, Scotland
+T6	date 163 173	January 11
+T7	host_organism 235 240	birds
+T8	date 262 272	January 13
+T9	host_organism 282 287	birds
+T10	host_organism 391 398	poultry
+T11	host_organism 469 473	bird
+T2	influenza 9 13	H5N1
+T3	influenza 68 88	H5N1 avian influenza

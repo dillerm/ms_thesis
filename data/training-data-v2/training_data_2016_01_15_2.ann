@@ -1,0 +1,15 @@
+T1	location 0 6	France
+T3	influenza 19 23	H5N2
+T5	host_organism 146 153	poultry
+T8	location 303 309	France
+T9	host_organism 331 339	chickens
+T10	host_organism 350 355	ducks
+T11	host_organism 434 439	ducks
+T15	host_organism 560 565	ducks
+T6	location 169 186	Lafitte-Vigordane
+T12	location 451 455	Orin
+T2	influenza 13 17	H5N1
+T4	influenza 104 124	avian influenza H5N1
+T7	location 209 222	Haute-Garonne
+T13	location 474 494	Pyrenees-Atlantiques
+T14	influenza 514 534	avian influenza H5N2

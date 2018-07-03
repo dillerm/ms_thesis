@@ -1,0 +1,10 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 13 18	birds
+T3	location 22 32	Bangladesh
+T4	location 68 73	Dhaka
+T5	host_organism 87 92	crows
+T6	date 113 126	last two days
+T7	influenza 152 156	H5N1
+T8	host_organism 458 462	bird
+T9	host_organism 573 578	birds
+T10	influenza 33 41	Bird flu

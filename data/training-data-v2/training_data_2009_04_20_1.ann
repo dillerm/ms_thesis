@@ -1,0 +1,10 @@
+T1	influenza 0 4	H5N1
+T4	location 22 27	India
+T5	influenza 132 140	bird flu
+T6	location 144 149	India
+T8	influenza 204 208	H5N1
+T10	influenza 359 367	bird flu
+T3	host_organism 13 18	birds
+T2	host_organism 95 100	birds
+T7	host_organism 178 183	birds
+T9	host_organism 285 290	birds

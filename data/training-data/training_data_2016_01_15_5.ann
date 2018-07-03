@@ -1,0 +1,12 @@
+T1	location 0 7	Vietnam
+T2	influenza 9 18	HPAI H5N6
+T3	influenza 93 130	highly pathogenic H5N6 avian influenz
+T4	location 135 142	Vietnam
+T5	date 173 182	January 5
+T6	location 190 209	Quang Ngai province
+T7	host_organism 220 225	birds
+T8	location 303 319	Kon Tum province
+T9	date 323 332	January 6
+T10	host_organism 382 390	chickens
+T11	host_organism 404 409	geese
+T12	host_organism 451 456	birds

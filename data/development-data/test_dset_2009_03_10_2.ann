@@ -1,0 +1,20 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 29	Bangladesh
+T4	date 57 61	Feb.
+T5	date 62 64	14
+T6	location 89 94	Dhaka
+T7	host_organism 119 124	birds
+T8	host_organism 157 162	birds
+T9	location 239 244	Dhaka
+T10	date 282 286	Feb.
+T11	date 287 289	16
+T12	host_organism 295 300	birds
+T13	location 373 378	Dhaka
+T14	date 393 397	Feb.
+T15	date 398 400	19
+T16	host_organism 424 429	birds
+T17	date 460 470	March 2007
+T18	influenza 533 541	bird flu
+T19	influenza 768 776	bird flu
+T20	host_organism 861 868	poultry

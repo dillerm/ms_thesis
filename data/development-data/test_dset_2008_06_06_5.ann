@@ -1,0 +1,9 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 27	Indonesia
+T4	date 84 90	June 5
+T5	influenza 155 163	bird flu
+T6	host_organism 135 140	human
+T7	location 496 505	Indonesia
+T8	location 530 539	Indonesia
+T9	date 599 603	2003

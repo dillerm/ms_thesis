@@ -1,0 +1,11 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 27	Indonesia
+T4	host_organism 30 47	34-year-old woman
+T5	location 53 68	Banten province
+T6	influenza 79 92	H5N1 bird flu
+T7	date 96 102	July 7
+T8	host_organism 108 115	patient
+T9	date 138 144	July 2
+T10	date 169 175	July 4
+T11	influenza 178 182	H5N1

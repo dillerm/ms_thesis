@@ -1,0 +1,9 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 24	Nepal
+T4	influenza 83 87	H5N1
+T6	host_organism 186 194	chickens
+T7	host_organism 329 334	birds
+T8	influenza 343 352	flu virus
+T5	location 91 103	Pagretar VDC
+T9	location 107 130	Sindhupalchowk district

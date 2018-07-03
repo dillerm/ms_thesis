@@ -1,0 +1,6 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 27	Pakistan
+T4	host_organism 97 105	chickens
+T6	influenza 164 172	bird flu
+T5	location 123 133	Abbottabad

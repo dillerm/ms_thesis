@@ -1,0 +1,8 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 26	Germany
+T5	date 118 125	April 2
+T6	location 147 152	Kleve
+T7	host_organism 172 179	turkeys
+T8	host_organism 296 303	poultry
+T4	influenza 102 106	H7N7

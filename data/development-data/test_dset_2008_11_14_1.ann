@@ -1,0 +1,24 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 27	Thailand
+T4	influenza 69 73	H5N1
+T5	location 111 123	Thung Saliam
+T6	host_organism 142 150	chickens
+T7	date 163 176	November 11th
+T8	location 202 233	Sukhothai, Sawankhalok District
+T9	influenza 270 278	bird flu
+T10	location 316 325	Sukhothai
+T11	host_organism 331 336	birds
+T12	host_organism 374 382	chickens
+T13	influenza 446 454	Bird flu
+T15	host_organism 621 626	cocks
+T16	influenza 657 665	bird flu
+T17	influenza 828 832	H5N1
+T18	host_organism 871 879	chickens
+T19	location 925 936	Uthai Thani
+T20	host_organism 942 947	birds
+T21	date 963 975	November 3rd
+T22	location 1012 1020	Thailand
+T23	location 1082 1091	Sukhothai
+T24	host_organism 560 565	birds
+T14	location 516 527	Sawankhalok

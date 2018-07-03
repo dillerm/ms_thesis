@@ -1,0 +1,13 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 13 18	birds
+T3	location 22 33	South Korea
+T4	host_organism 45 48	cat
+T5	host_organism 87 90	cat
+T6	location 115 130	Mangyeong River
+T7	location 134 139	Gimje
+T8	host_organism 227 230	cat
+T9	influenza 241 261	avian influenza H5N1
+T10	location 323 334	South Korea
+T11	host_organism 372 376	cats
+T12	influenza 73 81	bird flu
+T13	date 96 105	last week

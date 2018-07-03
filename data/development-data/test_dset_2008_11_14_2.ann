@@ -1,0 +1,12 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 26	Vietnam
+T4	influenza 27 35	Bird flu
+T5	location 134 161	Nghe An, Dien Chau District
+T6	host_organism 182 187	birds
+T7	location 253 262	Dien Hong
+T8	host_organism 290 298	chickens
+T9	host_organism 303 308	ducks
+T10	host_organism 328 333	birds
+T11	influenza 359 363	H5N1
+T12	date 202 216	last two weeks

@@ -1,0 +1,11 @@
+T1	location 0 7	Bulgari
+T2	influenza 9 18	HPAI H5N1
+T3	host_organism 31 49	Delamtian pelicans
+T5	influenza 124 162	Highly pathogenic avian influenza H5N1
+T6	host_organism 188 196	pelicans
+T7	influenza 261 266	virus
+T8	host_organism 285 291	pigeon
+T9	host_organism 298 315	black-headed gull
+T10	location 328 343	Burgas province
+T4	location 93 110	Silistra province
+T11	location 114 122	Bulgaria

@@ -1,0 +1,10 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 24	Tibet
+T4	influenza 111 115	H5N1
+T5	location 129 135	Linzhi
+T7	host_organism 206 211	birds
+T8	host_organism 223 230	chicken
+T9	host_organism 235 240	geese
+T6	location 161 166	China
+T10	location 169 192	Tibet Autonomous Region

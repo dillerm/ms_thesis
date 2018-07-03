@@ -1,0 +1,9 @@
+T1	influenza 0 4	H5N1
+T3	location 22 33	New Zealand
+T4	influenza 54 58	H5N1
+T5	location 64 75	New Zealand
+T6	host_organism 121 125	kiwi
+T7	host_organism 127 133	takahe
+T8	host_organism 138 151	shore plovers
+T9	influenza 286 294	bird flu
+T2	host_organism 13 18	birds

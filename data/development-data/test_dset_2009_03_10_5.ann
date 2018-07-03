@@ -1,0 +1,16 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 27	Indonesia
+T5	location 68 74	Bekasi
+T6	date 78 85	March 1
+T7	influenza 100 115	avian influenza
+T8	host_organism 151 159	chickens
+T10	location 241 246	Depok
+T11	influenza 294 302	bird flu
+T12	location 371 378	Jakarta
+T13	influenza 527 542	avian influenza
+T14	date 546 553	January
+T15	date 558 566	February
+T4	host_organism 59 62	boy
+T9	host_organism 231 235	girl
+T16	host_organism 505 516	Indonesians

@@ -1,0 +1,14 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 18	Wild birds
+T3	location 22 27	India
+T4	host_organism 55 71	bar-headed geese
+T5	date 91 106	January 7 and 8
+T6	location 137 142	Assam
+T7	host_organism 148 153	geese
+T8	location 197 204	Siberia
+T9	influenza 262 270	bird flu
+T10	host_organism 354 359	birds
+T11	location 388 394	Bhopal
+T12	influenza 433 448	avian influenza
+T13	host_organism 577 582	birds
+T14	host_organism 626 631	birds

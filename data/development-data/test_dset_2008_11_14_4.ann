@@ -1,0 +1,22 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 27	Indonesia
+T4	influenza 28 32	H5N1
+T5	location 88 95	Bandung
+T6	influenza 247 255	bird flu
+T7	influenza 392 400	bird flu
+T8	host_organism 484 488	girl
+T9	location 494 516	Semarang, Central Java
+T10	date 527 539	November 7th
+T11	influenza 569 577	bird flu
+T12	host_organism 667 671	girl
+T13	influenza 804 812	bird flu
+T14	host_organism 978 982	girl
+T15	influenza 987 991	H5N1
+T16	influenza 1155 1163	bird flu
+T17	influenza 1193 1201	bird flu
+T18	host_organism 1412 1420	chickens
+T19	host_organism 1593 1598	human
+T20	location 1609 1618	Indonesia
+T21	location 1635 1647	Central Java
+T22	date 96 105	last week

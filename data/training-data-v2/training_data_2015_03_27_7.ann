@@ -1,0 +1,14 @@
+T1	location 0 3	USA
+T2	location 5 7	MN
+T6	host_organism 194 206	turkey flock
+T7	location 207 218	Pope County
+T12	location 490 501	Pope County
+T13	location 561 565	U.S.
+T15	host_organism 636 642	turkey
+T16	host_organism 698 703	birds
+T3	influenza 13 17	H5N2
+T4	host_organism 108 113	birds
+T5	influenza 151 177	H5N2 avian influenza virus
+T8	host_organism 352 357	birds
+T9	host_organism 404 409	birds
+T10	host_organism 586 591	birds

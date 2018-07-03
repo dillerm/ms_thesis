@@ -1,0 +1,8 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 23	Egypt
+T4	date 27 38	February 24
+T5	host_organism 90 95	child
+T6	location 101 109	Qalyubia
+T7	influenza 146 159	H5N1 bird flu
+T8	host_organism 165 168	boy

@@ -1,0 +1,24 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 27	Indonesia
+T4	host_organism 30 47	65-year-old woman
+T5	influenza 99 112	H5N1 bird flu
+T6	host_organism 118 123	woman
+T7	date 182 191	January 2
+T8	host_organism 209 217	chickens
+T9	date 266 275	January 6
+T10	host_organism 365 373	chickens
+T11	influenza 386 390	H5N1
+T12	host_organism 516 530	2-year-old boy
+T13	influenza 567 575	bird flu
+T14	location 597 612	Pekanbaru, Riau
+T15	host_organism 659 662	boy
+T16	location 830 837	Jakarta
+T17	date 916 924	December
+T18	influenza 970 974	H5N1
+T19	date 978 982	2009
+T20	location 1124 1137	South Jakarta
+T21	date 1141 1153	September 23
+T22	date 1161 1165	2005
+T23	influenza 1201 1205	H5N1
+T24	location 1209 1218	Indonesia

@@ -1,0 +1,8 @@
+T1	location 0 6	Taiwan
+T2	influenza 8 17	HPAI H5N2
+T3	influenza 94 138	highly pathogenic H5N2 avian influenza virus
+T4	location 168 174	Yunlin
+T5	location 179 194	Chiayi counties
+T6	host_organism 324 329	geese
+T7	host_organism 413 418	birds
+T8	host_organism 449 454	birds

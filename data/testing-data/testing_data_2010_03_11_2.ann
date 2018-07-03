@@ -1,0 +1,13 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 26	Myanmar
+T4	host_organism 32 40	chickens
+T5	location 54 61	Sagaing
+T6	influenza 90 103	H5N1 bird flu
+T7	host_organism 126 134	chickens
+T8	influenza 181 185	H5N1
+T9	host_organism 373 381	chickens
+T10	influenza 477 490	H5N1 bird flu
+T11	location 494 501	Myanmar
+T12	date 508 516	February
+T13	host_organism 670 678	chickens

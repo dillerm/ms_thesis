@@ -1,0 +1,7 @@
+T1	location 0 9	Indonesia
+T5	host_organism 181 189	chickens
+T6	host_organism 191 196	ducks
+T7	host_organism 202 206	pigs
+T2	influenza 16 20	H5N1
+T3	influenza 104 130	H5N1 avian influenza virus
+T4	location 134 149	Bangka Belitung

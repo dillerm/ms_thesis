@@ -1,0 +1,11 @@
+T1	influenza 0 20	H7N7 Avian Influenza
+T2	host_organism 24 31	Poultry
+T3	location 35 40	Italy
+T4	influenza 111 115	H7N7
+T6	host_organism 215 222	turkeys
+T7	host_organism 230 235	birds
+T8	influenza 263 268	virus
+T9	host_organism 275 280	birds
+T10	date 307 321	19th of August
+T11	influenza 375 383	H7 virus
+T5	location 179 186	Ferrara

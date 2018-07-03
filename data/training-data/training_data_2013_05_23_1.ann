@@ -1,0 +1,8 @@
+T1	influenza 0 9	HPAI H7N3
+T2	host_organism 13 20	Poultry
+T3	location 24 30	Mexico
+T4	influenza 77 81	H7N3
+T7	influenza 216 221	virus
+T8	host_organism 230 235	birds
+T5	location 107 122	Palmar de Bravo
+T6	location 140 146	Puebla

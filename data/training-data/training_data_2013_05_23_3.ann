@@ -1,0 +1,11 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 30	North Korea
+T4	influenza 158 162	H5N1
+T5	location 184 193	Pyongyang
+T6	host_organism 212 217	ducks
+T7	date 257 262	April
+T8	host_organism 399 404	ducks
+T9	host_organism 438 443	ducks
+T10	host_organism 462 467	ducks
+T11	host_organism 480 489	ducklings

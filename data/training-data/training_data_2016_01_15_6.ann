@@ -1,0 +1,16 @@
+T1	location 0 5	China
+T2	influenza 7 16	HPAI H5N6
+T3	host_organism 98 113	42 year-old man
+T4	location 119 137	Guangdong province
+T5	location 158 165	Ganzhou
+T6	location 169 185	Jiangxi province
+T7	influenza 191 229	highly pathogenic H5N6 avian influenza
+T8	host_organism 295 298	man
+T9	date 373 384	December 12
+T10	date 418 429	December 19
+T11	date 443 454	December 21
+T12	influenza 483 487	H5N6
+T13	host_organism 491 497	people
+T14	location 520 525	China
+T15	date 532 536	2014
+T16	host_organism 344 347	man

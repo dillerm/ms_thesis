@@ -1,0 +1,11 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 14	Humans
+T3	location 18 23	Egypt
+T5	influenza 69 73	H5N1
+T6	host_organism 126 129	boy
+T7	location 145 150	Fayum
+T8	location 293 298	Cairo
+T9	date 302 314	November 8th
+T10	host_organism 384 387	boy
+T11	host_organism 425 432	poultry
+T4	host_organism 42 45	boy

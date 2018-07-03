@@ -1,0 +1,15 @@
+T1	location 0 5	China
+T2	influenza 7 16	LPAI H7N9
+T3	date 47 58	February 20
+T4	host_organism 75 80	human
+T5	influenza 90 94	H7N9
+T6	location 98 103	China
+T7	date 112 122	January 19
+T8	date 127 138	February 14
+T9	location 155 160	China
+T10	location 258 265	Jiangsu
+T11	location 272 280	Zhejiang
+T12	location 291 300	Guangdong
+T13	host_organism 363 371	patients
+T14	host_organism 418 425	poultry
+T15	host_organism 462 469	poultry

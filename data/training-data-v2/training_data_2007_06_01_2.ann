@@ -1,0 +1,12 @@
+T1	influenza 0 4	H5N1
+T2	location 22 28	Russia
+T3	influenza 69 87	H5 avian influenza
+T4	location 158 164	Russia
+T5	influenza 181 183	H5
+T6	influenza 187 189	H7
+T7	location 284 296	Tomsk Region
+T11	influenza 327 350	avian influenza viruses
+T13	host_organism 463 468	birds
+T12	host_organism 13 18	Birds
+T10	host_organism 139 144	birds
+T8	host_organism 241 246	birds

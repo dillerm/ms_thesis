@@ -1,0 +1,11 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 26	Myanmar
+T4	date 60 71	February 19
+T5	location 79 92	Yangon region
+T6	host_organism 109 117	chickens
+T7	host_organism 124 129	ducks
+T8	host_organism 155 160	birds
+T9	influenza 261 274	H5N1 bird flu
+T10	host_organism 371 379	chickens
+T11	influenza 42 50	bird flu

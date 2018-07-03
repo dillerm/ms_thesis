@@ -1,0 +1,17 @@
+T1	location 0 3	USA
+T2	host_organism 7 10	dog
+T3	location 14 22	New York
+T4	location 43 56	United States
+T5	influenza 87 104	H1N1 (2009) virus
+T6	host_organism 110 138	13-year-old mixed-breed male
+T7	host_organism 337 341	pets
+T8	host_organism 345 351	humans
+T9	host_organism 437 441	pets
+T10	influenza 452 463	flu viruses
+T11	host_organism 465 469	Pigs
+T12	location 486 500	North Carolina
+T13	influenza 535 552	H1N1 (2009) virus
+T14	host_organism 757 761	pigs
+T15	host_organism 983 989	humans
+T16	influenza 1117 1134	influenza viruses
+T17	host_organism 1057 1062	swine

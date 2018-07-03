@@ -1,0 +1,11 @@
+T1	influenza 0 4	H5N1
+T2	host_organism 8 15	Poultry
+T3	location 19 25	Mexico
+T4	date 151 163	September 12
+T5	influenza 209 235	H7N3 avian influenza virus
+T6	host_organism 278 283	birds
+T7	date 306 310	June
+T8	date 315 321	August
+T10	host_organism 536 541	birds
+T9	location 375 384	Los Altos
+T11	location 408 415	Jalisco

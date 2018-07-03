@@ -1,0 +1,19 @@
+T1	date 125 129	Feb.
+T2	date 130 131	6
+T3	influenza 0 4	H5N1
+T4	host_organism 8 15	Poultry
+T5	location 19 29	Bangladesh
+T6	location 47 57	Chittagong
+T7	influenza 102 106	H5N1
+T8	host_organism 115 120	crows
+T9	host_organism 216 221	crows
+T10	location 277 285	Bagerhat
+T11	location 290 297	Kushtia
+T12	host_organism 310 315	birds
+T13	location 349 364	Saralia village
+T14	location 393 401	Bagerhat
+T15	host_organism 444 452	chickens
+T16	date 479 483	Feb.
+T17	date 484 485	3
+T18	influenza 235 243	Bird flu
+T19	influenza 425 433	bird flu

@@ -1,0 +1,32 @@
+T1	location 0 5	China
+T2	influenza 7 16	LPAI H7N9
+T3	host_organism 87 92	human
+T4	influenza 102 122	H7N9 avian influenza
+T5	date 168 185	November 24, 2015
+T6	date 190 207	December 24, 2015
+T7	location 236 253	Zhejiang province
+T8	host_organism 266 282	65 year-old male
+T9	host_organism 284 300	53 year-old male
+T10	host_organism 302 320	58 year-old female
+T11	host_organism 326 344	29 year-old female
+T12	location 381 398	Zhejiang province
+T13	host_organism 401 419	51 year-old female
+T14	date 428 445	December 25, 2015
+T15	host_organism 452 468	77 year-old male
+T16	date 477 494	December 11, 2015
+T17	location 500 516	Jiangsu province
+T18	influenza 527 547	H7N9 avian influenza
+T19	host_organism 567 585	41 year-old female
+T20	host_organism 625 643	52 year-old female
+T21	influenza 721 725	H7N9
+T22	location 747 752	China
+T23	date 759 763	2013
+T24	host_organism 767 774	patient
+T25	influenza 783 803	H7N9 avian influenza
+T26	date 807 816	January 8
+T27	location 820 852	Shaoxing City, Zhejiang Province
+T28	date 965 975	January 11
+T29	influenza 1051 1071	H7N9 avian influenza
+T30	location 1109 1126	Zhejiang province
+T32	influenza 1248 1258	H7N9 cases
+T31	location 1135 1141	Ningbo

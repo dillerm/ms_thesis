@@ -1,0 +1,17 @@
+T1	location 0 5	China
+T5	location 158 165	Ganzhou
+T8	host_organism 295 298	man
+T9	date 373 384	December 12
+T10	date 418 429	December 19
+T11	date 443 454	December 21
+T12	influenza 483 487	H5N6
+T13	host_organism 491 497	people
+T14	location 520 525	China
+T15	date 532 536	2014
+T16	host_organism 344 347	man
+T2	influenza 12 16	H5N6
+T3	host_organism 110 113	man
+T4	location 119 128	Guangdong
+T6	location 169 176	Jiangxi
+T7	influenza 209 229	H5N6 avian influenza
+T17	date 573 587	last few weeks

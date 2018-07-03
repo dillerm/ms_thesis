@@ -1,0 +1,14 @@
+T1	location 0 3	USA
+T2	influenza 5 14	HPAI H5N2
+T3	host_organism 38 45	mallard
+T4	influenza 108 141	highly pathogenic avian influenza
+T5	influenza 209 224	HPAI H5N2 virus
+T6	date 271 275	2014
+T7	date 276 280	2015
+T8	host_organism 286 290	bird
+T9	host_organism 312 321	waterfowl
+T10	location 367 384	Fairbanks, Alaska
+T11	influenza 422 432	H5N2 virus
+T12	date 439 448	June 2015
+T13	influenza 473 485	HPAI viruses
+T14	location 508 514	Alaska

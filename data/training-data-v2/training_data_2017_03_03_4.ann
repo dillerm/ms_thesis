@@ -1,0 +1,11 @@
+T1	location 0 11	South Korea
+T4	date 97 108	February 22
+T5	location 141 177	Haenam county, South Jeolla province
+T7	host_organism 214 219	ducks
+T8	influenza 254 269	avian influenza
+T9	host_organism 279 286	poultry
+T10	influenza 327 338	H5N6 strain
+T11	influenza 368 372	H5N8
+T6	location 194 205	South Korea
+T2	influenza 18 22	H5N8
+T3	influenza 60 80	H5N8 avian influenza

@@ -1,0 +1,20 @@
+T1	location 0 7	Nigeria
+T4	location 99 106	Nigeria
+T5	date 178 187	January 2
+T6	location 191 207	Yenagoa, Bayelsa
+T7	host_organism 225 230	birds
+T8	location 340 344	Kano
+T9	location 349 356	Plateau
+T10	location 372 397	Federal Capital Territory
+T11	date 401 410	January 8
+T13	host_organism 614 619	birds
+T15	location 752 777	Federal Capital Territory
+T16	date 781 790	January 1
+T18	host_organism 995 1000	birds
+T14	location 720 728	Nasarawa
+T19	location 730 734	Kano
+T20	location 736 743	Plateau
+T2	influenza 14 18	H5N1
+T3	influenza 56 76	H5N1 avian influenza
+T12	influenza 573 593	H5N1 avian influenza
+T17	influenza 954 974	H5N1 avian influenza
