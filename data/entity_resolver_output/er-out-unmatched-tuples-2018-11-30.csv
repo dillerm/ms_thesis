@@ -1,0 +1,131 @@
+index,report_id,epidemic_date,flu_pathogen,location,country,host
+11,2013_07_18_1,2013-07-18,H5N1 subtype,Karnataka (admin level 1),India,Aves
+14,2013_07_05_4,2013-07-05,H7N9 subtype,Sechelt Indian Government District (admin level 2); Sunshine Coast Regional District (admin level 1),Canada,Homo sapiens
+23,2017_02_07_11,2017-02-07,H5N8 subtype,Struga Municipality (admin level 1),Macedonia,Galliformes; Aves
+24,2015_06_19_3,2015-06-19,H5N1 subtype,Amol County (admin level 2); Mazandaran Province (admin level 1),Iran,Aves; Galliformes
+34,2016_10_03_1,2016-10-03,H5N5 subtype,Magellan and the Chilean Antarctic Region (admin level 1),Chile,Metazoa; Aves
+38,2007_08_06_3,2007-07-24,H5N1 subtype,Yangon Region (admin level 1),Myanmar,Galliformes; Gallus gallus
+41,2012_06_28_2,2012-06-13,H7N3 subtype,Jalisco (admin level 1),Mexico,Gallus gallus; Aves; Galliformes; Homo sapiens
+55,2008_03_27_5,2008-03-27,H5N1 subtype,Luang Namtha Province (admin level 1),Laos,Gallus gallus; Aves; Anas
+56,2009_11_20_1,2009-11-05,H5N3 subtype,Prague (admin level 1),Czech Republic,Aves
+90,2016_09_09_4,2016-09-09,H5N8 subtype,"Ojeong-dong (baranggay sa Habagatang Korea, Gyeonggi-do) (admin level 2); Bucheon (admin level 1)",South Korea,Gallus gallus; Anas
+104,2008_08_01_5,2008-08-01,H5N1 subtype,Thailand (country),Thailand,Homo sapiens
+111,2007_12_18_5,2007-12-10,H5N1 subtype,Poland (country),Poland,Galliformes; Aves
+142,2008_11_14_4,2008-11-08,H5N1 subtype,Egypt (country),Egypt,Homo sapiens
+201,2017_03_22_4,2017-03-22,H5N1 subtype,Malaysia (country),Malaysia,Gallus gallus; Galliformes; Aves
+219,2016_12_06_10,2016-11-05,H5N8 subtype,Burundi (country),Burundi,Aves
+240,2015_01_22_1,2014-12-29,H5N1 subtype,United States of America (country),United States of America,Galliformes; Aves
+241,2016_02_08_3,2016-02-08,H5N2 subtype,South Africa (country),South Africa,Aves
+268,2008_06_13_2,2008-06-13,H5N1 subtype,North Korea (country),North Korea,Galliformes; Gallus gallus
+355,2013_11_26_1,2013-11-26,Influenza A virus,Germany (country),Germany,Aves; Homo sapiens
+376,2014_04_21_2,2014-04-21,Influenza A virus,Japan (country),Japan,Gallus gallus; Aves
+388,2007_11_30_3,2007-11-04,H5N1 subtype,Myanmar (country),Myanmar,Galliformes; Aves; Gallus gallus
+421,2009_06_05_1,2009-06-05,H1N1 subtype,United States of America (country),United States of America,Aves; Sus scrofa
+433,2017_02_01_7,2017-02-01,H5N8 subtype,Czech Republic (country),Czech Republic,Aves
+443,2011_01_14_6,2011-01-14,H1N1 subtype,United States of America (country),United States of America,Aves; Galliformes; Gallus gallus
+444,2014_12_23_4,2014-12-13,H5N1 subtype,Quang Ngai (admin level 2); Quảng Ngãi (admin level 1),Vietnam,Aves
+457,2015_02_23_8,2015-02-02,H9N2 subtype,Egypt (country),Egypt,Galliformes; Homo sapiens
+485,2017_03_03_4,2017-02-22,H5N8 subtype,South Korea (country),South Korea,Anas; Galliformes
+505,2017_02_01_6,2017-02-01,H5N1 subtype,Bangladesh (country),Bangladesh,Aves
+544,2017_08_25_4,2017-08-16,H9N2 subtype,Guangdong (admin level 1),People's Republic of China,Homo sapiens
+545,2013_04_30_5,2013-04-24,H7N9 subtype,Taiwan (country),Taiwan,Homo sapiens; Galliformes
+560,2008_04_30_5,2008-04-13,H5N1 subtype,Egypt (country),Egypt,Homo sapiens; Galliformes
+563,2009_07_10_1,2009-07-10,H1N1 subtype,Canada (country),Canada,Sus scrofa
+582,2012_01_06_7,2012-01-06,H5N1 subtype,Zimbabwe (country),Zimbabwe,Homo sapiens
+655,2009_08_03_3,2009-07-24,H1N1 subtype,Australia (country),Australia,Sus scrofa; Galliformes
+670,2007_11_01_1,2007-11-01,H5N1 subtype,Florida Department (admin level 1),Uruguay,Aves; Homo sapiens
+677,2014_04_29_4,2014-04-22,H7N9 subtype,"Chekiang Province, Republic of China (admin level 1)",Taiwan,Homo sapiens
+705,2015_10_30_2,2015-10-30,H5N2 subtype,South Korea (country),South Korea,Anas
+712,2016_05_03_3,2016-05-03,H5N1 subtype,Vietnam (country),Vietnam,Aves
+759,2015_08_07_4,2015-08-07,Influenza A virus,Mexico (country),Mexico,Aves
+762,2016_02_22_1,2016-02-01,H5N1 subtype,Bangladesh (country),Bangladesh,Corvus
+805,2016_10_17_4,2016-10-17,H5N1 subtype,Indonesia (country),Indonesia,Gallus gallus; Sus scrofa; Anas
+830,2016_10_17_5,2016-10-17,H5N1 subtype,Laos (country),Laos,Aves
+841,2017_02_01_9,2017-02-01,H5N8 subtype,Italy (country),Italy,Aves
+857,2008_01_18_1,2008-01-18,H5N1 subtype,Romania (country),Romania,Aves
+877,2014_12_29_1,2014-12-29,H5N8 subtype,Russia (country),Russia,Gallus gallus; Galliformes; Aves
+879,2006_12_01_3,2006-12-01,H5N1 subtype,Egypt (country),Egypt,Aves
+880,2015_08_18_2,2015-08-18,H5N2 subtype,Mexico (country),Mexico,Aves; Galliformes
+896,2007_09_14_1,2007-09-09,H5N1 subtype,North Dakota (admin level 1),United States of America,Anas
+1009,2017_06_27_5,2017-06-23,H5N2 subtype,Taiwan (country),Taiwan,Aves
+1012,2016_12_01_1,2016-11-12,H5N8 subtype,Croatia (country),Croatia,Galliformes; Gallus gallus
+1013,2014_04_29_2,2014-04-22,H5N8 subtype,Japan (country),Japan,Gallus gallus; Homo sapiens; Aves
+1093,2015_08_07_2,2015-08-07,H5N1 subtype,Indonesia (country),Indonesia,Aves; Gallus gallus; Anas
+1095,2014_12_29_6,2014-12-26,H7N9 subtype,Taiwan (country),Taiwan,Aves; Anas
+1139,2015_07_20_5,2015-07-20,H5N2 subtype,Taiwan (country),Taiwan,Aves
+1147,2014_12_19_2,2014-12-14,Influenza A virus,South Korea (country),South Korea,Gallus gallus
+1165,2009_03_17_1,2009-03-15,H5N1 subtype,Neubrandenburg District (admin level 1),East Germany,Aves; Anser; Anas
+1166,2009_03_17_1,2009-01-11,H5N1 subtype,Germany (country),Germany,Anser; Anas; Passeridae; Columbidae
+1194,2015_02_06_8,2015-02-06,Influenza A virus,United Kingdom (country),United Kingdom,Aves
+1210,2012_08_20_4,2012-08-09,H3N2 subtype,United States of America (country),United States of America,Homo sapiens; Sus scrofa
+1251,2015_01_23_7,2015-01-23,H5N1 subtype,Jenin Governorate (admin level 2); West Bank (admin level 1),State of Palestine,Aves
+1318,2009_12_14_1,2009-12-03,H1N1 subtype,Kabupaten Karawang (admin level 2); West Java Province (admin level 1),Indonesia,Homo sapiens
+1327,2008_08_01_1,2008-08-01,H5N1 subtype,South Korea (country),South Korea,Aves
+1333,2006_12_15_2,2006-12-9,H5N1 subtype,South Korea (country),South Korea,Galliformes; Aves
+1380,2012_02_02_3,2012-12-30,H5N1 subtype,India (country),India,Galliformes; Aves
+1382,2015_01_23_5,2015-01-23,H5N8 subtype,Myanmar (country),Myanmar,Aves
+1407,2017_01_10_2,2017-01-10,H5N8 subtype,Ireland (country),Ireland,Galliformes; Homo sapiens
+1437,2016_01_22_3,2016-01-22,H5N1 subtype,India (country),India,Gallus gallus; Anas; Aves
+1476,2014_01_09_3,2013-12-24,H7N7 subtype,South Africa (country),South Africa,Aves; Galliformes
+1477,2010_06_07_2,2010-06-07,H5N1 subtype,Ukraine (country),Ukraine,Galliformes; Aves
+1488,2013_02_11_1,2013-02-11,H5N1 subtype,Thailand (country),Thailand,Aves
+1503,2013_04_12_6,2013-04-04,H5N1 subtype,Dong Thap Province (admin level 1),Vietnam,Gallus gallus; Homo sapiens
+1561,2011_07_11_3,2011-07-11,Influenza A virus,South Africa (country),South Africa,Aves; Homo sapiens
+1579,2015_06_05_4,2015-06-05,Influenza A virus,Turkey (country),Turkey,Gallus gallus; Aves
+1610,2009_06_01_1,2009-05-22,H5N1 subtype,Arkhangai Province (admin level 1),Mongolia,Aves
+1611,2016_02_08_4,2016-02-08,H7N3 subtype,South Africa (country),South Africa,Aves; Anas
+1620,2013_05_30_2,2013-05-30,H7N1 subtype,Catalonia (admin level 1),Spain,Galliformes
+1623,2017_08_25_3,2017-08-22,H5N8 subtype,South Africa (country),South Africa,Aves; Gallus gallus
+1634,2015_05_15_1,2015-05-15,H7N3 subtype,Chiapas (admin level 1),Mexico,Turdidae
+1650,2017_02_07_7,2017-01-31,H5N1 subtype,Cambodia (country),Cambodia,Gallus gallus
+1722,2010_01_20_6,2010-01-15,H3N2 subtype,Iowa (admin level 1),United States of America,Homo sapiens
+1727,2016_12_29_1,2016-11-23,H5N8 subtype,South Korea (country),South Korea,Aves; Chroicocephalus ridibundus; Anas
+1744,2014_01_09_1,2013-12-24,H5N2 subtype,People's Republic of China (country),People's Republic of China,Gallus gallus; Galliformes
+1762,2011_06_20_3,2011-06-04,Influenza A virus,Germany (country),Germany,Aves
+1814,2006_12_07_3,2006-12-07,H5N1 subtype,Quebec (admin level 1),Canada,Homo sapiens
+1827,2014_12_09_2,2014-12-09,H5N8 subtype,Netherlands (country),Netherlands,Galliformes; Anas; Aves
+1832,2014_04_29_1,2014-04-22,H5N1 subtype,North Korea (country),North Korea,Aves
+1840,2017_02_07_9,2017-01-26,H5N5 subtype,Germany (country),Germany,Galliformes
+1841,2011_06_20_2,2011-06-16,H5N1 subtype,Apriltsi Municipality (admin level 2); Lovech Province (admin level 1),Bulgaria,Galliformes; Homo sapiens
+1908,2015_04_03_6,2015-03-27,Influenza A virus,Netherlands (country),Netherlands,Aves
+1935,2010_01_12_1,2009-12-29,H5N1 subtype,Hong Kong (admin level 1),People's Republic of China,Copsychus saularis; Aves; Homo sapiens
+1964,2016_12_29_12,2016-12-15,Influenza A virus,Jerusalem District (admin level 1),Israel,Gallus gallus
+1972,2015_01_23_8,2015-01-23,H5N3 subtype,Taiwan (country),Taiwan,Aves; Galliformes
+1994,2016_05_06_4,2016-05-06,H5N8 subtype,Taiwan (country),Taiwan,Aves; Gallus gallus
+1995,2015_03_20_5,2015-03-20,H7N7 subtype,Netherlands (country),Netherlands,Gallus gallus; Galliformes; Anser
+1997,2016_07_29_1,2016-07-29,H5N8 subtype,United States of America (country),United States of America,Aves; Galliformes; Anas
+2004,2009_02_06_7,2009-02-06,H5N2 subtype,British Columbia (admin level 1),Canada,Galliformes
+2038,2012_04_12_3,2012-03-29,H5N2 subtype,Ireland (country),Ireland,Aves
+2056,2007_09_28_3,2007-09-28,H5N1 subtype,Bangladesh (country),Bangladesh,Galliformes; Gallus gallus
+2057,2015_10_28_2,2015-10-28,Influenza A virus,Gaza Strip (admin level 1),State of Palestine,Aves
+2064,2016_12_13_11,2016-11-24,Influenza A virus,Tunisia (country),Tunisia,Aves
+2065,2010_12_03_6,2010-11-10,H5N2 subtype,Germany (country),Germany,Aves; Homo sapiens
+2081,2015_03_06_4,2015-03-06,H5N2 subtype,South Africa (country),South Africa,Aves
+2096,2017_06_06_7,2017-05-17,H5N8 subtype,Zimbabwe (country),Zimbabwe,Aves
+2097,2009_01_30_1,2009-01-30,H5N1 subtype,Phitsanulok (admin level 1),Thailand,Aves
+2109,2017_05_12_4,2017-04-04,H7N3 subtype,Mexico (country),Mexico,Aves
+2160,2014_01_22_5,2014-01-22,Influenza A virus,Can Tho (admin level 1),Vietnam,Galliformes; Homo sapiens
+2169,2016_05_20_4,2016-05-20,H7N7 subtype,Italy (country),Italy,Aves
+2184,2016_07_12_4,2016-07-12,H5N6 subtype,Vietnam (country),Vietnam,Aves
+2188,2017_03_08_14,2017-03-08,H5N2 subtype,United States of America (country),United States of America,Aves
+2199,2016_01_08_2,2016-01-08,H5N1 subtype,France (country),France,Galliformes; Aves
+2205,2015_08_24_1,2015-08-24,H5N6 subtype,People's Republic of China (country),People's Republic of China,Aves
+2231,2017_01_23_6,2017-01-23,Influenza A virus,North Korea (country),North Korea,Aves; Homo sapiens
+2253,2016_12_13_14,2016-12-13,H5N8 subtype,Iran (country),Iran,Aves; Galliformes
+2254,2015_03_20_2,2015-03-20,H5N8 subtype,Sweden (country),Sweden,Galliformes
+2270,2008_11_07_2,2008-11-07,H5N1 subtype,Tombali Region (admin level 1),Guinea-Bissau,Gallus gallus
+2278,2017_03_22_14,2017-03-22,H5N6 subtype,Vietnam (country),Vietnam,Gallus gallus
+2287,2017_09_28_1,2017-08-25,H5N8 subtype,Canton of Fribourg (admin level 1),Switzerland,Aves; Homo sapiens
+2288,2015_01_30_5,2015-01-30,H7N9 subtype,Canada (country),Canada,Homo sapiens; Gallus gallus
+2299,2007_04_16_2,2007-04-16,H5N1 subtype,Iran (country),Iran,Gallus gallus; Aves
+2300,2017_03_22_8,2017-03-22,H5N6 subtype,South Korea (country),South Korea,Aves
+2307,2016_03_21_4,2016-03-21,H5N1 subtype,Burkina Faso (country),Burkina Faso,Aves
+2348,2009_01_14_4,2008-12-26,H5N1 subtype,Taiwan (country),Taiwan,Gallus gallus; Aves
+2399,2014_11_03_4,2014-10-24,H5N1 subtype,Lhasa (admin level 2); Tibet (admin level 1),People's Republic of China,Gallus gallus; Anas
+2435,2015_04_03_3,2015-04-02,H5N1 subtype,United States of America (country),United States of America,Aves; Galliformes
+2463,2007_04_16_1,2007-04-16,H5N1 subtype,Japan (country),Japan,Aves; Aves
+2479,2009_03_02_6,2009-03-02,H5N1 subtype,Phongsaly Province (admin level 1),Laos,Galliformes; Homo sapiens
+2480,2011_08_29_1,2011-08-19,H5N1 subtype,Cambodia (country),Cambodia,Homo sapiens; Galliformes
+2492,2017_03_08_5,2017-02-28,H5N8 subtype,United States of America (country),United States of America,Anas; Phasianidae
+2499,2017_03_08_12,2017-03-08,Influenza A virus,arrondissement of Montélimar (admin level 2); Drôme (admin level 1),France,Aves; Homo sapiens
+2507,2016_07_12_2,2016-07-04,H5N2 subtype,Canada (country),Canada,Aves
