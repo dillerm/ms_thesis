@@ -38,7 +38,7 @@ conda-verify==3.1.0
 configobj==5.0.6
 constantly==15.1.0
 contextlib2==0.5.5
-cryptography==41.0.6
+cryptography==42.0.2
 cx-Oracle==6.2.1
 cycler==0.10.0
 Cython==0.28.5
